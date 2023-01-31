@@ -18,9 +18,11 @@ Er zijn twee nieuwe plugins! De Notificaties API plugin maakt het mogelijk om va
 
 Voor beheerders is het nu mogelijk om via de admin-schermen de kolommen van een zaakdossier in te stellen. Dit kon voorheen alleen in een configuratie-file. De beheerder kan de lijst samenstellen uit alle eigenschappen die in het Zaakdetail Object zijn opgenomen, aangevuld met enkele altijd beschikbare eigenschappen zoals de startdatum.&#x20;
 
+{% embed url="https://vimeo.com/794552794" %}
+
 **Plant-een-boom-knop**
 
-Onder de log-uitknop is een knop toegevoegd waarmee je een verzoek kan sturen een boom te planten om de CO2 uitstoot voor de installatie te compenseren. Eén per persoon :-).&#x20;
+Vanuit een persoonlijk initiatief, onder de log-uitknop is een knop toegevoegd waarmee je een verzoek kan sturen een boom te planten om de CO2 uitstoot voor de installatie te compenseren. Eén per persoon :-).&#x20;
 
 **GZAC editie standaard plugins**
 
