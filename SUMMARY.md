@@ -11,7 +11,8 @@
 ## Product management
 
 * [Releases](product-management/releases.md)
-* [Product roadmap](product-management/product-roadmap.md)
+* [Product roadmap](product-management/product-roadmap/README.md)
+  * [Stuurgroep](product-management/product-roadmap/stuurgroep.md)
 * [Impressies](product-management/impressies.md)
 * [Plugins](product-management/plugins.md)
 
