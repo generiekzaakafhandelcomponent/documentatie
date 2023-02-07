@@ -10,6 +10,7 @@
 
 ## Product management
 
+* [Basisprocessen](product-management/basisprocessen.md)
 * [Releases](product-management/releases.md)
 * [Product roadmap](product-management/product-roadmap/README.md)
   * [Stuurgroep](product-management/product-roadmap/stuurgroep.md)
