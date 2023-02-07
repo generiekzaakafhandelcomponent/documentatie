@@ -10,12 +10,12 @@
 
 ## Product management
 
-* [Basisprocessen](product-management/basisprocessen.md)
 * [Releases](product-management/releases.md)
 * [Product roadmap](product-management/product-roadmap/README.md)
   * [Stuurgroep](product-management/product-roadmap/stuurgroep.md)
 * [Impressies](product-management/impressies.md)
 * [Plugins](product-management/plugins.md)
+* [Basisprocessen](product-management/basisprocessen.md)
 
 ## Aan de slag met GZAC
 
