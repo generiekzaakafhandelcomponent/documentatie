@@ -17,6 +17,10 @@
 * [Plugins](product-management/plugins.md)
 * [Basisprocessen](product-management/basisprocessen.md)
 
-## Aan de slag met GZAC
+***
 
-* [Starten](aan-de-slag-met-gzac/starten.md)
+* [Documentatie](https://docs.valtimo.nl/getting-started/first-dive/start-as-docker-containers#gzac)
+
+## Kennisbank
+
+* [Scenario's](kennisbank/scenarios.md)
