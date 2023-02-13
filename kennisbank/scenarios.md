@@ -10,6 +10,6 @@ Het **adopteren** van basisprocessen levert snel resultaat. Door gebruik te make
 
 Het vrij **modelleren** van zaakafhandelprocessen in BPMN biedt grote vrijheid. Via configuratie in BPMN (proces), DMN (besluit), Formio (formulieren), JSON (objecten) en instellingen via de UI (plugins, zaaktypes) kunnen complexe processen worden gebouwd in een korte doorlooptijd. Dit wordt aangevuld met code in frontend en backend voor wensen die niet met configuratie in te vullen zijn, zoals unit testing, het koppelen van events in processen, het systeemkoppelingen of maatwerk validaties.&#x20;
 
-Het platform kan tot slot ook worden ingezet voor het **bouwen** van domeinspecifieke oplossingen. Daar waar voorheen maatwerkapplicaties werden gebouwd, wordt nu snelle start gemaakt door gebruik te maken van het GZAC fundament en de beschikbare plugins en bouwstenen. \
+Het platform kan tot slot ook worden ingezet voor het **bouwen** van domeinspecifieke oplossingen. Daar waar voorheen maatwerkapplicaties werden gebouwd, wordt nu een snelle start gemaakt door gebruik te maken van het GZAC fundament en de beschikbare plugins en bouwstenen. \
 \
-De overgangen tussen adopteren, modelleren en bouwen verlopen gradueel. De keuze heeft invloed op de flexibiliteit, snelheid in oplevering, complexiteit van beheer en de implementatie- en onderhoudskosten.&#x20;
+De overgang tussen adopteren, modelleren en bouwen verloopt gradueel. De keuze heeft invloed op de flexibiliteit, snelheid in oplevering, complexiteit van beheer en de implementatie- en onderhoudskosten.&#x20;
