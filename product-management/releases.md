@@ -1,5 +1,19 @@
 # Releases
 
+### GZAC Valtimo v10.3
+
+24 februari 2023, release 10.3 is beschikbaar voor download. Nieuw in deze release:&#x20;
+
+**Zoekopdrachten delen met collega's**
+
+Zoekopdrachten kunnen nu worden gebookmarkt en worden doorgestuurd naar collega's, indien ze de juiste rechten hebben tot het Zaakdossier.&#x20;
+
+**Ondersteuning voor selectielijsten in zoek**
+
+In de configuratie van zoekvelden is nu de mogelijkheid om keuzelijsten te maken.&#x20;
+
+{% embed url="https://vimeo.com/801879653" %}
+
 ### GZAC Valtimo v10.2
 
 30 januari 2023_._ Release 10.2 is beschikbaar! Nieuw in deze tweede release van 2023:
