@@ -14,6 +14,8 @@ In de configuratie van zoekvelden is nu de mogelijkheid om keuzelijsten te maken
 
 {% embed url="https://vimeo.com/801879653" %}
 
+**De lijst van bug-fixes, beveilingsverbeteringen en kleinere features** is te vinden op [https://docs.valtimo.nl/release-notes/10.x.x/10.3.0-rc/valtimo-backend-libraries](https://docs.valtimo.nl/release-notes/10.x.x/10.3.0-rc/valtimo-backend-libraries) .&#x20;
+
 ### GZAC Valtimo v10.2
 
 30 januari 2023_._ Release 10.2 is beschikbaar! Nieuw in deze tweede release van 2023:
