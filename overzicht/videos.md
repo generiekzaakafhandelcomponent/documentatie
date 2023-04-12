@@ -4,7 +4,7 @@ In het najaar van 2021 is de eerste GZAC gebruikersdag gehouden Pakhuis de Zwijg
 
 {% embed url="https://vimeo.com/646159298" %}
 
-****
+
 
 **Amsterdam Wonen - overzicht in 3 minuten**
 
