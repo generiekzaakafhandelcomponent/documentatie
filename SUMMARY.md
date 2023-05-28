@@ -23,4 +23,8 @@
 
 ## Kennisbank
 
-* [Scenario's](kennisbank/scenarios.md)
+* [Infrastructuur](kennisbank/infrastructuur.md)
+* [Adopteren vs bouwen](kennisbank/adopteren-vs-bouwen.md)
+* [Werken met componenten](kennisbank/werken-met-componenten/README.md)
+  * [Communicatie met portalen](kennisbank/werken-met-componenten/communicatie-met-portalen.md)
+  * [Integratiepatronen](kennisbank/werken-met-componenten/integratiepatronen.md)

@@ -1,10 +1,14 @@
-# Scenario's
+# Adopteren vs bouwen
 
 GZAC staat voor 'generiek zaakafhandelcomponent' - bruikbaar voor verschillende soorten processen, onafhankelijk van een specifiek domein. De afhandeling van zaken wordt gestuurd door processen gemodelleerd in [BPMN](https://www.bpmn.org/) 2.0. &#x20;
 
-GZAC bevindt zich tussen de standaard 'commercial off the shelf' applicatie en de maatwerk applicatie.&#x20;
+#### Wanneer GZAC inzetten?
+
+GZAC bevindt zich tussen de standaard 'commercial off the shelf' applicatie aan de ene kant en en de maatwerk applicatie aan de andere kant. &#x20;
 
 <figure><img src="../.gitbook/assets/scenarios.png" alt=""><figcaption></figcaption></figure>
+
+Het platform biedt drie mogelijkheden.&#x20;
 
 Het **adopteren** van basisprocessen levert snel resultaat. Door gebruik te maken van een zaakafhandelproces dat door andere gebruikers is gedeeld wordt snel resultaat behaald. Locale aanpassingen zijn altijd nodig: om te passen op de locale infrastructuur, de eigen rollen en gebruikers, huisstijl, ZGW datalaag en omliggende diensten. Het aantal [basisprocessen ](https://github.com/generiekzaakafhandelcomponent/Basisprocessen/tree/main/blueprints)is nog beperkt.&#x20;
 
