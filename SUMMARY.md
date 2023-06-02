@@ -16,6 +16,7 @@
 * [Impressies](product-management/impressies.md)
 * [Plugins](product-management/plugins.md)
 * [Basisprocessen](product-management/basisprocessen.md)
+* [Bouwblokken](product-management/bouwblokken.md)
 
 ***
 
