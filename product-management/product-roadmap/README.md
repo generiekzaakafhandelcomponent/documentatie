@@ -15,7 +15,7 @@ Voor 2023 zijn als hoofdonderwerpen benoemd:&#x20;
 * Performance optimalisatie van de ZGW API's. Kruisbevragingen over meerdere ZGW API's zijn niet snel genoeg. Hier zal een oplossing voor worden ontworpen en geimplementeerd. Indien dit generiek op laag 2 is, zal dit buiten scope van GZAC plaatsvinden.&#x20;
 * Logging - zowel binnen GZAC als een aansluiting op een generieke voorziening, en zowel voor technisch beheerders als voor audit-doeleinden.&#x20;
 
-_Update juni 2023: de hoofdonderwerpen zijn herijkt en blijven onveranderd. Er is gesproken over het het thema 'massa vervanging'. Er is behoefte om grotere hoeveelheden (honderden) zaaktypes snel te kunnen automatiseren. Dit thema is een kandidaat voor 2024._&#x20;
+_Update juni 2023: de hoofdonderwerpen zijn herijkt en blijven onveranderd. Er is gesproken over het het thema 'bulkvervanging'. Er is behoefte om grotere hoeveelheden (honderden) zaaktypes snel te kunnen implementeren. Dit thema is een kandidaat voor 2024._&#x20;
 
 ### Roadmap
 
