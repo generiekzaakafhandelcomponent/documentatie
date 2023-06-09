@@ -12,7 +12,7 @@ Met GZAC krijg je een grote doos aan procesfunctionaliteiten voor Zaakgericht We
 
 Deze site is bedoeld voor business analisten, productmanagers, beleidsmakers en architecten.&#x20;
 
-## Waar begin ik??
+## Waar begin ik?
 
 * Wil je GZAC in actie zien? Bekijk de [video](overzicht/videos.md) waarin de gemeente Amsterdam aanvragen voor tijdelijke verhuurvergunningen afhandelt.&#x20;
 * Wil je meer weten over de architectuur? GZAC volgt de [Haagse referentie architectuur](https://referentie-common-ground-dh.readthedocs.io/en/latest/index.html). Een uitleg vind je hier.&#x20;
