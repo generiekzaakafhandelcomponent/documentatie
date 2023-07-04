@@ -30,3 +30,4 @@
 * [Werken met componenten](kennisbank/werken-met-componenten/README.md)
   * [Communicatie met portalen](kennisbank/werken-met-componenten/communicatie-met-portalen.md)
   * [Integratiepatronen](kennisbank/werken-met-componenten/integratiepatronen.md)
+  * [Verzoek](kennisbank/werken-met-componenten/verzoek.md)
