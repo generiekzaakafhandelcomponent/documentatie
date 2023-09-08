@@ -13,6 +13,7 @@
 * [Releases](product-management/releases.md)
 * [Product roadmap](product-management/product-roadmap/README.md)
   * [Stuurgroep](product-management/product-roadmap/stuurgroep.md)
+  * [Sprint reviews](product-management/product-roadmap/sprint-reviews.md)
 * [Impressies](product-management/impressies.md)
 * [Plugins](product-management/plugins.md)
 * [Basisprocessen](product-management/basisprocessen.md)
