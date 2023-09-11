@@ -1,5 +1,9 @@
 # Sprint reviews
 
+#### 7 september 2023
+
+{% embed url="https://vimeo.com/863059080?share=copy#t=45" %}
+
 #### 24 **augustus 2023**
 
 {% embed url="https://vimeo.com/861611337?share=copy" %}
@@ -18,11 +22,11 @@
 
 #### 29 juni 2023
 
-{% embed url="https://vimeo.com/861609237?share=copy" %}
+{% embed url="https://vimeo.com/861608915?share=copy#t=23" %}
 
 #### 15 juni 2023
 
-{% embed url="https://vimeo.com/861609237?share=copy" %}
+{% embed url="https://vimeo.com/861607709?share=copy" %}
 
 #### 1 juni 2023
 
