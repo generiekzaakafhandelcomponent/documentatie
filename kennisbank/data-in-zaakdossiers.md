@@ -37,7 +37,7 @@ Een zaakdossier is tijdelijk. De afhandeling kan 3 minuten duren als het geheel 
 De **zaakdata** is de gegevensset die specifiek is voor een zaakdossier-type. Deze bestaat binnen GZAC uit:&#x20;
 
 * **zaak meta-data**. Deze is generiek: voor elk type zaakdossier worden dezelfde gegevens vastgelegd. Denk daarbij een zaaknummer, het zaakdossiertype, de registratiedatum en vertrouwelijkheidsaanduiding.&#x20;
-* het **zaakdetail**. Dit is de data die het hart van het zaakdossier vormt.
+* het **zaakdetailobject**. Dit is de data die het hart van het zaakdossier vormt.
 * **gerelateerd zaakobjecten**. Dit is _machine-readable_ data (bijvoorbeeld in JSON-formaat) die een rol heeft binnen het zaakdossier, en alleen benodigd voor het afhandelen van de zaak. Een voorbeeld is een gespreksverslag.&#x20;
 * **zelfstandig zaakobjecten .** Dit is _machine-readable_ data (bijvoorbeeld in JSON-formaat) die een rol heeft binnen het zaakdossier, maar ook buiten de context van een zaakdossier bestaansrecht heeft. Een voorbeeld is een lantaarnpaal binnen een MOR-melding.
 * **zaakinformatieobjecten**. Dit is _niet-machine-readable_ data (bijvoorbeeld in PDF-formaat) die een rol heeft binnen het zaakdossier. In het spraakgebruik zijn dit documenten.&#x20;
@@ -49,9 +49,11 @@ Hoewel procesvariabelen data zijn die van invloed zijn op het verloop van het za
 
 ### Data binnen en buiten de context van het zaakdossier
 
-Zoals al bleek uit de definitie van de verschillende soorten data, bevindt data zich niet per se in het zaakdossier. Het zaakdossier is een conceptueel model, een digitale bundeling van alle informatie. Informatie kan op allerhande plekken staan.&#x20;
+Zoals al bleek uit de definitie van de verschillende soorten data, bevindt data zich niet per se _in_ het zaakdossier. Het zaakdossier is een conceptueel model, een digitale bundeling van alle informatie. Informatie kan op allerhande plekken staan.&#x20;
 
-Als een zaak gevisualiseerd zou worden als een hangmap, dan is de zaakmeta de informatie over het zaakdossier dat op het geeltje aan de buitenzijde staat. Het zaakdetail, gerelateerd zaakobjecten en de zaakinformatieobjecten zitten in het zaakdossier. De zelfstandig zaakobjecten bevinden zich buiten het zaakdossier, er wordt naar verwezen. Buiten het gemeentelijk domein wordt bij data die zich buiten het zaakdossier bevindt ook wel gesproken over _master data._&#x20;
+Als een zaak gevisualiseerd zou worden als een hangmap, dan is de zaakmeta de informatie over het zaakdossier dat op het geeltje aan de buitenzijde staat. Het zaakdetail, gerelateerd zaakobjecten en de zaakinformatieobjecten zitten _in_ het zaakdossier. De zelfstandig zaakobjecten bevinden zich _buiten_ het zaakdossier, er wordt naar verwezen. \
+\
+Er kan ook worden verwezen naar andere informatie buiten de context van zaakdossiers. Binnen de gemeentelijke- en overheidscontext wordt gesproken over _registraties_. Voorbeelden zijn de Basisregistratie personen of het Handelsregister, maar ook interne registraties zoals die van alle binnenkomende Verzoeken. Buiten het gemeentelijk domein wordt bij data die zich buiten het zaakdossier bevindt ook wel gesproken over _master data._&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-06-09 at 14.21.55.png" alt=""><figcaption></figcaption></figure>
 
@@ -81,6 +83,10 @@ Een voorbeeld van een service architectuur is hier weergegeven:&#x20;
 Informatie kan worden geplaatst op verschillende plaatsen, met elk hun voor- en nadelen. Enkele handreikingen.&#x20;
 
 * Het zoeken over gegevens uit meerdere bronnen (JOIN's over REST API's) duurt lang. Voorbeeld 'zoek voor alle bedrijven groter dan 100 medewerkers in de plaats Den Haag in de KVK API alle bijbehorende Zaken in de Zaken API met de status 'in behandeling'. Zorg voor dat alle data waarop gezocht wordt, wordt opgenomen in het Zaakdetail - en accepteer dataduplicatie. In teams met procoders kan overwoging om een cachinglaag in te zetten.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-09-15 at 15.01.51.png" alt=""><figcaption></figcaption></figure>
+
+* Zorg dat het de JSON structuur van het Zaakdetail Object zodanig eenvoudig is, dat deze werkbaar is voor low-code formio formulieren. Grote document definities zijn geen probleem, complexe structuren wel.&#x20;
 * Dupliceer geen data waarop niet gezocht wordt, maar haal deze op bij de bron. Zorg dat de user interface deze '[lazy loadt](https://en.wikipedia.org/wiki/Lazy\_loading)', zodat de gebruiker wel toegang heeft tot data die snel beschikbaar is.&#x20;
 * Gebruik voor stuurinformatie procesvariabelen. Implementatieteams vinden het werken met het Zaakdetail vaak het fijnst, en hebben de neiging alle data daar te plaatsen.&#x20;
 * GZAC biedt geen mogelijkheid om binnen het zaakdetail object rechten toe te kennen op attribuutniveau. Indien rechten op delen het zaakdossier aan bepaalde medewerkers wordt verleend, maak gebruik van losse (zaak)objecten.&#x20;
