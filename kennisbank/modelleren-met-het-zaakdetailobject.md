@@ -1,6 +1,8 @@
 # Modelleren met het Zaakdetailobject
 
-Het zaakdetailobject is het belangste object in GZAC Zaakdossiers. Het is object is het hart van de Zaak. Het object is technisch niet anders dan andere objecten, het is een JSON-object. Er is maximaal 1 Zaakobject per Zaakdossier.&#x20;
+Het zaakdetailobject is het belangste object in GZAC Zaakdossiers. Het is object is het hart van de Zaak. Het object is technisch niet anders dan andere objecten, het is een JSON-object. Er is maximaal 1 Zaakobject per Zaakdossier. Het Zaakdetailobject wordt primair opgeslagen in de GZAC database, en (indien ingesteld) bij elke wijziging gesynchroniseerd naar een Objects API.&#x20;
+
+De gegevens in het Zaakdetailobject zijn (voor zover rechten zijn verstrekt) toegankelijk voor elke applicatie in het ZGW-landschap.&#x20;
 
 #### Welke data hoort niet thuis in het Zaakobject?
 
