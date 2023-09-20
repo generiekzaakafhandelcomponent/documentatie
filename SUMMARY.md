@@ -32,3 +32,4 @@
   * [Communicatie met portalen](kennisbank/werken-met-componenten/communicatie-met-portalen.md)
   * [Integratiepatronen](kennisbank/werken-met-componenten/integratiepatronen.md)
   * [Verzoek](kennisbank/werken-met-componenten/verzoek.md)
+* [Modelleren met het Zaakdetailobject](kennisbank/modelleren-met-het-zaakdetailobject.md)
