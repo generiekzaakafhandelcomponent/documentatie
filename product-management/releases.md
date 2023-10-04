@@ -1,5 +1,23 @@
 # Releases
 
+### GZAC Valtimo v10.7
+
+4 oktober 2023, release 10.7 is beschikbaar voor download. Nieuw in deze release:&#x20;
+
+**Dashboards**
+
+{% embed url="https://player.vimeo.com/video/871027565" %}
+
+**Kleine uitbreidingen**
+
+* Notities kunnen nu worden bewerkt en verwijderd.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-04 at 14.24.32.png" alt=""><figcaption></figcaption></figure>
+
+* Taken kunnen nu automatisch met het zaakdossier verhuizen naar een andere behandelaar.&#x20;
+* Het kruimelpad en de paginatitel zijn omgezet naar het Carbon Design System. Er zijn in de hele applicatie nieuwe kruimelpaden en paginatitels geïntroduceerd om een consistente gebruikerservaring met Carbon-componenten te bieden.&#x20;
+* Menu-items kunnen in een nieuwe tab worden geopend door met de rechtermuisknop op een item te klikken.&#x20;
+
 ### GZAC Valtimo v10.3
 
 24 februari 2023, release 10.3 is beschikbaar voor download. Nieuw in deze release:&#x20;
