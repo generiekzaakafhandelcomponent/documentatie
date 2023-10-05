@@ -2,7 +2,7 @@
 
 #### 5 oktober 2023
 
-{% embed url="https://vimeo.com/871429686?share=copy" %}
+{% embed url="https://vimeo.com/871429686" %}
 
 #### 7 september 2023
 
