@@ -1,5 +1,9 @@
 # Sprint reviews
 
+#### 19 oktober 2023
+
+{% embed url="https://vimeo.com/876285704" %}
+
 #### 5 oktober 2023
 
 {% embed url="https://vimeo.com/871429686" %}
