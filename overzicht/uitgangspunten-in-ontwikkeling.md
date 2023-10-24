@@ -1,6 +1,6 @@
 # Uitgangspunten in ontwikkeling
 
-GZAC Valtimo is gebouwd voor het Zaakgericht Werken volgens Common Ground principes.
+GZAC Valtimo is gebouwd voor het Zaakgericht Werken volgens Common Ground principes. Het platform wordt ingezet voor de realisatie van domein specifieke taakapplicaties en generiek zaakafhandeling.&#x20;
 
 **1.     Flexibel in procesontwerp.**
 
@@ -20,8 +20,8 @@ Er kan veel in configuratie. Biedt dat onvoldoende, dan zijn de mogelijkheden ei
 
 **5.     Uitbreidbaar.**
 
-Doormiddel van het plugin framework kan elke organisatie zelf haar eigen integraties of functionaliteit toevoegen.
+Doormiddel van het [plugin framework](../product-management/plugins.md) kan elke organisatie zelf haar eigen integraties of functionaliteit toevoegen.
 
 **6.     Sharing is Caring.**
 
-Hoe meer we delen, hoe meer we samen versnellen. Procesmodellen, plugins en kennis: delen is vermenigvuldigen.&#x20;
+Hoe meer we delen, hoe meer we samen versnellen. [Procesmodellen](../product-management/basisprocessen.md), [plugins](../product-management/plugins.md) en [kennis](../product-management/sprint-reviews.md): delen is vermenigvuldigen.&#x20;
