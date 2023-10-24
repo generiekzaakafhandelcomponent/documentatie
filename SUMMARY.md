@@ -7,6 +7,7 @@
 * [Introductie GZAC Valtimo](overzicht/introductie-gzac-valtimo.md)
 * [Video's](overzicht/videos.md)
 * [Handige links](overzicht/handige-links.md)
+* [Uitgangspunten in ontwikkeling](overzicht/uitgangspunten-in-ontwikkeling.md)
 
 ## Product management
 
