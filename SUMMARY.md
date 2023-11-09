@@ -34,3 +34,4 @@
   * [Integratiepatronen](kennisbank/werken-met-componenten/integratiepatronen.md)
   * [Verzoek](kennisbank/werken-met-componenten/verzoek.md)
 * [Modelleren met het Zaakdetailobject](kennisbank/modelleren-met-het-zaakdetailobject.md)
+* [Versies van Zaaktypes](kennisbank/versies-van-zaaktypes.md)
