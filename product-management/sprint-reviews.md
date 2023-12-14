@@ -2,7 +2,7 @@
 
 **14 december 2023**
 
-{% embed url="https://vimeo.com/894510616?share=copy#t=0" %}
+{% embed url="https://vimeo.com/894510616" %}
 
 **30 november 2023**
 
