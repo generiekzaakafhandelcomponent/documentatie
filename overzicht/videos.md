@@ -1,8 +1,10 @@
-# Video's
+# Voorbeelden uit de praktijk
 
-In het najaar van 2021 is de eerste GZAC gebruikersdag gehouden Pakhuis de Zwijger, met afgevaardigen vanuit Haarlem, Amsterdam, Breda, Utrecht, Leeuwarden en Den Haag.&#x20;
+**Het proces aanvraag Ooievaarspas in de gemeente Den Haag**
 
-{% embed url="https://vimeo.com/646159298" %}
+De aanvraag van deze stadspas wordt op het Zaakgericht Werkenplatform afgewikkeld.&#x20;
+
+{% embed url="https://vimeo.com/900169685" %}
 
 
 
@@ -17,3 +19,9 @@ Deze video van 17 minuten geeft een vrij uitgebreid beeld van de installatie, in
 
 
 {% embed url="https://vimeo.com/708772162" %}
+
+**GZAC gebruikersdag 2021**
+
+In het najaar van 2021 is een GZAC gebruikersdag gehouden in Pakhuis de Zwijger, met afgevaardigen vanuit Haarlem, Amsterdam, Breda, Utrecht, Leeuwarden en Den Haag.&#x20;
+
+{% embed url="https://vimeo.com/646159298" %}
