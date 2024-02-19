@@ -6,7 +6,7 @@ GZAC is de afkorting van Generiek Zaakafhandelcomponent. Volgens GEMMA (GEMeente
 
 ### Hoe is GZAC ontstaan?&#x20;
 
-In 2017 heeft de taskforce “Samen Organiseren” besloten om Common Ground uit te werken. De eerste twee jaren die volgden waren gefocussed op de <mark style="background-color:orange;">datalagen 1 t/m 3.</mark> Dit resulteerde in 2019 tot de eerste versie van OpenZaak – als referentie-implementatie en bewijs dat het model zou gaan werken.&#x20;
+In 2017 heeft de taskforce “Samen Organiseren” besloten om Common Ground uit te werken. De eerste twee jaren die volgden waren gefocussed op de datalagen 1 t/m 3. Dit resulteerde in 2019 tot de eerste versie van OpenZaak – als referentie-implementatie en bewijs dat het model zou gaan werken.&#x20;
 
 Daarmee kwam de vervolgvraag: hoe gaan we zaakafhandeling aansturen? Het antwoord werd gevonden in open source Business Process Model and Notation (BPMN) – de ISO standaard voor procesautomatisering. In dat jaar zijn er een tiental proof of concepts uitgevoerd door diverse gemeenten en samenwerkende organisaties, zoals de gemeente Groningen, Haarlem, Den Haag, Rotterdam, Dimpact en Wigo4it. Er is getest met diverse oplossingsrichtingen, waaronder Camunda en Valtimo, die al enkele jaren in gebruik waren bij de gemeente Breda. Dit resulteerde in de GZAC-editie van Valtimo, toegespitst op het gebruik op de Common Ground Zaakgericht Werken API’s.&#x20;
 
