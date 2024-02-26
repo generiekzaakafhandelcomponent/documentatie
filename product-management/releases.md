@@ -1,5 +1,15 @@
 # Releases
 
+### GZAC Valtimo 11.1
+
+22 december 2023: release 11.1 is uit. In deze versie introduceren we 'tab management'. Met deze feature kunnen beheerders configureren welke tabbladen er getoond worden op de dossier-pagina. We ondersteunen standaard tabs, tabs met formulieren of custom frontend-componenten.
+
+### GZAC Valtimo v11.0
+
+14 december 2023: release 11.0 is beschikbaar. In deze versie wordt Access control geintroduceerd: een framework om fijnmazig toegangsrechten te beheren. De beheerder kan de permissies configureren met behulp van de JSON-editor in de beheeromgeving.
+
+Versie 11.0 bevat diverse security- en performance verbeteringen. Ook is verouderde code opgeschoond.
+
 ### GZAC Valtimo v10.7
 
 4 oktober 2023, release 10.7 is beschikbaar voor download. Nieuw in deze release:&#x20;
