@@ -78,9 +78,7 @@ Een voorbeeld van een service architectuur is hier weergegeven:&#x20;
 * De meta-data van documenten en de documenten liggen vast in de Documenten API. De fysieke locatie van de documenten is instelbaar, bijvoorbeeld een DMS of schijf ('persistant volume').
 * Zelfstandig- en gerelateerd zaakobjecten liggen vast in de Objects API. &#x20;
 
-### Welke data hoort waar?
-
-Informatie kan worden geplaatst op verschillende plaatsen, met elk hun voor- en nadelen. Enkele handreikingen.&#x20;
+### Prakische tips&#x20;
 
 * Het zoeken over gegevens uit meerdere bronnen (JOIN's over REST API's) duurt lang. Voorbeeld 'zoek voor alle bedrijven groter dan 100 medewerkers in de plaats Den Haag in de KVK API alle bijbehorende Zaken in de Zaken API met de status 'in behandeling'. Zorg voor dat alle data waarop gezocht wordt, wordt opgenomen in het Zaakdetail - en accepteer dataduplicatie. In teams met procoders kan overwoging om een cachinglaag in te zetten.&#x20;
 
@@ -88,8 +86,10 @@ Informatie kan worden geplaatst op verschillende plaatsen, met elk hun voor- en 
 
 * Zorg dat het de JSON structuur van het Zaakdetail Object zodanig eenvoudig is, dat deze werkbaar is voor low-code formio formulieren. Grote document definities zijn geen probleem, complexe structuren wel.&#x20;
 * Dupliceer geen data waarop niet gezocht wordt, maar haal deze op bij de bron. Zorg dat de user interface deze '[lazy loadt](https://en.wikipedia.org/wiki/Lazy\_loading)', zodat de gebruiker wel toegang heeft tot data die snel beschikbaar is.&#x20;
-* Gebruik voor stuurinformatie procesvariabelen. Implementatieteams vinden het werken met het Zaakdetail vaak het fijnst, en hebben de neiging alle data daar te plaatsen.&#x20;
+* Gebruik voor stuurinformatie procesvariabelen. Implementatieteams vinden het werken met het Zaakdetail vaak fijn, neigen stuurdata daar te plaatsen.&#x20;
 * GZAC biedt geen mogelijkheid om binnen het zaakdetail object rechten toe te kennen op attribuutniveau. Indien rechten op delen het zaakdossier aan bepaalde medewerkers wordt verleend, maak gebruik van losse (zaak)objecten.&#x20;
+* Gebruik JSON Objecten niet als relationeel model. De Objects API biedt geen referentiële integriteit.  Referentiële integriteit in een relationele database is het uitgangspunt dat de interne consistentie tussen de verschillende tabellen binnen die database wordt gewaarborgd.&#x20;
+* Start met een grondig uitgewerkt datamode. GZAC v12 voorziet niet in datamigratie. Het aanpassen van JSON schema's na het configureren van formulier-definities kan aanpassingen nodig maken in de formulieren. GZAC voorziet (nog) niet in een mechanisme voor versiebeheer van formulieren. &#x20;
 * Zorg dat data zoveel als mogelijk _machine readable_ wordt opgeslagen. Deze zijn kleiner, de gegevens zijn te doorzoeken/filteren en te verwerken in output. Als voorbeeld, teams zijn geneigd om een besluit met motivatie in PDF in een Zaakdossier vast te leggen. Overweeg JSON, de PDF kan altijd worden gegeneerd op basis van de informatie in JSON. \
   &#x20;
 
