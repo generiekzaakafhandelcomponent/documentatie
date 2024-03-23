@@ -78,7 +78,7 @@ Een voorbeeld van een service architectuur is hier weergegeven:&#x20;
 * De meta-data van documenten en de documenten liggen vast in de Documenten API. De fysieke locatie van de documenten is instelbaar, bijvoorbeeld een DMS of schijf ('persistant volume').
 * Zelfstandig- en gerelateerd zaakobjecten liggen vast in de Objects API. &#x20;
 
-### Prakische tips&#x20;
+### Praktische tips&#x20;
 
 * Het zoeken over gegevens uit meerdere bronnen (JOIN's over REST API's) duurt lang. Voorbeeld 'zoek voor alle bedrijven groter dan 100 medewerkers in de plaats Den Haag in de KVK API alle bijbehorende Zaken in de Zaken API met de status 'in behandeling'. Zorg voor dat alle data waarop gezocht wordt, wordt opgenomen in het Zaakdetail - en accepteer dataduplicatie. In teams met procoders kan overwoging om een cachinglaag in te zetten.&#x20;
 
