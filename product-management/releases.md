@@ -2,13 +2,11 @@
 
 ### GZAC Valtimo 11.2
 
-5 april 2023: release 11.2.0 is uit.&#x20;
+5 april 2023: release 11.2.0 is uit. In deze nieuwe release zijn een aantal nieuwe features beschikbaar, waaronder het kunnen importeren en exporteren van dossier definities vanuit een ZIP archief.&#x20;
 
 ### GZAC Valtimo 11.1
 
 22 december 2023: release 11.1 is uit. In deze versie introduceren we 'tab management'. Met deze feature kunnen beheerders configureren welke tabbladen er getoond worden op de dossier-pagina. We ondersteunen standaard tabs, tabs met formulieren of custom frontend-componenten. De laatste patch op deze minor versie is 11.1.5, zie voor meer info [hier](https://docs.valtimo.nl/release-notes/11.x.x/11.1.5/valtimo-frontend-libraries).
-
-<figure><img src="../.gitbook/assets/2024-04-1516-06-40-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption><p>Tab management</p></figcaption></figure>
 
 ### GZAC Valtimo v11.0
 
