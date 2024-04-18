@@ -4,7 +4,7 @@
 
 In deze release komt o.a. de takenlijst filter feature uit, waarbij je zelf kan kiezen op welke eigenschappen je de taken wilt filteren. Ook kan je de takenlijst filteren op het type dossier. Verder komt er ook een dark mode uit:
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-18 at 15.42.24.png" alt=""><figcaption><p>GZAC dark mode</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-18 at 15.43.40 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### GZAC Valtimo v11.2
 
