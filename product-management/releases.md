@@ -14,6 +14,8 @@
 
 Versie 11.0 bevat diverse security- en performance verbeteringen. Ook is verouderde code opgeschoond.
 
+<figure><img src="../.gitbook/assets/2024-04-1515-00-37-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption><p>Access control</p></figcaption></figure>
+
 ### GZAC Valtimo v10.8
 
 1 december 2023, release 10.8 is beschikbaar en de laatste patch release voor deze minor (10.8.3 is gereleased op 19 februari). In deze versie zijn er eigenschappen (verloopdatum en zaak) toegevoegd aan de portaaltaak, wanneer een portaaltaak is aangemaakt via de portaaltaak plugin.&#x20;
