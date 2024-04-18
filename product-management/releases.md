@@ -1,6 +1,6 @@
 # Releases
 
-### GZAC Valtimo v12.0 - coming soon (ETA eind April/begin Mei)!
+### GZAC Valtimo v12.0 - <mark style="color:orange;">coming soon</mark> (ETA eind April/begin Mei)!
 
 In deze release komt o.a. de takenlijst filter feature uit, waarbij je zelf kan kiezen op welke eigenschappen je de taken wilt filteren. Ook kan je de takenlijst filteren op het type dossier. Verder komt er ook een dark mode uit:
 
