@@ -12,7 +12,9 @@ Zichtbaarheid versienummer proces in progress tab van dossiers
 
 22 december 2023: release 11.1 is uit. In deze versie introduceren we 'tab management'. Met deze feature kunnen beheerders configureren welke tabbladen er getoond worden op de dossier-pagina. We ondersteunen standaard tabs, tabs met formulieren of custom frontend-componenten. De laatste patch op deze minor versie is 11.1.5, zie voor meer info [hier](https://docs.valtimo.nl/release-notes/11.x.x/11.1.5/valtimo-frontend-libraries).
 
-
+{% embed url="https://vimeo.com/936232003?share=copy" %}
+Tab management
+{% endembed %}
 
 ### GZAC Valtimo v11.0
 
