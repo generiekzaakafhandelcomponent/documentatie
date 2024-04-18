@@ -4,9 +4,15 @@
 
 5 april 2023: release 11.2.0 is uit. In deze nieuwe release zijn een aantal nieuwe features beschikbaar, waaronder het kunnen importeren en exporteren van dossier definities vanuit een ZIP archief. Verder worden nu ook Keycloak groepsrollen ondersteund in de Access control feature, importeren van een geëxporteerde document definitie én zie je nu ook de versie van het proces op de 'progress' tab van een dossier. Zie voor de volledige lijst [hier](https://docs.valtimo.nl/release-notes/11.x.x/11.2.0/valtimo-backend-libraries) en [hier](https://docs.valtimo.nl/release-notes/11.x.x/11.2.0/valtimo-frontend-libraries).&#x20;
 
+{% embed url="https://vimeo.com/936230639?share=copy" %}
+Zichtbaarheid versienummer proces in progress tab van dossiers
+{% endembed %}
+
 ### GZAC Valtimo v11.1
 
 22 december 2023: release 11.1 is uit. In deze versie introduceren we 'tab management'. Met deze feature kunnen beheerders configureren welke tabbladen er getoond worden op de dossier-pagina. We ondersteunen standaard tabs, tabs met formulieren of custom frontend-componenten. De laatste patch op deze minor versie is 11.1.5, zie voor meer info [hier](https://docs.valtimo.nl/release-notes/11.x.x/11.1.5/valtimo-frontend-libraries).
+
+
 
 ### GZAC Valtimo v11.0
 
