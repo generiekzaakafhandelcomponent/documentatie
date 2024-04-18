@@ -1,14 +1,24 @@
 # Releases
 
+### GZAC Valtimo 11.2
+
+5 april 2023: release 11.2.0 is uit.&#x20;
+
 ### GZAC Valtimo 11.1
 
-22 december 2023: release 11.1 is uit. In deze versie introduceren we 'tab management'. Met deze feature kunnen beheerders configureren welke tabbladen er getoond worden op de dossier-pagina. We ondersteunen standaard tabs, tabs met formulieren of custom frontend-componenten.
+22 december 2023: release 11.1 is uit. In deze versie introduceren we 'tab management'. Met deze feature kunnen beheerders configureren welke tabbladen er getoond worden op de dossier-pagina. We ondersteunen standaard tabs, tabs met formulieren of custom frontend-componenten. De laatste patch op deze minor versie is 11.1.5, zie voor meer info [hier](https://docs.valtimo.nl/release-notes/11.x.x/11.1.5/valtimo-frontend-libraries).
 
 ### GZAC Valtimo v11.0
 
-14 december 2023: release 11.0 is beschikbaar. In deze versie wordt Access control geintroduceerd: een framework om fijnmazig toegangsrechten te beheren. De beheerder kan de permissies configureren met behulp van de JSON-editor in de beheeromgeving.
+14 december 2023: release 11.0 is beschikbaar. In deze versie wordt Access control geïntroduceerd: een framework om fijnmazig toegangsrechten te beheren. De beheerder kan de permissies configureren met behulp van de JSON-editor in de beheeromgeving.
 
 Versie 11.0 bevat diverse security- en performance verbeteringen. Ook is verouderde code opgeschoond.
+
+### GZAC Valtimo v10.8
+
+1 december 2023, release 10.8 is beschikbaar en de laatste patch release voor deze minor (10.8.3 is gereleased op 19 februari). In deze versie zijn er eigenschappen (verloopdatum en zaak) toegevoegd aan de portaaltaak, wanneer een portaaltaak is aangemaakt via de portaaltaak plugin.&#x20;
+
+Daarnaast is de performance is verbeterd en verschillende bug fixes zijn doorgevoerd, zie voor meer gedetailleerde informatie [hier](https://docs.valtimo.nl/release-notes/10.x.x/10.8.0/valtimo-backend-libraries).&#x20;
 
 ### GZAC Valtimo v10.7
 
