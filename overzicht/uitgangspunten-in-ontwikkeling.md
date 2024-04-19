@@ -24,4 +24,4 @@ Doormiddel van het [plugin framework](../product-management/plugins.md) kan elke
 
 **6.     Sharing is Caring.**
 
-Hoe meer we delen, hoe meer we samen versnellen. [Procesmodellen](../product-management/basisprocessen.md), [plugins](../product-management/plugins.md) en [kennis](../product-management/sprint-reviews.md): delen is vermenigvuldigen.&#x20;
+Hoe meer we delen, hoe meer we samen versnellen. [Procesmodellen](broken-reference), [plugins](../product-management/plugins.md) en [kennis](../product-management/sprint-reviews.md): delen is vermenigvuldigen.&#x20;
