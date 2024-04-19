@@ -2,12 +2,18 @@
 description: >-
   In plaats van dat elke organisatie zelf het wiel uitvindt, is het efficiënter
   om her te gebruiken wat een andere organisatie al heeft gemaakt, onder het
-  motto "sharing is caring!". Je hoeft dus niet v
+  motto "sharing is caring!".
 ---
 
 # Publieke GZAC exchange
 
-## Basisprocessen
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-19 at 15.21.09.png" alt=""><figcaption><p>GZAC process exchange</p></figcaption></figure>
+
+## Introductie
+
+De GZAC process exchange is [hier](https://exchange.gzac.nl/) beschikbaar. Op dit moment zijn er 3 verschillende types van herbruikbare items:
+
+## 1. Basisprocessen
 
 Basisprocessen zijn blauwdrukken van bedrijfsprocessen. Ze helpen om een snelle start te maken - je start niet met nul, maar met een doordacht en in de praktijk geteste basis. \
 \
@@ -16,10 +22,10 @@ Een basisproces is - zoals de naam al zegt - de basis. Er is altijd locale confi
 [Hier](https://github.com/generiekzaakafhandelcomponent/Basisprocessen) wordt uitgelegd hoe een basisproces wordt geimporteerd en aangepast (voor developers). \
 Heb een proces en wil je deze delen? Begin [hier](https://github.com/generiekzaakafhandelcomponent/Basisprocessen/blob/feature/generieke-zaak/CONTRIBUTING.md) (voor developers)&#x20;
 
-## Bouwblokken
+## 2. Bouwblokken
 
 Bouwblokken zijn losse onderdelen van een basisproces die ingezet kunnen voor een ander basisproces. Voorbeelden van bouwblokken zijn: formulieren, case definities of sub processen.
 
-## Plug-ins
+## 3. Plug-ins
 
-Met plugins kan extra functionaliteit aan GZAC worden toegevoegd. GZAC wordt standaard geleverd met een selectie van plugins. Je kunt er zelf naar behoeven extra aan toevoegen. Plugins worden vaak gebruikt voor het (generiek) leggen van koppelingen met andere systemen. Hieronder staan een aantal voorbeelden, de volledige lijst is beschikbaar op de [publiekelijke GZAC Process Exchange](https://exchange.gzac.nl/) (filter op Type = Plug-ins). &#x20;
+Met plugins kan extra functionaliteit aan GZAC worden toegevoegd. GZAC wordt standaard geleverd met een selectie van plugins. Je kunt er zelf naar behoeven extra aan toevoegen. Plugins worden vaak gebruikt voor het (generiek) leggen van koppelingen met andere systemen. &#x20;
