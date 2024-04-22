@@ -9,11 +9,11 @@ description: >-
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-04-19 at 15.21.09.png" alt=""><figcaption><p>GZAC process exchange</p></figcaption></figure>
 
-## Introductie
+### Introductie
 
 De GZAC process exchange is [hier](https://exchange.gzac.nl/) beschikbaar. Op dit moment zijn er 3 verschillende types van herbruikbare items:
 
-## 1. Basisprocessen
+### 1. Basisprocessen
 
 Basisprocessen zijn blauwdrukken van bedrijfsprocessen. Ze helpen om een snelle start te maken - je start niet met nul, maar met een doordacht en in de praktijk geteste basis. \
 \
@@ -22,10 +22,10 @@ Een basisproces is - zoals de naam al zegt - de basis. Er is altijd locale confi
 [Hier](https://github.com/generiekzaakafhandelcomponent/Basisprocessen) wordt uitgelegd hoe een basisproces wordt geïmporteerd en aangepast (voor developers). \
 Heb een proces en wil je deze delen? Begin [hier](https://github.com/generiekzaakafhandelcomponent/Basisprocessen/blob/feature/generieke-zaak/CONTRIBUTING.md) (voor developers)&#x20;
 
-## 2. Bouwblokken
+### 2. Bouwblokken
 
 Bouwblokken zijn losse onderdelen van een basisproces die ingezet kunnen voor een ander basisproces. Voorbeelden van bouwblokken zijn: formulieren, case definities of sub processen.
 
-## 3. Plug-ins
+### 3. Plug-ins
 
 Met plugins kan extra functionaliteit aan GZAC worden toegevoegd. GZAC wordt standaard geleverd met een selectie van plugins. Je kunt er zelf naar behoeven extra aan toevoegen. Plugins worden vaak gebruikt voor het (generiek) leggen van koppelingen met andere systemen. &#x20;
