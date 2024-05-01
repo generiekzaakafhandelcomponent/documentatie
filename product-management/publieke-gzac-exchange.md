@@ -9,7 +9,11 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+### Introductievideo:
+
 {% embed url="https://player.vimeo.com/video/935570305" %}
+Hoe voeg ik een business proces, bouwblok of plug-in toe aan de GZAC Process Exchange
+{% endembed %}
 
 ### Introductie
 
