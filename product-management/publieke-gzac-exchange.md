@@ -9,6 +9,8 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://player.vimeo.com/video/935570305" %}
+
 ### Introductie
 
 De GZAC process exchange is [hier](https://exchange.gzac.nl/) beschikbaar. Op dit moment zijn er 3 verschillende types van herbruikbare items:
