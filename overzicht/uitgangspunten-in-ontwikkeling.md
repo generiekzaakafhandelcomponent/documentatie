@@ -20,8 +20,8 @@ Er kan veel in configuratie. Biedt dat onvoldoende, dan zijn de mogelijkheden ei
 
 **5.     Uitbreidbaar.**
 
-Doormiddel van het [plugin framework](../product-management/plugins.md) kan elke organisatie zelf haar eigen integraties of functionaliteit toevoegen.
+Doormiddel van het [plugin framework](broken-reference) kan elke organisatie zelf haar eigen integraties of functionaliteit toevoegen.
 
 **6.     Sharing is Caring.**
 
-Hoe meer we delen, hoe meer we samen versnellen. [Procesmodellen](broken-reference), [plugins](../product-management/plugins.md) en [kennis](../product-management/sprint-reviews.md): delen is vermenigvuldigen.&#x20;
+Hoe meer we delen, hoe meer we samen versnellen. [Procesmodellen](broken-reference), [plugins](broken-reference) en [kennis](../product-management/sprint-reviews.md): delen is vermenigvuldigen.&#x20;

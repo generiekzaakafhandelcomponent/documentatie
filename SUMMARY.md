@@ -16,7 +16,6 @@
 * [Stuurgroep](product-management/stuurgroep.md)
 * [Product roadmap](product-management/product-roadmap.md)
 * [Impressies](product-management/impressies.md)
-* [Publieke GZAC exchange](product-management/plugins.md)
 * [Publieke GZAC exchange](product-management/publieke-gzac-exchange.md)
 
 ***
