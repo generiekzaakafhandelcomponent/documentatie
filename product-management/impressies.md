@@ -12,7 +12,7 @@ Op de dossierlijstpagina zie je een overzicht van alle dossiers van een bepaald 
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-05-15 at 14.40.29.png" alt=""><figcaption><p>Dossierlijst overzicht 'Generieke zaak' dossiertype</p></figcaption></figure>
 
-De zoekvelden en kolommen kunnen ingesteld worden onder het admin menu.&#x20;
+De zoekvelden en kolommen kunnen ingesteld worden onder het admin menu. Je kan bijvoorbeeld filteren op de status van de zaak/ het dossier.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-05-15 at 14.42.53.png" alt=""><figcaption><p>Instellen van kolommen die getoond worden in dossierlijst overzichtspagina</p></figcaption></figure>
 
