@@ -24,6 +24,12 @@ Op de dossierdetailpagina kan je alle details bekijken van het dossier én je ka
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-05-15 at 17.30.51.png" alt=""><figcaption><p>Dossierdetailpagina van een specifiek dossier</p></figcaption></figure>
 
+### Taken
+
+Alle taken staan in één overzicht in een lijst en je kunt ze ook filteren per type dossier. Verder kun je net als bij de dossierlijstpagina hier ook via het admin menu zelf de kolommen instellen die je wilt zien en waar je op wil kunnen sorteren. Bovendien kan je per taak direct doorklikken naar het bijbehorende dossier.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-15 at 17.41.29.png" alt=""><figcaption><p>Takenlijst overzicht</p></figcaption></figure>
+
 ### Plugins
 
 In GZAC kun je Plugins configureren die nodig zijn bij de afhandeling van het betreffende Zaak Type.
