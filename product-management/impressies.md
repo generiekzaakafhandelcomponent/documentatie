@@ -20,6 +20,10 @@ Onderstaande afbeelding laat het 'Proces' tabblad in het GZAC dossier zien. Hier
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-01-18 at 16.29.10.png" alt=""><figcaption><p>Voortgang tab van een dossier</p></figcaption></figure>
 
+Op de dossierdetailpagina kan je alle details bekijken van het dossier én je kan openstaande gebruikerstaken zien aan de rechterkant van het scherm. Hieronder staat bijvoorbeeld 1 test gebruikerstaak open die kan worden ingevuld door de GZAC medewerker.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-15 at 17.30.51.png" alt=""><figcaption><p>Dossierdetailpagina van een specifiek dossier</p></figcaption></figure>
+
 ### Plugins
 
 In GZAC kun je Plugins configureren die nodig zijn bij de afhandeling van het betreffende Zaak Type.
