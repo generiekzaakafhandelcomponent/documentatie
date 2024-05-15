@@ -36,3 +36,8 @@ In GZAC kun je Plugins configureren die nodig zijn bij de afhandeling van het be
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-01-18 at 16.30.39.png" alt=""><figcaption><p>Plugins</p></figcaption></figure>
 
+### Process Based Access Control (PBAC)
+
+In het admin menu kan je rollen en rechten instellen, zodat niet elke medewerker alles kan zien en doen, maar dat er specifieke restricties komen op de bepaalde rollen en rechten o.b.v. de functie van de medewerker. Een medewerker van 'Evenementenvergunning' moet bijvoorbeel geen inzage hebben in het dossiertype 'Generieke zaak' en alle bijbehordende taken daarvoor.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-15 at 17.46.53.png" alt=""><figcaption><p>PBAC instellingen</p></figcaption></figure>
