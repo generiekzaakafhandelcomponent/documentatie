@@ -10,6 +10,10 @@ In deze release komt o.a. de takenlijst filter feature uit, waarbij je zelf kan 
 Takenlijst filter
 {% endembed %}
 
+### GZAC Valtimo v11.3
+
+Op 2 mei is GZAC Valtimo 11.3.0 gereleased. In deze nieuwe release wordt 'termijbewaking' geintroduceerd, waarmee de einddatum van een Zaak kan worden aangepast in geval van een hersteltermijn. Daarnaast biedt de Zaak plugin nu ondersteuning voor Zaakeigenschappen.&#x20;
+
 ### GZAC Valtimo v11.2
 
 5 april 2023: release 11.2.0 is uit. In deze nieuwe release zijn een aantal nieuwe features beschikbaar, waaronder het kunnen importeren en exporteren van documentdefinities vanuit een ZIP archief. Verder worden nu ook Keycloak groepsrollen ondersteund in de Access control feature en zie je nu ook de versie van het proces op de 'progress' tab van een dossier. Zie voor de volledige lijst [hier](https://docs.valtimo.nl/release-notes/11.x.x/11.2.0/valtimo-backend-libraries) en [hier](https://docs.valtimo.nl/release-notes/11.x.x/11.2.0/valtimo-frontend-libraries).&#x20;
