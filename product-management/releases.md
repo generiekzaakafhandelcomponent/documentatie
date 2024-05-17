@@ -12,7 +12,7 @@ Takenlijst filter
 
 ### GZAC Valtimo v11.3
 
-Op 2 mei is GZAC Valtimo 11.3.0 gereleased. In deze nieuwe release wordt 'termijbewaking' geintroduceerd, waarmee de einddatum van een Zaak kan worden aangepast in geval van een hersteltermijn. Daarnaast biedt de Zaak plugin nu ondersteuning voor Zaakeigenschappen.&#x20;
+Op 2 mei is GZAC Valtimo 11.3.0 gereleased. In deze nieuwe release wordt 'termijnbewaking' geintroduceerd, waarmee de einddatum van een Zaak kan worden aangepast in geval van een hersteltermijn. Daarnaast biedt de Zaak plugin nu ondersteuning voor Zaakeigenschappen.&#x20;
 
 ### GZAC Valtimo v11.2
 
