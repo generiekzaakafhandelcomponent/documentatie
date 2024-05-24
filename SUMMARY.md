@@ -33,4 +33,4 @@
   * [Verzoek](kennisbank/werken-met-componenten/verzoek.md)
 * [Modelleren met het Zaakdetailobject](kennisbank/modelleren-met-het-zaakdetailobject.md)
 * [Versies van Zaaktypes](kennisbank/versies-van-zaaktypes.md)
-* [Twee opties voor effectief Case Management met Valtimo](kennisbank/twee-opties-voor-effectief-case-management-met-valtimo.md)
+* [Twee opties voor effectief Case Management met GZAC](kennisbank/twee-opties-voor-effectief-case-management-met-gzac.md)
