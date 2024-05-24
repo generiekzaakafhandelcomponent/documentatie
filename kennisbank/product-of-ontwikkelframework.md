@@ -1,5 +1,5 @@
 ---
-description: Zaakafhandeling of Taakapplicatie?
+description: Zaakafhandelapplicatie en Taakapplicatie
 ---
 
 # Product of ontwikkelframework
@@ -37,7 +37,7 @@ Het bouwen van bedrijfsprocessen via de Builder is de meest toegankelijke manier
 2. Er kunnen meerdere mensen werken aan het bouwen van één bedrijfsproces, en zelfs aan één file. Dit voegt waarde toe bij de bouw van omvangrijke bedrijfsprocessen.
 3. Het werken met een IDE is voor ervaren business process engineers over het algemeen sneller.
 
-#### Het bouwen van taakappplicatie op basis van GZAC Valtimo als Ontwikkelframework <a href="#het-bouwen-van-een-bedrijfsproces-in-valtimo-als-ontwikkelframework" id="het-bouwen-van-een-bedrijfsproces-in-valtimo-als-ontwikkelframework"></a>
+#### Het bouwen van een taakappplicatie op basis van GZAC Valtimo als Ontwikkelframework <a href="#het-bouwen-van-een-bedrijfsproces-in-valtimo-als-ontwikkelframework" id="het-bouwen-van-een-bedrijfsproces-in-valtimo-als-ontwikkelframework"></a>
 
 Als GZAC Valtimo als ontwikkelframework wordt gebruikt, gelden alle voor- en nadelen zoals hierboven benoemd. Er komt echter één groot voordeel bij: de mogelijkheid om te programmeren. Dat betekent dat er onbeperkt mogelijkheden ontstaan om de frontend (user interface) en de backend uit te breiden of aan te passen. Er zijn organisaties die een compleet eigen frontend bouwen op de Valtimo backend, of een domeinspecifieke toepassing bouwen op basis van het standaard product.
 
