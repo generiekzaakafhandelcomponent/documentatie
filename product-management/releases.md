@@ -16,7 +16,7 @@ Met behulp van **FormFlow** kunnen formulieren worden gebouwd die uit meerdere s
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-27 at 10.58.27.png" alt=""><figcaption></figcaption></figure>
 
-Er is een nieuwe editor ingebouwd, de open source **Microsoft Monaco editor** . Deze biedt de mogelijkheid om via de user interfaxe JSON bestanden te beheren.&#x20;
+Er is een nieuwe editor ingebouwd, de open source **Microsoft Monaco editor** . Deze biedt de mogelijkheid om via de user interface JSON bestanden te beheren.&#x20;
 
 Het **beheren van formulieren** is verbeterd, met onder meer de meer de mogelijkheid om direct via de admin in de JSON te werken. Daarnaast wordt er een preview getoond van het formulier dat gebouwd wordt, zodat je direct kan testen met data.&#x20;
 
