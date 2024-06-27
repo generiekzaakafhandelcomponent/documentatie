@@ -1,14 +1,26 @@
 # Releases
 
-### GZAC Valtimo v12.0 - <mark style="color:orange;">coming soon</mark> (ETA eind April/begin Mei)!
+### GZAC Valtimo v12.0
 
-In deze release komt o.a. de takenlijst filter feature uit, waarbij je zelf kan kiezen op welke eigenschappen je de taken wilt filteren. Ook kan je de takenlijst filteren op het type dossier. Verder komt er ook een dark mode uit:
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-18 at 15.43.40 (1).png" alt=""><figcaption><p>GZAC Dark mode</p></figcaption></figure>
+27 juni. In deze release zit o.a. de mogelijkheid **takenlijst** te filteren op het type dossier, en data uit de (zaak)dossier te te tonen in kolommen. Zo krijgen de taken de noodzakelijke contextuele informatie om zonder de taak te open te kunnen besluiten deze te behandelen.&#x20;
 
 {% embed url="https://vimeo.com/936317640?share=copy" %}
 Takenlijst filter
 {% endembed %}
+
+Er is een **dark mode** toegevoegd, na feedback over de 'witte' schermen bij intensief gebruik. Elke gebruiker kan deze instelling maken onder de persoonlijke settings.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-18 at 15.43.40 (1).png" alt=""><figcaption><p>GZAC Dark mode</p></figcaption></figure>
+
+Met behulp van **FormFlow** kunnen formulieren worden gebouwd die uit meerdere stappen bestaan, waarbij tussen de stappen backend code aangeroepen kan worden of condities kunnen worden uitgevoerd.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-27 at 10.58.27.png" alt=""><figcaption></figcaption></figure>
+
+Er is een nieuwe editor ingebouwd, de open source **Microsoft Monaco editor** . Deze biedt de mogelijkheid om via de user interfaxe JSON bestanden te beheren.&#x20;
+
+Het **beheren van formulieren** is verbeterd, met onder meer de meer de mogelijkheid om direct via de admin in de JSON te werken. Daarnaast wordt er een preview getoond van het formulier dat gebouwd wordt, zodat je direct kan testen met data.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-27 at 11.00.24.png" alt=""><figcaption></figcaption></figure>
 
 ### GZAC Valtimo v11.3
 
