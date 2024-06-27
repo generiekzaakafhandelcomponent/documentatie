@@ -1,5 +1,9 @@
 # Sprint reviews
 
+#### 27 juni 2024
+
+{% embed url="https://player.vimeo.com/video/969599218" %}
+
 **17 juni 2024**
 
 {% embed url="https://player.vimeo.com/video/957638008" %}
