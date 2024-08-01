@@ -6,6 +6,8 @@
 
 {% embed url="https://player.vimeo.com/video/993513068" %}
 
+Ook is het in v12.1 mogelijk om taken te filteren op basis van dossierdata. De beheerder kan de zoekvelden in het taakscherm configureren per dossiertype.
+
 ### GZAC Valtimo v12.0
 
 27 juni. In deze release zit o.a. de mogelijkheid **takenlijst** te filteren op het type dossier, en data uit de (zaak)dossier te te tonen in kolommen. Zo krijgen de taken de noodzakelijke contextuele informatie om zonder de taak te open te kunnen besluiten deze te behandelen.&#x20;
