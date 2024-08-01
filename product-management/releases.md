@@ -1,5 +1,11 @@
 # Releases
 
+### GZAC Valtimo v12.1
+
+25 juli. In GZAC Valtimo 12.1 zijn er een aantal verbeteringen doorgevoerd aan de Documenten tab. De getoonde kolommen in de Documenten lijst zijn nu configureerbaar door de beheerder, die daarmee per dossier-type kan bepalen welke informatie relevant is. Daarnaast kan de beheerder nu trefwoorden instellen die gebruikt kunnen worden om aan de Documenten te koppelen, en deze daarmee te filteren.&#x20;
+
+{% embed url="https://player.vimeo.com/video/993513068" %}
+
 ### GZAC Valtimo v12.0
 
 27 juni. In deze release zit o.a. de mogelijkheid **takenlijst** te filteren op het type dossier, en data uit de (zaak)dossier te te tonen in kolommen. Zo krijgen de taken de noodzakelijke contextuele informatie om zonder de taak te open te kunnen besluiten deze te behandelen.&#x20;
