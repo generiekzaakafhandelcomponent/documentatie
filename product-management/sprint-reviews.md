@@ -1,5 +1,9 @@
 # Sprint reviews
 
+#### 22 augustus 2024
+
+{% embed url="https://vimeo.com/1008575159?share=copy" %}
+
 #### 8 augustus 2024
 
 {% embed url="https://vimeo.com/1008572752?share=copy" %}
