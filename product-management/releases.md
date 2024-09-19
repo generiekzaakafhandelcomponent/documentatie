@@ -1,5 +1,13 @@
 # Releases
 
+### GZAC Valtimo v12.2
+
+19 augustus. In GZAC Valtimo 12.2 is het mogelijk om de dossierpagina samen te stellen met behulp van de nieuwe **widgets**. Data uit meerdere **bronnen** kan eenvoudig worden getoond in een widget. Naast standaard datavelden zijn er meerdere vormen beschikbaar, zoals een tabel.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-19 at 13.56.01.png" alt="" width="563"><figcaption></figcaption></figure>
+
+In GZAC Valtimo 12.2 biedt de beheeromgeving ondersteuning voor het selecteren van data, in plaats van het handmatig opgeven van een pad (JsonPath of JsonPointer). Dit maakt het configureren van bijvoorbeeld zoekvelden of kolommen eenvoudiger, sneller en minder foutgevoelig.
+
 ### GZAC Valtimo v12.1
 
 25 juli. In GZAC Valtimo 12.1 zijn er een aantal verbeteringen doorgevoerd aan de Documenten tab. De getoonde kolommen in de Documenten lijst zijn nu configureerbaar door de beheerder, die daarmee per dossier-type kan bepalen welke informatie relevant is. Daarnaast kan de beheerder nu trefwoorden instellen die gebruikt kunnen worden om aan de Documenten te koppelen, en deze daarmee te filteren.&#x20;
@@ -29,6 +37,8 @@ Er is een nieuwe editor ingebouwd, de open source **Microsoft Monaco editor** . 
 Het **beheren van formulieren** is verbeterd, met onder meer de meer de mogelijkheid om direct via de admin in de JSON te werken. Daarnaast wordt er een preview getoond van het formulier dat gebouwd wordt, zodat je direct kan testen met data.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-27 at 11.00.24.png" alt=""><figcaption></figcaption></figure>
+
+Dossiers kunnen in GZAC 12.0 standaard voorzien worden van een **status**, in te stellen door de beheerder. De dossierstatus wordt getoond op de dossierpagina en in de dossierlijst. Dossiers filteren op basis van de status is standaard mogelijk, evenals het aangeven dat dossiers met bepaalde statussen niet standaard in de lijst getoond moeten worden.
 
 ### GZAC Valtimo v11.3
 
