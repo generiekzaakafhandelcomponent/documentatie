@@ -14,9 +14,10 @@ Deze site is bedoeld voor business analisten, productmanagers, beleidsmakers en 
 
 ## Waar begin ik?
 
-* Wil je GZAC in actie zien? Bekijk de [video](overzicht/videos.md) waarin de gemeente Amsterdam aanvragen voor tijdelijke verhuurvergunningen afhandelt.
-* Wil je meer weten over de architectuur? GZAC volgt de [Haagse referentie architectuur](https://referentie-common-ground-dh.readthedocs.io/en/latest/index.html). Een uitleg vind je hier.
-* Behoefte aan inzicht in de ontwikkelingen de komende maanden? [Hier](https://ritense.airfocus.com/share/7e310d940ab2cea996c52ba1d22da03b) vind je de product roadmap.
+* Wil je GZAC in actie zien? Bekijk [video](overzicht/videos.md)'s waarin je voorbeelden uit de praktijk ziet vanuit Amsterdam en Den Haag.
+* Wil je meer weten over de architectuur? GZAC maakt deel uit van het [Platform Dienstverlening](https://dienstverleningsplatform.gitbook.io/). Het Platform Dienstverlening is een op Common Ground principes gebaseerde architectuur, ingevuld met referentiecomponenten. Het platform komt voort uit de samenwerking tussen de gemeentes, leveranciers en Dimpact.\
+  \
+  Een uitleg vind je hier.
 * Zelf eens testen? Probeer de [Docker](https://github.com/generiekzaakafhandelcomponent/gzac-docker-compose) container met een demo-installatie.
 * Enthousiast geworden en serieus aan de slag? Je vindt de documentatie [hier](https://docs.valtimo.nl/getting-started/modules/zgw), en de code [hier](https://github.com/orgs/valtimo-platform/repositories).
 
