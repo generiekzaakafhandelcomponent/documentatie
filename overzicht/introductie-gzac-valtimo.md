@@ -2,7 +2,7 @@
 
 ### Waar staat ‘GZAC’ in GZAC Valtimo voor?&#x20;
 
-GZAC is de afkorting van Generiek Zaakafhandelcomponent. Volgens GEMMA (GEMeentelijke Model Architectuur): “GZAC is e_en generiek component dat medewerkers ondersteunt bij het afhandelen van verschillende soorten zaken. Belangrijk is dat de Generieke Zaakafhandelcomponent geschikt is om zaken van alle typen af te handelen. Dus niet beperkt tot zaken van één domein._" Zie de website van [Gemma](https://www.gemmaonline.nl/index.php/GEMMA2/0.9/id-f2dfbd0b-9d36-405c-bdbe-827f3296de29) voor meer gedetaileerde informatie.&#x20;
+GZAC is de afkorting van Generiek Zaakafhandelcomponent. Volgens GEMMA (GEMeentelijke Model Architectuur): “GZAC is &#x65;_&#x65;n generiek component dat medewerkers ondersteunt bij het afhandelen van verschillende soorten zaken. Belangrijk is dat de Generieke Zaakafhandelcomponent geschikt is om zaken van alle typen af te handelen. Dus niet beperkt tot zaken van één domein._" Zie de website van [Gemma](https://www.gemmaonline.nl/index.php/GEMMA2/0.9/id-f2dfbd0b-9d36-405c-bdbe-827f3296de29) voor meer gedetaileerde informatie.&#x20;
 
 ### Hoe is GZAC ontstaan?&#x20;
 

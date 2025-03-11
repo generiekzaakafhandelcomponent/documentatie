@@ -112,7 +112,7 @@ In de configuratie van zoekvelden is nu de mogelijkheid om keuzelijsten te maken
 
 ### GZAC Valtimo v10.2
 
-30 januari 2023_._ Release 10.2 is beschikbaar! Nieuw in deze tweede release van 2023:
+30 januari 202&#x33;_._ Release 10.2 is beschikbaar! Nieuw in deze tweede release van 2023:
 
 **Notities**
 
