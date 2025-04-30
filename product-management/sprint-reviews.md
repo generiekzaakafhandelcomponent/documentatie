@@ -1,6 +1,6 @@
 # Sprint reviews
 
-#### 30 april 2025
+#### 1 mei 2025
 
 {% embed url="https://vimeo.com/1080356022?share=copy" %}
 
