@@ -41,6 +41,12 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 * Veel Formulieren Flow verbeteringen
 * Een nieuwe manier om formulieren te configureren is beschikbaar, nl. via een URL. Bij het gebruiken van deze feature kunnen externe formulieren worden gebruikt om een proces te starten of een gebruikerstaak te submitten.
+* Bij het selecteren van een informstieobjecttype, bv. bij het uploaden van een document, de lijst van resultaten is nu gefilterd en ducmenttypes zijn alleen zichtbaar als:
+  * ze definitief zijn/gepubliceerd
+  * ze een valide startdatum hebben dat in het verleden ligt
+  * ze geen einddatum hebben die al is gepasseerd
+* De documentenlijst ondersteunt nu het tonen van resultaten op verschilende pagina's, oftewel 'pagination'
+* Wanneer audit events zijn geïnitieerd bij het systeem is de auteur nu 'systeem' i.p.v. 'anoniem'.
 * O.a bugfixes
 
 ### GZAC Valtimo v12.3
