@@ -6,7 +6,7 @@
 
 * Alles gerelateerd aan een dossier on 1 plek: een duidelijk overzicht wat bij elkaar hoort
 * Alles geversioneerd: maak sneller een nieuwe iteratie zonder zorgen over backwards compatibility
-* Concept case definitions: let the users test working processes instead of WIP
+* Concept dossier definities: laat de gebruikers werkende processen testen i.p.v WIP
 * Betere performance, verbeterde veiligheid
 * SSE: realtime updates!
 * And meer.. stay tuned!
