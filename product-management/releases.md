@@ -25,11 +25,35 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.7
 
+21 januari 2025
+
 ### GZAC Valtimo v12.6
+
+20 december 2024: In deze laatste release van het jaar:
+
+* Zaakwidgets die langere teksten op meerdere regels kunnen weergeven
+* Klikbaar dashboard naar een configureerbare URL
+* Ondertitels voor taken om meer context te geven aan de zaakbehandelaar
+* De mogelijkheid om een ​​zaak te verwijderen
+* Een enorme prestatieverbetering in PBAC door het cachen van de gebruikersgegevens
+* Toegangscontrole op gegevens in de startformulieren van ondersteunende processen
+* Ondersteuning voor nieuwe regels in zaaknotities
+* Niet langer verwijderen en opnieuw aanmaken van Notificatie API-abonnementen bij het opstarten
+* Zaakdetails-object automatisch koppelen aan de Zaak
+* Persoonlijke dashboardwidgets (aantal aan mij toegewezen zaken)
+* Configureerbare uploadvelden voor Documenten API, zodat zaakbehandelaars niet telkens elk veld hoeven in te vullen
+* Een handige, niet-toegankelijke zaakdetailpagina wanneer u geen rechten hebt om te bekijken
+* Een oplossing voor de terugknop op de zaakdetailpagina
+* Diverse andere kleinere dingen en bugfixes
 
 ### GZAC Valtimo v12.5
 
+22 november 2024: Deze release bevat:
 
+* Logging - bekijken en filteren/zoeken van logs in admin UI
+* Uploaden ZGW doumenten in gedeeltes
+* Gebruiken omgevingsvariabelen voor proceslink autodeployment
+* Bugfixes
 
 ### GZAC Valtimo v12.4
 
