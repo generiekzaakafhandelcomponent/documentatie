@@ -40,6 +40,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 <figure><img src="../.gitbook/assets/Screenshot 2025-05-26 at 16.09.22.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * Veel Formulieren Flow verbeteringen
+* Een nieuwe manier om formulieren te configureren is beschikbaar, nl. via een URL. Bij het gebruiken van deze feature kunnen externe formulieren worden gebruikt om een proces te starten of een gebruikerstaak te submitten.
 * O.a bugfixes
 
 ### GZAC Valtimo v12.3
