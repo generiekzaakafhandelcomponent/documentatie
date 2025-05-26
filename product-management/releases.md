@@ -1,5 +1,38 @@
 # Releases
 
+### GZAC Valtimo v13.0.0 Beta release
+
+22 mei 2025: de Beta release van Valtimo 13 is uit, met daarin:
+
+* Alles gerelateerd aan een dossier on 1 plek: een duidelijk overzicht wat bij elkaar hoort
+* Alles geversioneerd: maak sneller een nieuwe iteratie zonder zorgen over backwards compatibility
+* Concept case definitions: let the users test working processes instead of WIP
+* Betere performance, verbeterde veiligheid
+* SSE: realtime updates!
+* And meer.. stay tuned!
+
+Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request.demo.k8s.ritense.com/).&#x20;
+
+### GZAC Valtimo v12.12
+
+### GZAC Valtimo v12.11
+
+### GZAC Valtimo v12.10
+
+### GZAC Valtimo v12.9
+
+### GZAC Valtimo v12.8
+
+### GZAC Valtimo v12.7
+
+### GZAC Valtimo v12.6
+
+### GZAC Valtimo v12.5
+
+### GZAC Valtimo v12.4
+
+### GZAC Valtimo v12.3
+
 ### GZAC Valtimo v12.2
 
 19 augustus. In GZAC Valtimo 12.2 is het mogelijk om de dossierpagina samen te stellen met behulp van de nieuwe **widgets**. Data uit meerdere **bronnen** kan eenvoudig worden getoond in een widget. Naast standaard datavelden zijn er meerdere vormen beschikbaar, zoals een tabel.&#x20;
