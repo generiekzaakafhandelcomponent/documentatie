@@ -31,7 +31,16 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.4
 
+25 oktober 2024: Deze releasekandidaat bevat een breaking change, nl. de vervanging van WebClient door RestClient.  Verder in deze release:
+
 ### GZAC Valtimo v12.3
+
+20 september 2024: In deze release:
+
+* \[Documenten API] Geüploade documenten URLs worden nu lokaal opgeslagen in GZAC en opgevraagd door een REST API. Dat opent de deur naar het maken van een document-download form.io component, zowel als het uploaden van een document zonder het te hoeven selecteren voor het aanmaken van het besluit.&#x20;
+* De task panel feature (achter een feature toggle (enableTaskPanel)
+* Het eerste gedeelte van technische logging verbeteringen
+* Verschillende bugfixes
 
 ### GZAC Valtimo v12.2
 
