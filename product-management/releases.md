@@ -29,16 +29,25 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.5
 
+
+
 ### GZAC Valtimo v12.4
 
-25 oktober 2024: Deze releasekandidaat bevat een breaking change, nl. de vervanging van WebClient door RestClient.  Verder in deze release:
+25 oktober 2024: :warning: Deze release bevat een potentiële breaking change, nl. de vervanging van WebClient door RestClient, wat de stabiliteit verbetert.  Verder in deze release:
+
+* De taken panel: bewerkstelligt gebruikers te navigeren tussen dossiertabs tegelijkertijd tijdens het invullen van het takenformulier. Admins kunnen instellen of het formulier in de modal of in de takenpanel getoond moet worden.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-26 at 16.09.22.png" alt="" width="563"><figcaption></figcaption></figure>
+
+* Veel Formulieren Flow verbeteringen
+* O.a bugfixes
 
 ### GZAC Valtimo v12.3
 
 20 september 2024: In deze release:
 
 * \[Documenten API] Geüploade documenten URLs worden nu lokaal opgeslagen in GZAC en opgevraagd door een REST API. Dat opent de deur naar het maken van een document-download form.io component, zowel als het uploaden van een document zonder het te hoeven selecteren voor het aanmaken van het besluit.&#x20;
-* De task panel feature (achter een feature toggle (enableTaskPanel)
+* De taken panel feature, achter een feature toggle (enableTaskPanel)
 * Het eerste gedeelte van technische logging verbeteringen
 * Verschillende bugfixes
 
