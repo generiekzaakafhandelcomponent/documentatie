@@ -13,6 +13,10 @@
 
 Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request.demo.k8s.ritense.com/).&#x20;
 
+### GZAC Valtimo v12.13 (alleen back-end, front-end komt nog)
+
+29 mei 2025: ‼️Breaking change: versie 12.13.0 introduceert de implementatie van toegevoegde rolpermissie controles. Deze versie lost kwetsbaarheid (CVE 8,6) op, [hier](https://github.com/advisories/GHSA-965r-9cg9-g42p) verder uitgelegd.
+
 ### GZAC Valtimo v12.12
 
 ### GZAC Valtimo v12.11
