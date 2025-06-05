@@ -1,6 +1,6 @@
 # Releases
 
-### GZAC Valtimo v13.0.0 Beta release
+### GZAC Valtimo v13.0 Beta release
 
 22 mei 2025: de Beta release van Valtimo 13 is uit, met daarin:
 
@@ -35,16 +35,22 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 20 december 2024: In deze laatste release van het jaar:
 
-* Zaakwidgets die langere teksten op meerdere regels kunnen weergeven
-* Klikbaar dashboard naar een configureerbare URL
 * Ondertitels voor taken om meer context te geven aan de zaakbehandelaar
-* De mogelijkheid om een ​​zaak te verwijderen
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ondertitel voor een taak (configuratiescherm)</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Ondertitel voor een taak</p></figcaption></figure>
+
+* De mogelijkheid om een ​​zaak te verwijderen gelijk vanaf de zaakdetailpagina (gebruiker moet hier wel rechten tot hebben)
 * Een enorme prestatieverbetering in PBAC door het cachen van de gebruikersgegevens
 * Toegangscontrole op gegevens in de startformulieren van ondersteunende processen
 * Ondersteuning voor nieuwe regels in zaaknotities
 * Niet langer verwijderen en opnieuw aanmaken van Notificatie API-abonnementen bij het opstarten
 * Zaakdetails-object automatisch koppelen aan de Zaak
-* Persoonlijke dashboardwidgets (aantal aan mij toegewezen zaken)
+* Dashboard:
+  * Persoonlijke dashboardwidgets. Je kan bijvoorbeeld op het dashboard het 'aantal aan mij toegewezen zaken' zien)
+  * Klikbare dashboardwidgets naar een configureerbare URL. Bv. een widget die het aantal dossiers laat zien o.b.v. specifieke criteria kan doorlinken naar de dossierlijstpagina met hetzelfde toegapaste filter
+  * Zaakwidgets die langere teksten op meerdere regels kunnen weergeven
 * Configureerbare uploadvelden voor Documenten API, zodat zaakbehandelaars niet telkens elk veld hoeven in te vullen
 * Een handige, niet-toegankelijke zaakdetailpagina wanneer u geen rechten hebt om te bekijken
 * Een oplossing voor de terugknop op de zaakdetailpagina
@@ -56,7 +62,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 * Logging - bekijken en filteren/zoeken van logs in admin UI (na 21 dagen worden de logs automatisch verwijderd voor het voorkomen van een alsmaar groter wordende database).&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Overzicht in Admin > Logs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Overzicht in Admin > Logs</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Filteren van de logs</p></figcaption></figure>
 
