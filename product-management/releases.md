@@ -60,7 +60,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Filteren van de logs</p></figcaption></figure>
 
-* Uploaden ZGW documenten in gedeeltes
+* Uploaden ZGW documenten in gedeeltes (zodat grote files toch nog toegevoegd kunnen worden).
 * Gebruiken omgevingsvariabelen voor proceslink autodeployment
 * Bugfixes
 
