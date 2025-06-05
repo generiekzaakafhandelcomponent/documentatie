@@ -54,8 +54,13 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 22 november 2024: Deze release bevat:
 
-* Logging - bekijken en filteren/zoeken van logs in admin UI
-* Uploaden ZGW doumenten in gedeeltes
+* Logging - bekijken en filteren/zoeken van logs in admin UI (na 21 dagen worden de logs automatisch verwijderd voor het voorkomen van een alsmaar groter wordende database).&#x20;
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Overzicht in Admin > Logs</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Filteren van de logs</p></figcaption></figure>
+
+* Uploaden ZGW documenten in gedeeltes
 * Gebruiken omgevingsvariabelen voor proceslink autodeployment
 * Bugfixes
 
