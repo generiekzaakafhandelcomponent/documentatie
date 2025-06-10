@@ -29,7 +29,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.7
 
-21 januari 2025
+21 januari 2025:&#x20;
 
 ### GZAC Valtimo v12.6
 
@@ -37,9 +37,9 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 * Ondertitels voor taken om meer context te geven aan de zaakbehandelaar
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ondertitel voor een taak (configuratiescherm)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Ondertitel voor een taak (configuratiescherm)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Ondertitel voor een taak</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Ondertitel voor een taak</p></figcaption></figure>
 
 * De mogelijkheid om een ​​zaak te verwijderen gelijk vanaf de zaakdetailpagina (gebruiker moet hier wel rechten tot hebben)
 * Een enorme prestatieverbetering in PBAC door het cachen van de gebruikersgegevens
@@ -52,9 +52,12 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
   * Klikbare dashboardwidgets naar een configureerbare URL. Bv. een widget die het aantal dossiers laat zien o.b.v. specifieke criteria kan doorlinken naar de dossierlijstpagina met hetzelfde toegapaste filter
   * Zaakwidgets die langere teksten op meerdere regels kunnen weergeven
 * Configureerbare uploadvelden voor Documenten API, zodat zaakbehandelaars niet telkens elk veld hoeven in te vullen
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Configureerbare Documenten API metadata</p></figcaption></figure>
+
 * Een handige, niet-toegankelijke zaakdetailpagina wanneer u geen rechten hebt om te bekijken
 * Een oplossing voor de terugknop op de zaakdetailpagina
-* Diverse andere kleinere dingen, performance verbeteringen en bugfixes
+* Diverse andere kleinere dingen en bugfixes
 
 ### GZAC Valtimo v12.5
 
