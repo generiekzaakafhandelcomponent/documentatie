@@ -25,11 +25,21 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.9
 
+26 maart 2025:
+
+*
+
 ### GZAC Valtimo v12.8
 
 4 maart 2025:
 
+* Proceslinkconfiguraties kunnen nu herbruikt worden. Je kan nu een configuratie importeren van een andere proceslink vanuit dezelfde plugin.&#x20;
 
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Importeer configuratie</p></figcaption></figure>
+
+* Verbergen van lege dossierwidgetvelden
+* Rollen en rechten voor Documenten API documenten.  Toegang o.b.v. gebruiker kan ingeregel worden om documenten te bekijken, creeëren, beerkend en verwijderen
+* Verscheidene bugfixes
 
 ### GZAC Valtimo v12.7
 
@@ -53,9 +63,9 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 * Ondertitels voor taken om meer context te geven aan de zaakbehandelaar
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Ondertitel voor een taak (configuratiescherm)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Ondertitel voor een taak (configuratiescherm)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>Ondertitel voor een taak</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Ondertitel voor een taak</p></figcaption></figure>
 
 * De mogelijkheid om een ​​zaak te verwijderen gelijk vanaf de zaakdetailpagina (gebruiker moet hier wel rechten tot hebben)
 * Een enorme prestatieverbetering in PBAC door het cachen van de gebruikersgegevens
