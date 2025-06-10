@@ -27,9 +27,25 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.8
 
+4 maart 2025:
+
+
+
 ### GZAC Valtimo v12.7
 
 21 januari 2025:&#x20;
+
+* Taakinformatie beschikbaar op het dashboard
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-06-10 at 14.37.12.png" alt=""><figcaption><p>Taakinformatie op het dashboard</p></figcaption></figure>
+
+* Knoppen op de dossierwidgets om een ad-hoc/supporting proces te starten
+* De optie om dossierwidgets and dashboardwidgets te dupliceren
+* Value path selectoren, voor
+  * Dashboard widgets
+  * Verzoek, Portaaltaak en SmartDocuments plugin
+* Ondersteuning voor custom UI componenten om taken te beheren
+* Verschillende bugfixes
 
 ### GZAC Valtimo v12.6
 
@@ -37,9 +53,9 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 * Ondertitels voor taken om meer context te geven aan de zaakbehandelaar
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Ondertitel voor een taak (configuratiescherm)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Ondertitel voor een taak (configuratiescherm)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Ondertitel voor een taak</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>Ondertitel voor een taak</p></figcaption></figure>
 
 * De mogelijkheid om een ​​zaak te verwijderen gelijk vanaf de zaakdetailpagina (gebruiker moet hier wel rechten tot hebben)
 * Een enorme prestatieverbetering in PBAC door het cachen van de gebruikersgegevens
@@ -53,7 +69,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
   * Zaakwidgets die langere teksten op meerdere regels kunnen weergeven
 * Configureerbare uploadvelden voor Documenten API, zodat zaakbehandelaars niet telkens elk veld hoeven in te vullen
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Configureerbare Documenten API metadata</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Configureerbare Documenten API metadata</p></figcaption></figure>
 
 * Een handige, niet-toegankelijke zaakdetailpagina wanneer u geen rechten hebt om te bekijken
 * Een oplossing voor de terugknop op de zaakdetailpagina
@@ -65,9 +81,9 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 * Logging - bekijken en filteren/zoeken van logs in admin UI (na 21 dagen worden de logs automatisch verwijderd voor het voorkomen van een alsmaar groter wordende database).&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Overzicht in Admin > Logs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Overzicht in Admin > Logs</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Filteren van de logs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Filteren van de logs</p></figcaption></figure>
 
 * Uploaden ZGW documenten in gedeeltes (zodat grote files toch nog toegevoegd kunnen worden).
 * Gebruiken omgevingsvariabelen voor proceslink autodeployment
