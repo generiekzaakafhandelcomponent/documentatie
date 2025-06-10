@@ -54,7 +54,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 * Configureerbare uploadvelden voor Documenten API, zodat zaakbehandelaars niet telkens elk veld hoeven in te vullen
 * Een handige, niet-toegankelijke zaakdetailpagina wanneer u geen rechten hebt om te bekijken
 * Een oplossing voor de terugknop op de zaakdetailpagina
-* Diverse andere kleinere dingen en bugfixes
+* Diverse andere kleinere dingen, performance verbeteringen en bugfixes
 
 ### GZAC Valtimo v12.5
 
