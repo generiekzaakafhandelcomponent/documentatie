@@ -23,11 +23,16 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.10
 
+3 april 2025":
+
+
+
 ### GZAC Valtimo v12.9
 
 26 maart 2025:
 
-*
+* De overzichtelijkheid van de loggingdetails is verbeterd. Belangrijke regels in de stacktrace zijn nu gemarkeerd zodat ze beter leesbaar zijn en zodat er sneller 'gedebugged' kan worden.
+* Verscheidene bugfixes, bv. bugs gerelateerd aan geüploade bestanden en Carbon tags
 
 ### GZAC Valtimo v12.8
 
