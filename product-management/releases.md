@@ -193,6 +193,8 @@ Dossiers kunnen in GZAC 12.0 standaard voorzien worden van een **status**, in te
 
 Op 2 mei is GZAC Valtimo 11.3.0 gereleased. In deze nieuwe release wordt 'termijnbewaking' geintroduceerd, waarmee de einddatum van een Zaak kan worden aangepast in geval van een hersteltermijn. Op die manier kunnen inwoners geinformeerd worden over de verwachte doorlooptijd van hun verzoek. Daarnaast biedt de Zaak plugin nu ondersteuning voor Zaakeigenschappen.
 
+⚠️ Versie 11.3.5 bevat een belangrijke Objecten-API plugin bug fix (meer hierover onder release 12.13)
+
 ### GZAC Valtimo v11.2
 
 5 april 2023: release 11.2.0 is uit. In deze nieuwe release zijn een aantal nieuwe features beschikbaar, waaronder het kunnen importeren en exporteren van documentdefinities vanuit een ZIP archief. Verder worden nu ook Keycloak groepsrollen ondersteund in de Access control feature en zie je nu ook de versie van het proces op de 'progress' tab van een dossier. Zie voor de volledige lijst [hier](https://docs.valtimo.nl/release-notes/11.x.x/11.2.0/valtimo-backend-libraries) en [hier](https://docs.valtimo.nl/release-notes/11.x.x/11.2.0/valtimo-frontend-libraries).&#x20;
