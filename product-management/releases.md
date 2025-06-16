@@ -23,7 +23,9 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.10
 
-3 april 2025":
+3 april 2025:
+
+*
 
 
 
