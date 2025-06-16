@@ -19,6 +19,10 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.12
 
+9 mei 2025:
+
+*
+
 ### GZAC Valtimo v12.11
 
 10 april 2025:
@@ -26,6 +30,10 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 * Dossiertags kunnen nu worden toegevoegd aan een dossier om extra informatie mee te geven aan het dossier. Tags kunnen getoond worden in de dossierlijst, op het dossierdetailpagina en kunnen gebruikt worden bij het zoeken van een dossier uit de dossierlijst.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-06-16 at 14.27.16.png" alt=""><figcaption><p>Dossiertags</p></figcaption></figure>
+
+* Externe startformulieren kunnen geconfigureerd worden voor een dossiertype. Wanneer dit is geconfigureerd, wanneer je klikt op het aanmaken van een nieuw dossier, opent dit de geconfigureerde URL in een nieuwe browser tab.
+* Meer components zijn omgezet naar het Carbon design systeem
+* Verschillende bugfixes, zoals die gerelateerd aan het afhandelen van formulieren en het Form.io valuta component
 
 ### GZAC Valtimo v12.10
 
