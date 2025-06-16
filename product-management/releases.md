@@ -21,13 +21,18 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.11
 
+10 april 2025:
+
+* Dossiertags kunnen nu worden toegevoegd aan een dossier om extra informatie mee te geven aan het dossier. Tags kunnen getoond worden in de dossierlijst, op het dossierdetailpagina en kunnen gebruikt worden bij het zoeken van een dossier uit de dossierlijst.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-06-16 at 14.27.16.png" alt=""><figcaption><p>Dossiertags</p></figcaption></figure>
+
 ### GZAC Valtimo v12.10
 
-3 april 2025:
+3 april 2025: nieuwe minor release met o.a.:&#x20;
 
-*
-
-
+* Optie tot het verbergen van taken die niet tot de afhandelrechten behoren van betreffende gebruiker
+* Verscheidene bugfixes
 
 ### GZAC Valtimo v12.9
 
