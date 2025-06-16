@@ -19,9 +19,12 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.12
 
-9 mei 2025:
+9 mei 2025, een kleine release met één nieuwe functionaliteit en 2 bugfixes:
 
-*
+*   Mogelijkheid om einddatum van een taak aan te passen vanuit de taken modal (voor een gebruiker met de juiste rechten hiervoor)
+
+    <figure><img src="../.gitbook/assets/Screenshot 2025-06-16 at 14.51.14.png" alt=""><figcaption><p>Aanpassen einddatum in taak</p></figcaption></figure>
+* Bugfix rondom procesvariabele type Map
 
 ### GZAC Valtimo v12.11
 
