@@ -2,7 +2,7 @@
 
 #### 12 juni 2025
 
-Coming soon...
+{% embed url="https://vimeo.com/1094637974?share=copy#t=0" %}
 
 #### 15 mei 2025
 
