@@ -6,7 +6,7 @@ Coming soon...
 
 #### 15 mei 2025
 
-Coming soon...
+{% embed url="https://vimeo.com/1094636790?share=copy#t=0" %}
 
 #### 1 mei 2025
 
