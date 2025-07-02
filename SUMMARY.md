@@ -24,7 +24,6 @@
 
 ## Kennisbank
 
-* [Downloads](kennisbank/downloads.md)
 * [Data in zaakdossiers](kennisbank/data-in-zaakdossiers.md)
 * [Continuous Integration en Continuous Delivery](kennisbank/continuous-integration-en-continuous-delivery.md)
 * [Adopteren vs bouwen](kennisbank/adopteren-vs-bouwen.md)
