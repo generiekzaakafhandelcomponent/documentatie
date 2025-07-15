@@ -20,11 +20,10 @@
 
 ***
 
-* [Documentatie](https://docs.valtimo.nl/getting-started/first-dive/start-as-docker-containers#gzac)
+* [Documentatie](https://docs.valtimo.nl/valtimo-13/fundamentals/getting-started#tab-gzac)
 
 ## Kennisbank
 
-* [Downloads](kennisbank/downloads.md)
 * [Data in zaakdossiers](kennisbank/data-in-zaakdossiers.md)
 * [Continuous Integration en Continuous Delivery](kennisbank/continuous-integration-en-continuous-delivery.md)
 * [Adopteren vs bouwen](kennisbank/adopteren-vs-bouwen.md)
