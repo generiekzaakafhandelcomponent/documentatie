@@ -8,9 +8,14 @@ Voor de GZAC-editie bestaat een stuurgroep, bestaande uit afgevaardigden van par
 
 Eens per twee weken wordt het resultaat van een sprint getoond in een openbare, online sprint review. De opnames daarvan worden online gedeeld en zijn voor iedereen openbaar.
 
-**Prioritering wensen (stories)**
+**Prioritering wensen (user stories)**
 
-Wensen kunnen worden ingebracht in de vorm van een issue op Github: https://github.com/generiekzaakafhandelcomponent/gzac-issues/issues. Vervolgens kan de indiener kiezen het issue zelf te bouwen. In dat geval wordt [deze](https://docs.valtimo.nl/contributing-to-valtimo/contributing-to-valtimo) procedure gevolgd. Het productteam verwerkt ook elke sprint issues. De Product Owner prioriteert. Er wordt gekeken naar de waarde die een issue zou toevoegen aan het product, daarin wegen de stemmen die een issue krijgt:
+Wensen kunnen worden ingebracht in de vorm van een issue op Github: https://github.com/generiekzaakafhandelcomponent/gzac-issues/issues. Vervolgens kan de indiener kiezen het issue zelf te bouwen. In dat geval wordt [deze](https://docs.valtimo.nl/contributing-to-valtimo/contributing-to-valtimo) procedure gevolgd. Het productteam verwerkt ook elke sprint issues. De Product Owner prioriteert. Hierbij spelen onder andere de volgende factoren een rol:
+
+* Past de feature in de productvisie
+* Past de feature in een thema dat met de stuurgroep is afgesproken
+* Heeft de feature een zwaarwegend belang voor de organisatie, bijvoorbeeld als afhankelijkheid voor de implementatie van een proces
+* Zijn er meerdere organisaties die deze feature ook belangrijk vinden. Daarbij is een van de maatstaven het aantal reacties dat aan een issue wordt gegeven:
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-11 at 11.28.58.png" alt=""><figcaption></figcaption></figure>
 
