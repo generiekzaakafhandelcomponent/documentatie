@@ -21,7 +21,7 @@ Om het doel voor 2024 te bereiken zijn bijvoorbeeld de volgende onderwerpen geno
 
 ### Roadmap
 
-De product roadmap wordt eens per twee weken bijgewerkt, op basis van de actuele wensen. De stuurgroep bepaalt de roadmap. Het plaatje is ter illustratie, de[ link](https://ritense.airfocus.com/share/7e310d940ab2cea996c52ba1d22da03b) leidt naar de actuele roadmap.
+De product roadmap wordt eens per twee weken bijgewerkt, op basis van de actuele wensen. De stuurgroep bepaalt de roadmap. Het plaatje is ter illustratie, de[ link](https://ritense.atlassian.net/jira/discovery/share/views/6a25d852-900a-46de-8e45-a4a7fa554de6) leidt naar de actuele roadmap.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-01-18 at 16.20.44.png" alt=""><figcaption></figcaption></figure>
 
