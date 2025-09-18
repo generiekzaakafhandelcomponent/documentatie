@@ -15,6 +15,7 @@ Deze site is bedoeld voor business analisten, productmanagers, beleidsmakers en 
 ## Waar begin ik?
 
 * Wil je GZAC in actie zien? Bekijk [video](overzicht/videos.md)'s waarin je voorbeelden uit de praktijk ziet vanuit Amsterdam en Den Haag.
+* Wil je zelf met GZAC aan de slag? vraag dan de tijdelijke [demo omgeving](https://request.demo.k8s.ritense.com/) aan. Maak zeld een nieuw proces of bekijk het voorbeeld proces voor evenementenvergunningen.
 * Wil je meer weten over de architectuur? GZAC maakt deel uit van het [Platform Dienstverlening](https://dienstverleningsplatform.gitbook.io/). Het Platform Dienstverlening is een op Common Ground principes gebaseerde architectuur, ingevuld met referentiecomponenten. Het platform komt voort uit de samenwerking tussen de gemeentes, leveranciers en Dimpact.\
   \
   Een uitleg vind je hier.
