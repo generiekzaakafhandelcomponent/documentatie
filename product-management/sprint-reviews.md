@@ -1,5 +1,17 @@
 # Sprint reviews
 
+18 september
+
+{% embed url="https://vimeo.com/1122184235?share=copy#t=1841" %}
+
+4 september
+
+{% embed url="https://vimeo.com/1122179730?share=copy#t=0" %}
+
+21 augustus&#x20;
+
+{% embed url="https://vimeo.com/1122174478?share=copy#t=0" %}
+
 7 augustus
 
 {% embed url="https://vimeo.com/1110016998?share=copy#t=0" %}
