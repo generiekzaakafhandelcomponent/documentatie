@@ -1,8 +1,10 @@
 # Sprint reviews
 
-26 juni 2025
+7 augustus
 
-{% embed url="https://vimeo.com/1122158275?share=copy#t=0" %}
+{% embed url="https://vimeo.com/1110016998?share=copy#t=0" %}
+
+26 juni 2025
 
 12 juni 2025
 
