@@ -4,7 +4,17 @@
 
 {% embed url="https://vimeo.com/1110016998?share=copy#t=0" %}
 
+24 juli 2025
+
+Geen sprint review in verband met vakantie.
+
+10 juli 2025
+
+Geen sprint review in verband met vakantie.
+
 26 juni 2025
+
+{% embed url="https://vimeo.com/1122158275" %}
 
 12 juni 2025
 
