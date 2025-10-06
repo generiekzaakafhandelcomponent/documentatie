@@ -1,5 +1,9 @@
 # Sprint reviews
 
+02 october
+
+{% embed url="https://vimeo.com/1124873523?share=copy#t=0" %}
+
 18 september
 
 {% embed url="https://vimeo.com/1122184235?share=copy#t=1841" %}
