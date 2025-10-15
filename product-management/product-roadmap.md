@@ -1,25 +1,22 @@
 # Product roadmap
 
-### Thema 2024: halveer de implementatie-tijd
+2025 staat in het teken van drie hoofdthema’s: Integraal Klantbeeld, Sneller naar productie en Gebruikerservaring.
 
-In 2024 wordt in de GZAC ontwikkeling ingezet op het verminderen van de implementatie-tijd. Dat doel wordt bijvoorbeeld bereikt door:
+## Integraal Klantbeeld
 
-* Configuratie-eerst strategie.
-* Veel gebruikte/gevraagde functies toe te voegen aan GZAC, zodat coderen niet nodig is.
-* Bestaande functies te verbeteren die relatief veel implementatie-tijd vragen.
-* Algemene verbeteringen aan GZAC, zoals meer inzicht in technische fouten, zodat debuggen wordt versneld.
+We bouwen verder aan een volledig overzicht van de klant, waarin alle relevante gegevens en lopende zaken samenkomen. Dit maakt het eenvoudiger om dossiers te beheren en beter samen te werken binnen teams. Nieuwe functies zoals het starten van een zaak vanuit het klantbeeld en context switch tussen zaak en beeld zorgen voor een vloeiende werkervaring.
 
-Voor 2024 is de 'North star' geformuleerd als 'het halveren van de implementatie-tijd'. Deze North star wordt gedurende het jaar gebruikt worden om afwegingen te maken in welke features in GZAC (door)ontwikkeld worden.
+## Sneller naar productie
 
-### Onderwerpen
+We investeren in tools en processen die het ontwikkel- en implementatieproces versnellen. Met onder andere Git Sync, Deployer en verbeterde omgeving instellingen kunnen nieuwe functies sneller en betrouwbaarder worden uitgerold. Ook zorgen bouwblokken en prestatieverbeteringen voor een stabieler fundament waarop toekomstige innovaties sneller gerealiseerd kunnen worden.
 
-Om het doel voor 2024 te bereiken zijn bijvoorbeeld de volgende onderwerpen genoemd:
+## Gebruikerservaring
 
-* Verminderen complexiteit in het gebruik van Form.io, specifiek voor de dossier-detail pagina. In elk proces wordt handmatig de eerste tab geconfigureerd in het zaakdossier, met behulp van formio. In sommige gevallen kan dit arbeidsintensief zijn - en het komt in elk proces voor.
-* Verbeteren van inzicht in technische fouten en logging. Het oplossen is vaak simpel, maar het vinden van de oorzaak van een fout in Formio, het Document, BPMN of DMN modellen of configuratie van plugins kan tijdrovend zijn.
-* Complexiteit in het BPMN modelleren: het samenvoeging van het proces-modeler scherm en het proces-koppelingen scherm maakt het modelleren eenvoudiger.
+De gebruiksvriendelijkheid van het platform krijgt veel aandacht. We verbeteren de widgets, introduceren persoonlijke lijsten en verfijnen de GZAC-interface. Daarnaast werken we aan betere toegankelijkheid (WCAG), documentbeheer, en Office-integratie, zodat gebruikers intuïtiever en efficiënter kunnen werken.
 
-### Roadmap
+Tot slot stimuleren we continue verbetering door middel van de PDCA-cyclus (casusregie) en onderzoeken we uitbreidingen zoals een planner- en afspraken plugin. Samen zorgen deze verbeteringen voor een toekomstbestendig platform dat prettiger werkt, sneller levert en beter aansluit op de dagelijkse praktijk.
+
+## Roadmap
 
 De product roadmap wordt eens per twee weken bijgewerkt, op basis van de actuele wensen. De stuurgroep bepaalt de roadmap. Het plaatje is ter illustratie, de[ link](https://ritense.atlassian.net/jira/discovery/share/views/6a25d852-900a-46de-8e45-a4a7fa554de6) leidt naar de actuele roadmap.
 
