@@ -1,5 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.1.0&#x20;
+
+20 augustus 2025: Beta - release met uitbreidingen is beschikbaar - dit zit erin:
+
+* Case Definition-controle maakt het nu mogelijk voor gebruikers om details te bekijken op basis van hun toegewezen rol
+* Gebruikers kunnen nu kolommen en zoekvelden zelf configureren&#x20;
+* Widgets kunnen nu ook worden ingesteld
+* Verbeteringen aan de Notificaties API zijn doorgevoerd voor meer betrouwbaarheid en betere prestaties
+* Een nieuwe aanpak voor Form.io-formuliervertalingen is geïmplementeerd
+* Diverse systeemverbeteringen met betrekking tot deployments, toegangsbeheer en algemene stabiliteit.
+
 ### GZAC Valtimo v13.0 Beta release
 
 22 mei 2025: de Beta release van Valtimo 13 is uit, met daarin:
