@@ -1,5 +1,14 @@
 # Releases
 
+### GZAC Valtimo v13.3.0
+
+8 october 2025: nieuwe minor release met o.a nieuwe functionaliteiten:
+
+* Gebruikers kunnen nu case-objecten toevoegen aan een case
+* Bij het aanmaken van een nieuwe case in Open Zaak is het nu mogelijk om meer case-details toe te voegen
+* Condities kunnen nu worden gedefinieerd en ingesteld voor de weergave van case-widgets
+* Diverse bugfixes, zoals verbeterde prestaties van widget pagina’s, algemene performance verbeteringen, kleine UI-correcties en verbeterd gedrag van de verzoek-plugin.
+
 ### GZAC Valtimo v13.2.0
 
 16 september 2025: verdere uitbreidingen van v13, waaronder:
