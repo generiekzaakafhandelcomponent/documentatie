@@ -1,5 +1,17 @@
 # Releases
 
+### GZAC Valtimo v13.2.0
+
+16 september 2025: verdere uitbreidingen van v13, waaronder:
+
+* Case-widgets hebben nu een klikbare link waarmee case-informatie in een nieuw tabblad kan worden geopend.
+* Het is nu mogelijk om direct van een taak naar een case over te schakelen.
+* Case-informatie kan nu worden geëxporteerd.
+* Beveiliging van toegangsrechten is verder verbeterd.
+* Een snelle zoekfunctie is toegevoegd.
+* De documentdefinitie naam wordt nu automatisch ingevuld op basis van de huidige case.
+* Diverse bug-fixes met betrekking tot de migratie van V12 naar V13, vertalingen en processen.
+
 ### GZAC Valtimo v13.1.0&#x20;
 
 20 augustus 2025: Beta - release met uitbreidingen is beschikbaar - dit zit erin:
