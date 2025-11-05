@@ -1,5 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.5.0
+
+05 november 2025 - nieuwe minor release met o.a nieuwe functionaliteiten, verbeteringen en bug-fixes:
+
+* OpenZaak-plugin is bijgewerkt met een nieuwe actie waarmee een Zaak-rolen kunnen worden verwijderd zodra deze niet langer beschikbaar zijn.
+* Meerdere beveiligingsverbeteringen aan de applicatie zijn doorgevoerd.
+* Prestatieverbeteringen bij het ophalen van taken en zaken zijn nu uitgerold.
+*   Meerdere bug-fixes, onder anderen koppelingen tussen processen en formulieren worden nu altijd correct meegenomen, zaaktags en header-widgets worden nu goed overgenomen in nieuwe conceptversies, bij het uploaden van een document wordt het veld met document typen automatisch ingevuld (indien beschikbaar), bij het aanmaken van een nieuwe zaak-widget worden voorwaarden van eerder geopende widgets niet langer vooraf ingevuld, de titels van FormIO- en aangepaste widgets worden nu correct weergegeven, widgets UI correcties en meer.
+
+
+
 ### GZAC Valtimo v13.4.0
 
 21 oktober 2025 – Deze release bevat:
