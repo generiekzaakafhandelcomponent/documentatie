@@ -1,28 +1,32 @@
 # Sprint reviews
 
-16 october
+30 oktober 2025
+
+{% embed url="https://vimeo.com/1134594532?share=copy&fl=sv&fe=ci" %}
+
+16 oktober 2025
 
 {% embed url="https://vimeo.com/1130150173?share=copy&fl=sv&fe=ci" %}
 
 
 
-02 october
+02 oktober 2025
 
 {% embed url="https://vimeo.com/1124873523?share=copy#t=0" %}
 
-18 september
+18 september 2025
 
 {% embed url="https://vimeo.com/1122184235?share=copy#t=1841" %}
 
-4 september
+4 september 2025
 
 {% embed url="https://vimeo.com/1122179730?share=copy#t=0" %}
 
-21 augustus&#x20;
+21 augustus 2025
 
 {% embed url="https://vimeo.com/1122174478?share=copy#t=0" %}
 
-7 augustus
+7 augustus 2025
 
 {% embed url="https://vimeo.com/1110016998?share=copy#t=0" %}
 
