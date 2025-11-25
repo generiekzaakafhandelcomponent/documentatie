@@ -1,5 +1,9 @@
 # Sprint reviews
 
+13 november 2025
+
+{% embed url="https://vimeo.com/1140421693?share=copy&fl=sv&fe=ci" %}
+
 30 oktober 2025
 
 {% embed url="https://vimeo.com/1134594532?share=copy&fl=sv&fe=ci" %}
