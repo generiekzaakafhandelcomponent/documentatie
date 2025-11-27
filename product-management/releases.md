@@ -5,6 +5,7 @@
 27 november 2025 - nieuwe minor release met o.a nieuwe functionaliteiten en diverse bug-fixes:
 
 * Zaken API-plugin heeft enkele veranderingen: een datum voor een zaakstatus kan nu worden ingesteld en zaakbesluiten kunnen nu worden opgehaald
+* De Besluiten API plugin is uitgebreid met een plugin action waarmee de vervaldatum en vervalreden op een eerder vastgelegd besluit aangepast kan worden
 * Een nieuwe widget — de kaart-widget — is toegevoegd&#x20;
 * Een actieknop kan nu bij bijna alle widgets worden toegevoegd tijdens de configuratie. Deze knop kan worden gebruikt om een zaak te starten of de gebruiker naar een externe link te brengen
 * Er zijn meerdere bugfixes en UI-verbeteringen doorgevoerd. Zo worden radioknoppen nu naast elkaar getoond, gaat de applicatie beter om met tijdzone-informatie, is de verwerking bij het ophalen van gebruikers sneller, kunnen icoontjes nu worden toegevoegd tijdens de widget-configuratie en meer.
