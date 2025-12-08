@@ -15,6 +15,7 @@
 * [Sprint reviews](product-management/sprint-reviews.md)
 * [Sturing](product-management/stuurgroep.md)
 * [Product roadmap](product-management/product-roadmap.md)
+* [Compatibiliteitsbeleid](product-management/compatibiliteitsbeleid.md)
 * [Impressies](product-management/impressies.md)
 * [Publieke GZAC exchange](product-management/publieke-gzac-exchange.md)
 * [GZAC Insights](product-management/gzac-insights.md)
