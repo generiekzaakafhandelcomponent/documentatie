@@ -38,3 +38,4 @@
 * [Versies van Zaaktypes](kennisbank/versies-van-zaaktypes.md)
 * [Twee opties voor effectief Case Management met GZAC](kennisbank/twee-opties-voor-effectief-case-management-met-gzac.md)
 * [Product of ontwikkelframework](kennisbank/product-of-ontwikkelframework.md)
+* [Video's](kennisbank/videos.md)
