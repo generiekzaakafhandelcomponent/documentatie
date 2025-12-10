@@ -1,5 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.7.0
+
+10 december 2025 - een klein release met paar nieuwe features en bug-fixes:
+
+* Er zijn drie nieuwe _retry cycle_-opties beschikbaar voor Tasks, Call Activities, Subprocesses en Events: **DEFAULT**, **QUICK** en **CRITICAL**, die aangepast en gedefinieerd kunnen worden.
+* Alle widgets hebben nu ook een compacte modus. Dit kan worden ingesteld tijdens de widgetconfiguratie
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-12-10 at 15.54.29.png" alt=""><figcaption></figcaption></figure>
+
+* Kleine bugfixes zijn ook doorgevoerd, waaronder verbeteringen aan plugin, en gedraag van Auto Key input component.
+
 ### GZAC Valtimo v13.6.0
 
 27 november 2025 - nieuwe minor release met o.a nieuwe functionaliteiten en diverse bug-fixes:
@@ -123,7 +134,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 * Proceslinkconfiguraties kunnen nu herbruikt worden. Je kan nu een configuratie importeren van een andere proceslink vanuit dezelfde plugin.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Importeer configuratie</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Importeer configuratie</p></figcaption></figure>
 
 * Verbergen van lege dossierwidgetvelden
 * Rollen en rechten voor Documenten API documenten.  Toegang o.b.v. gebruiker kan ingeregel worden om documenten te bekijken, creeëren, beerkend en verwijderen
@@ -151,7 +162,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 * Ondertitels voor taken om meer context te geven aan de zaakbehandelaar
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Ondertitel voor een taak (configuratiescherm)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Ondertitel voor een taak (configuratiescherm)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Ondertitel voor een taak</p></figcaption></figure>
 
