@@ -1,5 +1,17 @@
 # Releases
 
+### GZAC Valtimo v13.8.0
+
+17 december 2025 – nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bug-fixes:
+
+* De case properties kunnen nu direct vanuit Form.io worden aangepast. Ondersteunde TargetKeys-waarden:
+  * `case:assigneeId` — past de case-verantwoordelijke aan
+  * `case:internalStatus` — past de interne status van de case aan
+  * `case:caseTags` — voegt een tag toe aan de case
+* Key en value kunnen nu worden geconfigureerd in de custom component widgets.
+* Documenttypes in de Documenten API zijn alfabetisch geordend en doorzoekbaar.
+* Deze release bevat ook enkele bug-fixes, waaronder process-links zijn nu gefixt met de juiste versie; vertalingen in de Catalogi API zijn gecorrigeerd
+
 ### GZAC Valtimo v13.7.0
 
 10 december 2025 - een klein release met paar nieuwe features en bug-fixes:
