@@ -10,6 +10,7 @@
   * `case:caseTags` — voegt een tag toe aan de case
 * Key en value kunnen nu worden geconfigureerd in de custom component widgets.
 * Documenttypes in de Documenten API zijn alfabetisch geordend en doorzoekbaar.
+* De Zaken API-plugin is uitgebreid met een nieuwe actie om een zaaknotitie te creëren en aan de zaak te koppelen
 * Deze release bevat ook enkele bug-fixes, waaronder process-links zijn nu gefixt met de juiste versie; vertalingen in de Catalogi API zijn gecorrigeerd
 
 ### GZAC Valtimo v13.7.0
