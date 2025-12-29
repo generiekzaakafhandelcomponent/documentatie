@@ -1,20 +1,18 @@
 # Product roadmap
 
-2025 staat in het teken van drie hoofdthema’s: Integraal Klantbeeld, Sneller naar productie en Gebruikerservaring.
+De ontwikkeling van GZAC in 2026 staat opnieuw in het teken van drie hoofdthema’s: verdere verbeteringen rondom integraties met de IKO-client, sneller naar productie en een betere gebruikerservaring.
 
-## Integraal Klantbeeld
+## Integratie met IKO Client
 
-We bouwen verder aan een volledig overzicht van de klant, waarin alle relevante gegevens en lopende zaken samenkomen. Dit maakt het eenvoudiger om dossiers te beheren en beter samen te werken binnen teams. Nieuwe functies zoals het starten van een zaak vanuit het klantbeeld en context switch tussen zaak en beeld zorgen voor een vloeiende werkervaring.
+We bouwen verder aan mogelijkheden voor het sorteren en filteren van data, voeren prestatieverbeteringen door en maken gegevensuitwisseling tussen het GZAC-dossier en Beeld eenvoudiger. Daarnaast onderzoeken we mogelijke nieuwe widgets en andere uitbreidingen.
 
 ## Sneller naar productie
 
-We investeren in tools en processen die het ontwikkel- en implementatieproces versnellen. Met onder andere Git Sync, Deployer en verbeterde omgeving instellingen kunnen nieuwe functies sneller en betrouwbaarder worden uitgerold. Ook zorgen bouwblokken en prestatieverbeteringen voor een stabieler fundament waarop toekomstige innovaties sneller gerealiseerd kunnen worden.
+We investeren in tools en processen die het ontwikkel- en implementatieproces versnellen. Denk hierbij onder andere aan Git Sync en bouwblokken, die zorgen voor een stabieler fundament waarop toekomstige innovaties sneller gerealiseerd kunnen worden.
 
 ## Gebruikerservaring
 
-De gebruiksvriendelijkheid van het platform krijgt veel aandacht. We verbeteren de widgets, introduceren persoonlijke lijsten en verfijnen de GZAC-interface. Daarnaast werken we aan betere toegankelijkheid (WCAG), documentbeheer, en Office-integratie, zodat gebruikers intuïtiever en efficiënter kunnen werken.
-
-Tot slot stimuleren we continue verbetering door middel van de PDCA-cyclus (casusregie) en onderzoeken we uitbreidingen zoals een planner- en afspraken plugin. Samen zorgen deze verbeteringen voor een toekomstbestendig platform dat prettiger werkt, sneller levert en beter aansluit op de dagelijkse praktijk.
+Ook de gebruiksvriendelijkheid van het platform krijgt veel aandacht dit jaar. We blijven de widgets verder verbeteren en introduceren quick search voor taken en documenten. Daarnaast werken we aan betere samenwerking binnen dossiers, zodat gebruikers efficiënter kunnen werken.
 
 ## Roadmap
 
