@@ -1,5 +1,20 @@
 # Releases
 
+### GZAC Valtimo v13.10.0
+
+7 januari 2026 – De eerste release van 2026 bevat een aantal kleine verbeteringen:
+
+* De lijst met zaakdefinities in het menu is nu alfabetisch gesorteerd.
+* Er is een nieuwe actie toegevoegd aan de Zaken API-plugin voor het bijwerken van de startdatum van een zaak.
+* Diverse kleine maar belangrijke bugfixes, waaronder: de lijst met dossiers is weer zichtbaar op het JsonSchemaDocument, een migratieprobleem bij een groot aantal zaken is opgelost en everige kleine fixes
+
+### GZAC Valtimo v13.9.0 / 13.9.1
+
+24 december 2025 - een klein release met een belangrijke feature en bug-fix:
+
+* Er is nieuwe functionaliteit toegevoegd: wanneer dit is ingeschakeld, worden bestanden die zijn geüpload naar de Documenten API of die zijn opgeslagen in tijdelijke bestandsopslag gescand op virussen.
+* Opgelost: bij het uploaden van een ZIP-bestand worden de bestaande gegevens niet langer overschreven.
+
 ### GZAC Valtimo v13.8.0
 
 17 december 2025 – nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bug-fixes:
