@@ -1,5 +1,15 @@
 # Releases
 
+### GZAC Valtimo v13.11.0
+
+14 januari 2026 - nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bug-fixes:
+
+* Er is een nieuwe functionaliteit toegevoegd aan de Documenten API: het is nu mogelijk om bestandstypen te beperken in de uploader FormIO-component. De bestandsextensie van het geüploade bestand weerspiegelt nu altijd het daadwerkelijke bestandstype, ook wanneer we de bestandsnaam programmatisch instellen vanuit de Documenten API-uploadercomponent.
+* Om de gebruikerservaring te verbeteren en de systeemprestaties te verhogen, hebben we lazy loading geïntroduceerd voor de case widgets.
+* Wat is opgelost in deze release: paginering op de keuzeveld-pagina, een fout bij het ophalen van gebruikers uit Keycloak (versie 26.3.0 of nieuwer), de documenttype-dropdown van de Documenten API.
+
+
+
 ### GZAC Valtimo v13.10.0
 
 7 januari 2026 – De eerste release van 2026 bevat een aantal kleine verbeteringen:
