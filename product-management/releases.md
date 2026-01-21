@@ -1,5 +1,15 @@
 # Releases
 
+### GZAC Valtimo v13.12.0
+
+21 januari 2026 - deze release bevat:
+
+* Duidelijkere versieregels voor casedefinities: bij het aanmaken van een casedefinitie wordt nu duidelijk aangegeven dat het versienummer een standaard formaat moet volgen (bijvoorbeeld: 1.0.0).
+* Betere zichtbaarheid wanneer een proces een probleem ondervindt - het is nu mogelijk om automatisch een foutmelding vast te leggen wanneer een Operaton-proces in een incidentstatus terechtkomt. Dit helpt teams om problemen sneller te signaleren en indien nodig meldingen (alerts) in te stellen. Meer informatie hierover vind je in de documentatie over incident error logging.
+* Wat is opgelost in deze release: We hebben een probleem opgelost waarbij de applicatie `logging_event`-fouten kon tonen bij het opstarten met een lege database
+
+###
+
 ### GZAC Valtimo v13.11.0
 
 14 januari 2026 - nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bug-fixes:
