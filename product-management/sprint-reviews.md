@@ -1,5 +1,9 @@
 # Sprint reviews
 
+8 januari 2026
+
+{% embed url="https://vimeo.com/1156853666?share=copy&fl=sv&fe=ci" %}
+
 11 december 2025
 
 {% embed url="https://vimeo.com/1148678535?share=copy&fl=sv&fe=ci" %}
