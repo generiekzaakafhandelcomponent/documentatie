@@ -1,5 +1,18 @@
 # Releases
 
+### GZAC Valtimo v13.13.0
+
+28 januari 2026 - minor release met superbelangrijke functionaliteiten waaronder:
+
+* Bouwblokken - Met Bouwblokken kunnen veelgebruikte processtappen eenvoudig opnieuw ingezet worden in meerdere zaken. Dit zorgt ervoor dat gedeelde onderdelen van processen overal hetzelfde blijven en makkelijker te beheren zijn. Bouwblokken kunnen ook eenvoudig worden meegenomen naar andere omgevingen.
+* Integratie met IKO-server - de GZAC-gebruikers kunnen nu een actueel en compleet overzicht  krijgen van klant- en objectinformatie. Hierdoor kunnen burgers, bedrijven en instellingen sneller en duidelijker worden geholpen.
+* Widgetconfiguratie is nu beschikbaar gemaakt voor custom components&#x20;
+* Verplichte velden zijn aangepast voor "_Employee_", "_Organisational unit_" en "_Branch_" in Zaken API&#x20;
+* Het is nu mogelijk om te wisselen tussen de stappen van de configuratie binnen de proceslink-modal.
+* Een paar bugfixes, o.a. taken worden niet langer automatisch afgesloten wanneer een andere gebruiker de taaktoewijzing wijzigt, de LockProvider-configuratie ondersteunt nu het instellen van de tijdzone via configuratie-eigenschappen en gebruikt standaard UTC als er niets is opgegeven.
+
+
+
 ### GZAC Valtimo v13.12.0
 
 21 januari 2026 - deze release bevat:
