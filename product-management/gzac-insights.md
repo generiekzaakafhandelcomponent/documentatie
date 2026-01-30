@@ -1,5 +1,17 @@
 # GZAC Insights
 
+### Q1-2026
+
+Q1 2026 staat in het teken van de eerste grote stappen richting onze belangrijkste productdoelen: het neerzetten van een solide basis voor bouwblokken en het verbeteren van de gebruikerservaring door gerichte widgetverbeteringen.
+
+In dit kwartaal ligt de focus op het versnellen van toekomstige productreleases door de initiële release van bouwblokken en de verdere uitbreiding met nesting, e-mail templates en user tasks. Daarnaast worden belangrijke platform-verbeteringen doorgevoerd, zoals Git-sync, environment settings, WCAG-compliance en diverse andere optimalisaties.
+
+Dit alles staat gepland voor Q1, maar laten we eerst met een korte tussenstand van zaken terugblikken op januari 2026:
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-30 at 14.59.42.png" alt=""><figcaption></figcaption></figure>
+
+
+
 ### Q4-2025
 
 Q4 2025 stond in het teken van verdere werkzaamheden aan onze belangrijkste productdoelen: het verbeteren van de gebruikerservaring door widget-optimalisatie, wat leidde tot de release van de Compact Widgets-modus, en het versnellen van productiereleases door verdere ontwikkeling van bouwblokken. Verdere verbeteringen aan de kant van de IKO-client maakten het mogelijk om soepel te schakelen tussen Zaak en Beeld en een nieuwe Zaak te starten vanuit Beeld, evenals de introductie van de nieuwe Map-widget voor het visualiseren van de locatie van een object.
