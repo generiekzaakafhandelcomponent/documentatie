@@ -1,12 +1,23 @@
 # Releases
 
+### GZAC Valtimo v13.14.0
+
+4 februari 2026 - nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bug-fixes:
+
+* De plugin “Link document to zaak” ondersteunt nu twee nieuwe properties: ‘vernietigingsdatum’ en ‘status’. Deze worden toegevoegd aan het zaakinformatieobject tijdens het koppelen van een document aan een zaak.
+* Bij het verwijderen van een zaak worden gekoppelde documenten nu alleen verwijderd uit de Documenten API als ze niet aan andere zaken zijn gekoppeld. Documenten die aan meerdere zaken zijn gekoppeld blijven beschikbaar; alleen de relatie tussen de zaak en het document wordt verwijderd.
+* Bouwblokken kunnen nu worden aangeroepen vanuit onafhankelijke processen die niet aan een zaak zijn gekoppeld.
+* Wat is opgelost in deze release: een nieuw aangemaakte zaak binnen de Zaken API plugin  is nu correct aangekoppeld aan de case wanneer deze wordt gebruikt in een bouwblok, het contextmenu in het case-detail toont de actie 'Ontkoppelen' nu alleen wanneer de gebruiker beschikt over de juiste toewijzingsrechten, de uploadmodals voor casedefinities en bouwblokken zijn consistenter vormgegeven en andere kleinere fixes
+
+###
+
 ### GZAC Valtimo v13.13.0
 
-28 januari 2026 - minor release met superbelangrijke functionaliteiten waaronder:
+28 januari 2026 - minor release met super belangrijke functionaliteiten waaronder:
 
 * Bouwblokken - Met Bouwblokken kunnen veelgebruikte processtappen eenvoudig opnieuw ingezet worden in meerdere zaken. Dit zorgt ervoor dat gedeelde onderdelen van processen overal hetzelfde blijven en makkelijker te beheren zijn. Bouwblokken kunnen ook eenvoudig worden meegenomen naar andere omgevingen.
 * Integratie met IKO-server - de GZAC-gebruikers kunnen nu een actueel en compleet overzicht  krijgen van klant- en objectinformatie. Hierdoor kunnen burgers, bedrijven en instellingen sneller en duidelijker worden geholpen.
-* Widgetconfiguratie is nu beschikbaar gemaakt voor custom components&#x20;
+* Widget-configuratie is nu beschikbaar gemaakt voor custom components&#x20;
 * Verplichte velden zijn aangepast voor "_Employee_", "_Organisational unit_" en "_Branch_" in Zaken API&#x20;
 * Het is nu mogelijk om te wisselen tussen de stappen van de configuratie binnen de proceslink-modal.
 * Een paar bugfixes, o.a. taken worden niet langer automatisch afgesloten wanneer een andere gebruiker de taaktoewijzing wijzigt, de LockProvider-configuratie ondersteunt nu het instellen van de tijdzone via configuratie-eigenschappen en gebruikt standaard UTC als er niets is opgegeven.
