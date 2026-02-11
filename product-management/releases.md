@@ -1,5 +1,18 @@
 # Releases
 
+### GZAC Valtimo v13.15.0
+
+11 februari 2026 - nieuwe minor release met verbeteringen en verdere uitbrijdingen van widgets verbeteringen:
+
+* De widgets _Velden_, _Collectie_ en _Tabel_ ondersteunen nu kleuraanpassing. Tijdens het aanmaken van de widget kan een kleur worden geselecteerd:
+
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+
+* Wat is opgelost in deze release:&#x20;
+  * JSON-editor wordt nu altijd weergegeven bij het werken met de JSON-editor voor document- of formulierdefinities,&#x20;
+  * er is een probleem opgelost waarbij aangepaste widgets onterecht gegevensophaalacties startten.
+  * versietags van DMN-beslissingstabellen zijn nu correct bijgewerkt bij het koppelen van een proces aan een casusdefinitie en andere bug-fixes
+
 ### GZAC Valtimo v13.14.0
 
 4 februari 2026 - nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bug-fixes:
@@ -9,7 +22,7 @@
 * Bouwblokken kunnen nu worden aangeroepen vanuit onafhankelijke processen die niet aan een zaak zijn gekoppeld.
 * Wat is opgelost in deze release: een nieuw aangemaakte zaak binnen de Zaken API plugin  is nu correct aangekoppeld aan de case wanneer deze wordt gebruikt in een bouwblok, het contextmenu in het case-detail toont de actie 'Ontkoppelen' nu alleen wanneer de gebruiker beschikt over de juiste toewijzingsrechten, de uploadmodals voor casedefinities en bouwblokken zijn consistenter vormgegeven en andere kleinere fixes
 
-###
+
 
 ### GZAC Valtimo v13.13.0
 
