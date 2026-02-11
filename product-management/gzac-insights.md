@@ -2,7 +2,7 @@
 
 ### Q1-2026
 
-Q1 2026 staat in het teken van de eerste grote stappen richting onze belangrijkste productdoelen: het neerzetten van een solide basis voor bouwblokken en het verbeteren van de gebruikerservaring door gerichte widgetverbeteringen.
+Q1 2026 staat in het teken van de eerste grote stappen richting onze belangrijkste productdoelen: verhogen van herbruikbaarheid van processen, verkorten implementatietijd en het verbeteren van de gebruikerservaring.
 
 In dit kwartaal ligt de focus op het versnellen van toekomstige productreleases door de initiële release van bouwblokken en de verdere uitbreiding met nesting, e-mail templates en user tasks. Daarnaast worden belangrijke platform-verbeteringen doorgevoerd, zoals Git-sync, environment settings, WCAG-compliance en diverse andere optimalisaties.
 
