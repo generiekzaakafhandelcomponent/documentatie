@@ -8,7 +8,9 @@ In dit kwartaal ligt de focus op het versnellen van toekomstige productreleases 
 
 Dit alles staat gepland voor Q1, maar laten we eerst met een korte tussenstand van zaken terugblikken op januari 2026:
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-01-30 at 14.59.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-11 at 13.18.55.png" alt=""><figcaption></figcaption></figure>
+
+
 
 
 
