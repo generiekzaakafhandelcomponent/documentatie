@@ -1,5 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.16.0
+
+18 februari 2026 - nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bug-fixes:
+
+* Het is nu mogelijk om de oude resultaten van een zaak eenvoudig te verwijderen na heropening van een zaak
+* Het is nu ook mogelijk een bewaartermijn te instellen op basis van de zaakstatus. Wanneer deze termijn verloopt wordt de zaak automatisch verwijderd, worden bijbehorende processen en historie opgeschoond en wordt de zaak (indien van toepassing) ook verwijderd uit gekoppelde systemen.
+* Bouwblokken hebben nu hun eigen formulieren. Deze kunnen direct binnen het bouwblok worden aangemaakt, aangepast, geüpload en verwijderd. Bij export of import worden deze formulieren automatisch meegenomen.
+* Taken vanuit bouwblokken verschijnen nu automatisch in de takenlijst van een zaak.\
+  Daarnaast is automatische toewijzing mogelijk wanneer een behandelaar is ingesteld.
+* Wat is opgelost: Bij het inrichten van formulieren zijn nu altijd de juiste gegevensbronnen beschikbaar, afhankelijk van het type proces; een probleem opgelost waarbij meldingsabonnementen niet opnieuw werden geactiveerd na wijzigingen; een fout verholpen waarbij de JSON-editor soms niet werd weergegeven bij het bewerken van formulieren of documenten en andere
+
 ### GZAC Valtimo v13.15.0
 
 11 februari 2026 - nieuwe minor release met verbeteringen en verdere uitbrijdingen van widgets verbeteringen:
