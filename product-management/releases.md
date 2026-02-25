@@ -1,8 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.17.0
+
+25 februari 2026 - nieuwe minor release met een nieuwe functionaliteit en bugfixes:
+
+* Er is een nieuwe feature uitgerold: Slimmere zoekfilters in tabellen. Filters passen zich automatisch aan het type gegevens in een kolom aan (bijvoorbeeld tekst of datum). Hierdoor kunnen waarden in het juiste formaat worden ingevoerd en kunnen resultaten sneller en intuïtiever worden verfijnd.
+* Bij het aanmaken of bekijken van een process-link wordt nu de naam van de geselecteerde pluginconfiguratie getoond. Zo is direct duidelijk welke configuratie wordt gebruikt.
+* Deze release bevat ook enkele bugfixes:  er is een probleem opgelost waarbij de datumkiezer van de vervaldatum in een taak niet meeveranderde wanneer de applicatietaal werd aangepast; de lijst met beschikbare processen wordt nu altijd geladen ook als er een proces zonder naam bestond; verschillende verbeteringen in formulieren en bestandsuploads en meer.
+
 ### GZAC Valtimo v13.16.0
 
-18 februari 2026 - nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bug-fixes:
+18 februari 2026 - nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bugfixes:
 
 * Het is nu mogelijk om de oude resultaten van een zaak eenvoudig te verwijderen na heropening van een zaak
 * Het is nu ook mogelijk een bewaartermijn te instellen op basis van de zaakstatus. Wanneer deze termijn verloopt wordt de zaak automatisch verwijderd, worden bijbehorende processen en historie opgeschoond en wordt de zaak (indien van toepassing) ook verwijderd uit gekoppelde systemen.
