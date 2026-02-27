@@ -6,13 +6,11 @@ Q1 2026 staat in het teken van de eerste grote stappen richting onze belangrijks
 
 In dit kwartaal ligt de focus op het versnellen van toekomstige productreleases door de initiële release van bouwblokken en de verdere uitbreiding met nesting, e-mail templates en user tasks. Daarnaast worden belangrijke platform-verbeteringen doorgevoerd, zoals Git-sync, environment settings, WCAG-compliance en diverse andere optimalisaties.
 
-Dit alles staat gepland voor Q1, maar laten we eerst met een korte tussenstand van zaken terugblikken op januari 2026:
+Dit alles staat gepland voor Q1, maar laten we eerst met een korte tussenstand van zaken terugblikken op januari en februari 2026:
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-02-11 at 13.18.55.png" alt=""><figcaption></figcaption></figure>
 
-
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2026-02-27 at 12.32.28.png" alt=""><figcaption></figcaption></figure>
 
 ### Q4-2025
 
