@@ -1,12 +1,22 @@
 # Releases
 
+### GZAC Valtimo v13.18.0
+
+04 mart 2026 - nieuwe minor release met verbeteringen en bugfixes:
+
+* Het toewijzen van een gebruiker aan een zaak is nu duidelijker en consistenter. Je kunt een gebruiker zoeken en de toewijzing bevestigen met een knop, vergelijkbaar met hoe taken worden toegewezen.
+* Enkele maatwerkinterface-onderdelen zijn vervangen door standaardcomponenten. Dit zorgt voor een meer consistente gebruikerservaring binnen de applicatie.
+* Sommige elementen in pop-ups passen zich nu beter aan aan lichte en donkere thema’s, waardoor de leesbaarheid verbetert.
+* Het systeem kan nu meer gebruikers laden bij het selecteren van iemand om een zaak aan toe te wijzen. Dit is vooral handig voor organisaties met grote gebruikersdirectories.
+* Bug-fixes: bepaalde technische velden uit authenticatietokens worden niet langer automatisch geïnterpreteerd als gebruikersrollen; de toegewezen gebruiker en de vervaldatum worden nu consistent getoond in het taakdetailvenster; wanneer taken in real time worden bijgewerkt, blijft informatie zoals de toegewezen gebruiker en referentiesleutel behouden; als  de vervaldatum van een taak is wijzigt, wordt de takenlijst nu automatisch vernieuwd; wanneer een vervaldatum wordt ingesteld of verwijderd, verschijnt er nu een melding; oude taakinformatie blijft niet langer zichtbaar nadat het taakdetailvenster is gesloten.
+
 ### GZAC Valtimo v13.17.0
 
 25 februari 2026 - nieuwe minor release met een nieuwe functionaliteit en bugfixes:
 
 * Er is een nieuwe feature uitgerold: Slimmere zoekfilters in tabellen. Filters passen zich automatisch aan het type gegevens in een kolom aan (bijvoorbeeld tekst of datum). Hierdoor kunnen waarden in het juiste formaat worden ingevoerd en kunnen resultaten sneller en intuïtiever worden verfijnd.
 * Bij het aanmaken of bekijken van een process-link wordt nu de naam van de geselecteerde pluginconfiguratie getoond. Zo is direct duidelijk welke configuratie wordt gebruikt.
-* Deze release bevat ook enkele bugfixes:  er is een probleem opgelost waarbij de datumkiezer van de vervaldatum in een taak niet meeveranderde wanneer de applicatietaal werd aangepast; de lijst met beschikbare processen wordt nu altijd geladen ook als er een proces zonder naam bestond; verschillende verbeteringen in formulieren en bestandsuploads en meer.
+* Deze release bevat ook enkele bugfixes:  er is een probleem opgelost waarbij de datumkiezer van de vervaldatum in een taak niet meeveranderde wanneer de applicatietaal werd aangepast; de lijst met beschikbare processen wordt nu altijd geladen ook als er een proces zonder naam bestond; verschillende verbeteringen in formulieren en bestandsuploads en andere.
 
 ### GZAC Valtimo v13.16.0
 
