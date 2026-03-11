@@ -1,5 +1,20 @@
 # Releases
 
+### GZAC Valtimo v13.19.0
+
+11 mart 2026 - nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bugfixes:
+
+* Taken die nog niet zijn geopend, worden nu gemarkeerd met een stip naast de titel. Hierdoor kunnen behandelaars die met meerdere zaken werken sneller zien welke taken nieuw zijn of nog bekeken moeten worden
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-11 at 13.08.41.png" alt=""><figcaption></figcaption></figure>
+
+* Er zijn nieuwe instellingen toegevoegd waarmee documenten die bij een zaak horen gefilterd kunnen worden op basis van rollen en het type zaak. Hierdoor kan beter worden bepaald wie toegang heeft tot welke documenten.
+* Het toewijzen van een taak is vernieuwd en duidelijker gemaakt: Als een taak nog niet is toegewezen, kun je nu kiezen om de taak direct aan jezelf toe te wijzen of aan een andere gebruiker; Bij het kiezen van een andere gebruiker kun je zoeken in de gebruikerslijst; De huidige gebruiker wordt bovenaan de lijst geplaatst voor snelle selectie; Als een taak al is toegewezen, kun je via een bewerkoptie de toewijzing aanpassen of verwijderen. Deze verbeteringen gelden zowel in de takenlijst binnen een zaak als op de algemene takenpagina.
+* Het aanpassen van een vervaldatum werkt nu op dezelfde manier als het aanpassen van de taaktoewijzing. Wanneer een taak al een vervaldatum heeft, kun je deze eenvoudig bewerken of verwijderen via een bewerkoptie.
+* Er zijn een aantal problemen opgelost, waaronder: geselecteerde filters voor status of tags die soms per ongeluk werden verwijderd; taakzoekvelden die bij het exporteren van een zaak verkeerd werden opgeslagen, waardoor importeren niet mogelijk was; een proceslink bij een gebruikerstaak die soms niet werd uitgevoerd; een documentveld dat soms niet geselecteerd kon worden bij het configureren van een kolom in een zaakoverzicht; problemen bij het in bulk toewijzen van zaken waarbij rechtencontroles niet altijd correct werden toegepast; en een fout waarbij het twee keer selecteren van hetzelfde item in een keuzelijst in de takenlijst ervoor kon zorgen dat de lijst niet meer goed werkte en andere bugs.
+
+
+
 ### GZAC Valtimo v13.18.0
 
 04 mart 2026 - nieuwe minor release met verbeteringen en bugfixes:
