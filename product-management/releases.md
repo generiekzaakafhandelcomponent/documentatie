@@ -1,5 +1,15 @@
 # Releases
 
+### GZAC Valtimo v13.20.0
+
+18 mart 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
+
+* Wanneer een casedefinitie wordt geïmporteerd in een nieuwe omgeving, kan deze verwijzen naar configuraties — zoals een Zaken API-plugin of Objecten API-sync — die nog niet bestaan in die omgeving. De ontbrekende referenties worden nu gedetecteerd  tijdens het importeren en  waarschuwingen aan beheerder worden getoond om te helpen deze op te lossen.
+*   Er is een nieuw type toegangscontrole-resource toegevoegd: "_User"._ Dit resource type maakt het mogelijk om de toegang tot gebruikersgegevens via de _/api/v1/users/_-API te beheren.&#x20;
+
+    De ondersteunde acties zijn: "_view" -_ om de details van een enkele gebruiker te bekijken en _"view\_list"_ - om een lijst van gebruikers te bekijken of naar gebruikers te zoeken.
+* Wat is opgelost: Keycloak-rolopvragingen zijn nu beperkt tot de huidige client-ID, zodat rollen van andere clients binnen dezelfde realm niet langer worden meegenomen bij het bepalen van gebruikersidentiteit en menuweergave; een fout met betrekking tot _email\_notification\_settings\_days_ die eenmaal per dag optrad en andere
+
 ### GZAC Valtimo v13.19.0
 
 11 mart 2026 - nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bugfixes:
