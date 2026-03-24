@@ -2,7 +2,7 @@
 
 ### GZAC Valtimo v13.20.0
 
-18 mart 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
+18 maart 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
 
 * Wanneer een casedefinitie wordt geïmporteerd in een nieuwe omgeving, kan deze verwijzen naar configuraties — zoals een Zaken API-plugin of Objecten API-sync — die nog niet bestaan in die omgeving. De ontbrekende referenties worden nu gedetecteerd  tijdens het importeren en  waarschuwingen aan beheerder worden getoond om te helpen deze op te lossen.
 *   Er is een nieuw type toegangscontrole-resource toegevoegd: "_User"._ Dit resource type maakt het mogelijk om de toegang tot gebruikersgegevens via de _/api/v1/users/_-API te beheren.&#x20;
@@ -12,7 +12,7 @@
 
 ### GZAC Valtimo v13.19.0
 
-11 mart 2026 - nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bugfixes:
+11 maart 2026 - nieuwe minor release met onder andere nieuwe functionaliteiten, verbeteringen en bugfixes:
 
 * Taken die nog niet zijn geopend, worden nu gemarkeerd met een stip naast de titel. Hierdoor kunnen behandelaars die met meerdere zaken werken sneller zien welke taken nieuw zijn of nog bekeken moeten worden
 
@@ -27,7 +27,7 @@
 
 ### GZAC Valtimo v13.18.0
 
-04 mart 2026 - nieuwe minor release met verbeteringen en bugfixes:
+04 maart 2026 - nieuwe minor release met verbeteringen en bugfixes:
 
 * Het toewijzen van een gebruiker aan een zaak is nu duidelijker en consistenter. Je kunt een gebruiker zoeken en de toewijzing bevestigen met een knop, vergelijkbaar met hoe taken worden toegewezen.
 * Enkele maatwerkinterface-onderdelen zijn vervangen door standaardcomponenten. Dit zorgt voor een meer consistente gebruikerservaring binnen de applicatie.
