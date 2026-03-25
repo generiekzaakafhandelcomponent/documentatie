@@ -1,5 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.21.0
+
+25 maart 2026 - nieuwe minor release met de nieuwe bugfixes:
+
+* Wat is opgelost:
+  * Het building block verwijst nu correct naar de zaakdefinitie van de bovenliggende zaak
+  * Na het opnieuw opslaan van je procesdefinitie worden Camunda-versietags nu zichtbaar.&#x20;
+  * Automatische deployment van globale formulieren en objectmanagementconfiguraties is hersteld.  Globale formulieren kunnen nu worden geplaatst in `config/global/form/*.form.json` en objectmanagementconfiguraties in `config/global/object-management/*.object-management.json`, zodat ze automatisch worden opgepakt bij het opstarten.
+  * Fout in het migratiescript bij het upgraden vanaf Valtimo 12 is opgelost.
+  * En, _the last but not least_ - fout in formulieren opgelost waarbij voorwaarden op velden binnen een Data Grid-veldtype niet correct werkten.&#x20;
+
 ### GZAC Valtimo v13.20.0
 
 18 maart 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
