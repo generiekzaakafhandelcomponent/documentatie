@@ -1,5 +1,25 @@
 # Releases
 
+### GZAC Valtimo v13.22.0
+
+01 april 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
+
+
+
+*   Er zijn enkele verbeteringen en uitbreidingen doorgevoerd in de outbox-functionaliteit:
+
+    * Een circuit breaker is toegevoegd die automatisch stopt met pollen wanneer de message broker niet beschikbaar is en dit hervat zodra de verbinding is hersteld.&#x20;
+    * Berichten in de outbox worden nu in configureerbare batches opgehaald en gepubliceerd, wat zorgt voor een betere doorvoer.&#x20;
+    * De status van de outbox publisher is inzichtelijk gemaakt via `/actuator/health`.&#x20;
+    * Voor objectmanagementconfiguraties kan nu de `suppressOutbox`-eigenschap worden ingesteld om outbox-schrijfacties over te slaan bij integraties die vooral lezen.&#x20;
+
+
+* De RabbitMQ publisher verstuurt bevestigingen voortaan parallel in plaats van één voor één, wat de prestaties verbetert.&#x20;
+* Ook kunnen toegangsrechten nu gebruikmaken van `CaseDefinition` als containerconditie.
+* Wat is opgelost: Gevoelige gegevens worden niet langer onbedoeld gelogd in inbox-berichten en null-safety problemen in SSE event mappers zijn verholpen. Daarnaast is een probleem opgelost waarbij MySQL outbox-queries geen sortering bevatten, en is de null-safety verbeterd in de RabbitMQ outbox publisher bij het verwerken van bevestigingsresultaten.
+
+
+
 ### GZAC Valtimo v13.21.0
 
 25 maart 2026 - nieuwe minor release met de nieuwe bugfixes:
