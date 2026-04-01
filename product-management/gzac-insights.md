@@ -1,5 +1,11 @@
 # GZAC Insights
 
+### Q2-2026
+
+Q2 2026 staat in het teken van het verder concretiseren en afronden van eerder ingezette platformverbeteringen, gecombineerd met de introductie van nieuwe, krachtige functionaliteiten. De focus ligt op het afronden van environment settings en het mogelijk maken van ad-hoc starten van bouwblokken, evenals de oplevering van de eerste versie van het GZAC generiek proces (MVP) en functionaliteit voor samenwerken aan dossiers.
+
+Daarnaast wordt gestart met een nieuwe reeks uitbreidingen binnen bouwblokken, waaronder ondersteuning voor DMN, form-flow en continuous sync, en wordt een vernieuwde instellingenpagina met logo-introductie gerealiseerd. Ook wordt gewerkt aan migratie naar de laatste versie van bouwblokken. Verder worden gebruiksvriendelijke verbeteringen doorgevoerd, zoals quicksearch op taken en documenten en andere verbeteringen. Stay tuned...
+
 ### Q1-2026
 
 Q1 2026 staat in het teken van de eerste grote stappen richting onze belangrijkste productdoelen: verhogen van herbruikbaarheid van processen, verkorten implementatietijd en het verbeteren van de gebruikerservaring.
