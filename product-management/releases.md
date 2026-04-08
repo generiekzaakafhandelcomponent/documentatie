@@ -1,5 +1,19 @@
 # Releases
 
+### GZAC Valtimo v13.23.0
+
+07 april 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
+
+
+
+* Building blocks ondersteunen nu form flow-definities. Deze kunnen worden aangemaakt, bewerkt en verwijderd via het tabblad _Form flows_ binnen building block management. Ze worden ook automatisch meegenomen bij import en export.
+* Met de nieuwe plugin _Documenten API Preview_ kunnen gebruikers documenten bekijken die via de Documenten API zijn opgeslagen.&#x20;
+* Nieuwe methoden `sendGlobalCatchEventMessage` en `sendGlobalCatchEventMessageToAll` op de correlationService maken het mogelijk om berichten te koppelen aan procesinstanties over alle zaken heen, zonder dat een business key nodig is.
+* Het concept _Team_ is geïntroduceerd binnen de applicatie. Hiermee kunnen gebruikers worden georganiseerd en toegangsrechten tot resources worden beheerd. Elk team heeft een unieke sleutel, een titel en een lijst met leden.
+* Wanneer de _case handler_-optie is ingeschakeld, is er een nieuw tabblad _Teamzaken_ beschikbaar. Dit toont alle zaken die zijn toegewezen aan teams waar de gebruiker deel van uitmaakt.\
+  Dit tabblad wordt standaard toegevoegd naast _Alle zaken_, _Mijn zaken_ en _Niet-toegewezen zaken_.&#x20;
+* Er zijn ook een aantal problemen opgelost, waaronder: de outbox circuit breaker die niet herstelde uit de OPEN-status, De case task list die aanzienlijk trager laadde bij gebruik van building blocks en andere
+
 ### GZAC Valtimo v13.22.0
 
 01 april 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
