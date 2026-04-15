@@ -4,13 +4,12 @@
 
 15 april 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
 
-* Na het voltooien van een form flow wordt de gebruiker nu automatisch doorgestuurd naar de detailpagina van de nieuw aangemaakte zaak. Voorheen werd de gebruiker teruggeleid naar het zakenoverzicht zonder indicatie van welke zaak was aangemaakt.
-* Met de nieuwe plugin-actie “Publiceer een notificatie” binnen de Notificaties API kunnen gebruikers notificaties versturen vanuit een BPMN-proces
-*   Wanneer een user task wordt aangemaakt met een candidate group die overeenkomt met de team-key van de zaak, wordt het team nu automatisch aan de taak toegewezen. Dit vereist dat in de case-definitie de opties '_canHaveAssignee'_ en '_autoAssignTasks'_ zijn ingeschakeld.
-
-    Taken die handmatig of via een ander proces aan een andere gebruiker of team zijn toegewezen, blijven ongewijzigd. Dit geldt ook wanneer de toewijzing van een zaak wordt verwijderd: alleen taken met exact dezelfde toewijzing worden opgeschoond.
+* Na afronding van een form flow wordt de gebruiker automatisch doorgestuurd naar de detailpagina van de nieuw aangemaakte zaak, in plaats van terug naar het zakenoverzicht zonder context.
+* De plugin-actie “Publiceer een notificatie” is toegevoegd aan de Notificaties API, waarmee notificaties vanuit een BPMN-proces kunnen worden verstuurd (bijv. via een '_send task of intermediate throw event'_).
+* Taken met een candidate group die overeenkomt met de team-sleutel van de zaak krijgen nu automatisch het juiste team toegewezen (mits '_canHaveAssignee'_ en '_autoAssignTasks'_ zijn ingeschakeld).
+* Daarnaast is de automatische (her)toewijzing van gebruikers en teams verfijnd: synchronisatie gebeurt alleen als de huidige taaktoewijzing nog overeenkomt met de vorige zaaktoewijzing. Handmatig of extern aangepaste taken blijven ongewijzigd.
 * Alle frontend-afhankelijkheden zijn vastgezet op specifieke versies om consistentie en veiligheid te waarborgen.
-* Er zijn ook diverse problemen opgelost, waaronder: het niet meenemen van formulieren en form flows bij het aanmaken van een nieuwe versie van een building block en een 403-fout in de Operaton Cockpit.
+* Er zijn ook diverse problemen opgelost, waaronder: formulieren en form flows worden nu correct meegenomen bij nieuwe versies van building blocks en een 403-fout in de Operaton Cockpit.
 
 ### GZAC Valtimo v13.23.0
 
