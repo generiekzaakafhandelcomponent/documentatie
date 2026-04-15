@@ -1,5 +1,17 @@
 # Releases
 
+### GZAC Valtimo v13.24.0
+
+15 april 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
+
+* Na het voltooien van een form flow wordt de gebruiker nu automatisch doorgestuurd naar de detailpagina van de nieuw aangemaakte zaak. Voorheen werd de gebruiker teruggeleid naar het zakenoverzicht zonder indicatie van welke zaak was aangemaakt.
+* Met de nieuwe plugin-actie “Publiceer een notificatie” binnen de Notificaties API kunnen gebruikers notificaties versturen vanuit een BPMN-proces
+*   Wanneer een user task wordt aangemaakt met een candidate group die overeenkomt met de team-key van de zaak, wordt het team nu automatisch aan de taak toegewezen. Dit vereist dat in de case-definitie de opties '_canHaveAssignee'_ en '_autoAssignTasks'_ zijn ingeschakeld.
+
+    Taken die handmatig of via een ander proces aan een andere gebruiker of team zijn toegewezen, blijven ongewijzigd. Dit geldt ook wanneer de toewijzing van een zaak wordt verwijderd: alleen taken met exact dezelfde toewijzing worden opgeschoond.
+* Alle frontend-afhankelijkheden zijn vastgezet op specifieke versies om consistentie en veiligheid te waarborgen.
+* Er zijn ook diverse problemen opgelost, waaronder: het niet meenemen van formulieren en form flows bij het aanmaken van een nieuwe versie van een building block en een 403-fout in de Operaton Cockpit.
+
 ### GZAC Valtimo v13.23.0
 
 07 april 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
