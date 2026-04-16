@@ -7,6 +7,7 @@
 * Na afronding van een form flow wordt de gebruiker automatisch doorgestuurd naar de detailpagina van de nieuw aangemaakte zaak, in plaats van terug naar het zakenoverzicht zonder context.
 * De plugin-actie “Publiceer een notificatie” is toegevoegd aan de Notificaties API, waarmee notificaties vanuit een BPMN-proces kunnen worden verstuurd (bijv. via een '_send task of intermediate throw event'_).
 * Taken met een candidate group die overeenkomt met de team-sleutel van de zaak krijgen nu automatisch het juiste team toegewezen (mits '_canHaveAssignee'_ en '_autoAssignTasks'_ zijn ingeschakeld).
+* Zaakdefinities hebben nu een tabblad _Acties_ in de configuratie, waar beheerders bepalen wat via de _Start_-knop op de zaakdetailpagina gestart kan worden. Het tabblad toont zowel gekoppelde processen als ad-hoc bouwblokken en biedt één centrale plek om zichtbaarheid en volgorde te beheren.
 * Daarnaast is de automatische (her)toewijzing van gebruikers en teams verfijnd: synchronisatie gebeurt alleen als de huidige taaktoewijzing nog overeenkomt met de vorige zaaktoewijzing. Handmatig of extern aangepaste taken blijven ongewijzigd.
 * Alle frontend-afhankelijkheden zijn vastgezet op specifieke versies om consistentie en veiligheid te waarborgen.
 * Er zijn ook diverse problemen opgelost, waaronder: formulieren en form flows worden nu correct meegenomen bij nieuwe versies van building blocks en een 403-fout in de Operaton Cockpit.
