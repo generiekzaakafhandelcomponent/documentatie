@@ -1,5 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.25.0
+
+22 april 2026 - nieuwe minor release met de nieuwe functionaliteiten en bugfixes:
+
+* Building blocks ondersteunen nu DMN-beslissingstabellen, die beheerd kunnen worden via het tabblad _Decision tables_. Ze zijn inzetbaar in business rule tasks, worden meegenomen bij import/export en kunnen automatisch worden gedeployed via de juiste mapstructuur.
+* De Notificaties API plugin is uitgebreid met de acties “Publiceer een notificatie” en “Ontvang een notificatie”, waarmee BPMN-processen notificaties kunnen verzenden en ontvangen.
+* De Documenten API plugin bevat een experimentele versie met ondersteuning voor het _objectinformatieobjecten_-endpoint. Nieuwe acties maken het mogelijk documenten te koppelen aan ZGW-objecten en koppelingen weer te verwijderen, inclusief bijbehorende procesvariabelen.
+* Autorisatie op ZGW-documenten is verfijnd met rechten op basis van documenteigenschappen zoals vertrouwelijkheid, status en type. Actieknoppen passen zich hier automatisch op aan.
+* Daarnaast is een nieuwe actie “Get audit trail” toegevoegd aan de Documenten API plugin, waarmee documenthistorie als JSON beschikbaar wordt in processen.
+* Diverse problemen zijn ook opgelost in deze versie, waaronder een niet-werkende documentpreview voor niet-beheerders en dubbele documentdefinities die fouten veroorzaakten.
+
 ### GZAC Valtimo v13.24.0
 
 15 april 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
