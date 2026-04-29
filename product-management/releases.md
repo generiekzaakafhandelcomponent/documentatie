@@ -1,5 +1,14 @@
 # Releases
 
+### GZAC Valtimo v13.26.0
+
+29 april 2026 - nieuwe minor release met de nieuwe functionaliteiten en verbeteringen:
+
+* De documenten-api-preview plugin ondersteunt nu configuratie van PDF-archiveringsmethoden. PDF-archivering staat standaard uit, maar kan door beheerders worden ingeschakeld via de pluginconfiguratie.
+* Bij het genereren van documentpreviews wordt nu een toelichtende laadmelding getoond boven de spinner, zodat gebruikers beter begrijpen wat er gebeurt tijdens het laden.
+* Er is een nieuwe FormIO-component toegevoegd waarmee zaakbehandelaars direct binnen een user task formulier IKO-resultaten kunnen zoeken en selecteren. Geselecteerde gegevens worden als één object opgeslagen in het zaakdocument en kunnen hergebruikt worden in vervolgstappen of widgets, zonder extra IKO API-calls.
+* De logging van REST-clientfouten is veiliger gemaakt: gevoelige gegevens zoals headers en body’s worden niet langer opgenomen in foutmeldingen. Gedetailleerde informatie is alleen nog beschikbaar op DEBUG-niveau, terwijl uitzonderingen beperkt blijven tot statuscode en -tekst.
+
 ### GZAC Valtimo v13.25.0
 
 22 april 2026 - nieuwe minor release met de nieuwe functionaliteiten en bugfixes:
