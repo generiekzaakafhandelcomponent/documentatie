@@ -1,5 +1,15 @@
 # Releases
 
+### GZAC Valtimo v13.27.0
+
+06 mei 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
+
+* Bij het importeren van een zaakdefinitie toont Valtimo nu automatisch welke pluginconfiguraties nodig zijn en kunnen beheerders deze koppelen aan bestaande configuraties in de doelomgeving. Dit voorkomt kapotte proceskoppelingen na import en vermindert handmatig configuratiewerk. Hiervoor is een export vereist uit GZAC Valtimo 13.25.0 of nieuwer.
+* Daarnaast zijn diverse afhankelijkheden bijgewerkt, waaronder Spring Boot, om meerdere HIGH-severity CVE’s op te lossen.&#x20;
+* Hibernate, de MySQL-driver en Groovy zijn afgestemd op de Spring Boot 3.5.14 BOM.
+* Taaklijsten ondersteunen nu ook tags als kolomtype voor een verbeterde weergave van informatie.
+* Verder zijn meerdere problemen opgelost, waaronder niet-werkende pan- en zoomfunctionaliteit in BPMN-diagrammen, onjuiste sortering op datum-, tijd- en numerieke documentvelden en inconsistente widgetkleuren. Ook wordt nu een foutmelding getoond wanneer een bestaande process definition key opnieuw wordt aangemaakt binnen dezelfde context.
+
 ### GZAC Valtimo v13.26.0
 
 29 april 2026 - nieuwe minor release met de nieuwe functionaliteiten en verbeteringen:
