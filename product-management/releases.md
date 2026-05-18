@@ -1,5 +1,19 @@
 # Releases
 
+### GZAC Valtimo v13.28.1
+
+18 mei 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
+
+* De mapwidget ondersteunt nu Nederlandse adressen als kaartlaag. Adresgegevens worden automatisch gegeocodeerd via de PDOK Locatieserver en weergegeven als punt op de kaart.
+* Per zaakdefinitie kan nu zaak-synchronisatie worden ingesteld via een nieuw beheerpaneel. Hiermee kunnen wijzigingen in Valtimo automatisch worden doorgezet naar de gekoppelde zaak in de Zaken API, waaronder synchronisatie van behandelaars en zaaknotities.
+* Er is een nieuwe beheerpagina toegevoegd voor applicatie-instellingen, waarmee beheerders logo’s, accentkleuren en frontend feature flags centraal kunnen beheren. Wijzigingen worden direct toegepast en kunnen automatisch worden gedeployed via het importer framework.
+* Paginagroottes voor taken- en zakenlijsten worden nu per zaakdefinitie onthouden, zodat gebruikers bij een volgend bezoek automatisch dezelfde instellingen terugzien.
+* Er zijn meerdere nieuwe widgettypes toegevoegd aan de zaakdetailpagina, waaronder een _**person-card widget**_ voor persoonsgegevens, een _**metroline widget**_ voor statusverloop en een _**highlight widget**_ voor het uitlichten van kerninformatie of aantallen.
+* Daarnaast is een generieke zakenlijst toegevoegd waarmee zaken van alle zaakdefinities in één overzicht kunnen worden weergegeven, vergelijkbaar met de takenlijst.
+* De beveiliging van actuator-endpoints en health checks is aangescherpt. Niet-geauthenticeerde gebruikers zien alleen nog de algemene status, terwijl detailinformatie beperkt blijft tot gebruikers met de juiste rechten.
+* De voortgangstab op de zaakdetailpagina laadt nu aanzienlijk sneller, vooral bij zaken met veel gekoppelde processen. Ook ondersteunen widgetlinks voortaan het openen van pagina’s in een nieuw browsertabblad.
+* Verder zijn diverse verbeteringen en problemen opgelost, waaronder compatibiliteit met nieuwere SmartDocuments-versies, issues rond header widgets en permissies op taakgegevens, een niet-bewerkbare enumeratiekolomconfiguratie, afgekapt zoektooltips en vastlopende migratielocks na onderbroken deployments.
+
 ### GZAC Valtimo v13.27.0
 
 06 mei 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
