@@ -1,5 +1,12 @@
 # Releases
 
+### GZAC Valtimo v13.29.0
+
+20 mei 2026 - mini release met een nieuwe functionaliteit en een verbetering:
+
+* Quick search-items zijn toegevoegd aan de takenlijst. Gebruikers kunnen ingevulde zoekfilters nu opslaan als quick search en met één klik opnieuw uitvoeren.
+* Daarnaast zijn diverse afhankelijkheden bijgewerkt om meerdere beveiligingsproblemen (CVE’s) op te lossen.
+
 ### GZAC Valtimo v13.28.1
 
 18 mei 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
