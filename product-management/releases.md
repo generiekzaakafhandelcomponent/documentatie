@@ -1,5 +1,13 @@
 # Releases
 
+### GZAC Valtimo v13.30.0
+
+27 mei 2026 - nieuwe minor release met nieuwe functionaliteiten en bugfixes:
+
+* Er is een nieuwe `timerService` process bean toegevoegd waarmee actieve BPMN-timerjobs opnieuw ingepland kunnen worden op basis van een business key. Hierbij kunnen optioneel specifieke activity ID’s worden meegegeven en verlopen timerjobs worden automatisch overgeslagen.
+* De plugin-acties “create-zaak” en “patch-zaak” ondersteunen nu alle schrijfbare eigenschappen uit de Zaken API-specificatie, waaronder identificatie, vertrouwelijkheid, archivering, verlenging, opschorting, gerelateerde zaken en producten/diensten. De configuratie-interface is uitgebreid met een dynamische add/remove-structuur voor alle beschikbare velden.
+* Daarnaast zijn diverse problemen opgelost, waaronder een issue waarbij plugins in building block-subprocessen niet correct werden gevonden en een probleem waarbij output mappings van building blocks gestart als zaakactie niet werden teruggeschreven naar het zaakdocument.
+
 ### GZAC Valtimo v13.29.0
 
 20 mei 2026 - mini release met een nieuwe functionaliteit en een verbetering:
