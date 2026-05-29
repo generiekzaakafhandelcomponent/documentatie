@@ -6,7 +6,9 @@ Q2 2026 staat in het teken van het verder concretiseren en afronden van eerder i
 
 Daarnaast wordt gestart met een nieuwe reeks uitbreidingen binnen bouwblokken, waaronder ondersteuning voor DMN, form-flow en continuous sync, en wordt een vernieuwde instellingenpagina met logo-introductie gerealiseerd. Ook wordt gewerkt aan migratie naar de laatste versie van bouwblokken. Verder worden gebruiksvriendelijke verbeteringen doorgevoerd, zoals quicksearch op taken en documenten en andere verbeteringen.&#x20;
 
-Dit alles staat gepland voor Q2, maar laten we eerst met een korte tussenstand van zaken terugblikken op april 2026:
+Dit alles staat gepland voor Q2, maar laten we eerst met een korte tussenstand van zaken terugblikken op april en mei 2026:
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-06 at 11.57.44.png" alt=""><figcaption></figcaption></figure>
 
