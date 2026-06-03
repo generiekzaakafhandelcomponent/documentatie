@@ -1,5 +1,12 @@
 # Releases
 
+### GZAC Valtimo v13.31.0
+
+3 juni 2026 - nieuwe minor release met nieuwe verbeteringen en bugfixes:
+
+* De editors voor form flows en toegangsbeheer zijn uitgebreid met autocomplete-suggesties en inline documentatie, waardoor configuraties sneller en eenvoudiger kunnen worden opgesteld.
+* Daarnaast zijn foutmeldingen verbeterd bij problemen met plugins en building blocks. In plaats van technische placeholderteksten worden nu duidelijke en leesbare meldingen getoond, zodat sneller inzichtelijk is wat er misgaat.
+
 ### GZAC Valtimo v13.30.0
 
 27 mei 2026 - nieuwe minor release met nieuwe functionaliteiten en bugfixes:
