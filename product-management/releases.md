@@ -1,5 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.32.0
+
+10 juni 2026 - nieuwe minor release met nieuwe verbeteringen en bugfixes:
+
+* De `FormCustomComponent`-interface is uitgebreid met een `documentId`, waardoor maatwerkcomponenten binnen process links direct weten op welk document zij opereren en processen of taken aan de juiste zaak kunnen koppelen.
+* Er is een nieuw overzichtstabblad toegevoegd voor toegangsbeheer, waarin rechten op een leesbare en overzichtelijke manier worden weergegeven.
+* De backend is verder aangescherpt met extra server-side validatie van invoer op REST-endpoints.&#x20;
+* De metroline widget nu ook worden gebruikt binnen IKO-widgettabbladen en wordt de volledige zaaknaam als tooltip getoond in het Zaken-menu.
+* Er zijn diverse problemen opgelost rondom process links in user tasks en startmodals. Form View Model- en UI-componenten functioneren nu correct binnen user tasks en verouderde inhoud in startmodals wordt niet langer getoond bij het wisselen tussen verschillende proceslinktypen.
+* Tot slot is de Keycloak-documentatie uitgebreid met aanbevolen instellingen voor sessiebeheer en het ongeldig maken van refresh tokens bij uitloggen.
+
 ### GZAC Valtimo v13.31.0
 
 3 juni 2026 - nieuwe minor release met nieuwe verbeteringen en bugfixes:
