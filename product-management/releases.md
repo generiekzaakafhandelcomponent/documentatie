@@ -1,5 +1,15 @@
 # Releases
 
+### GZAC Valtimo v13.33.0
+
+17 juni 2026 - nieuwe minor release met nieuwe verbeteringen en bugfixes:
+
+* Form flows kunnen nu automatisch gegevens ophalen van een bestaande zaak, zodat deze informatie direct beschikbaar is tijdens het invullen van een formulier.
+* Bij het starten van een zaak kan de grootte van het formulier-venster voortaan worden ingesteld, waardoor formulieren beter aansluiten op de hoeveelheid informatie die getoond moet worden.
+* De Besluiten API plugin biedt meer flexibiliteit bij het invullen van datumvelden en building blocks kunnen nu eenvoudiger gegevens uit complexe document-structuren verwerken.
+* Daarnaast is meer controle toegevoegd over de weergave van widgets. Beheerders kunnen kiezen uit verschillende indelingen om informatie overzichtelijker en compacter te presenteren.
+* Er zijn ook diverse problemen opgelost, waaronder onjuiste weergave van instellingen bij building blocks, compatibiliteitsproblemen met nieuwere Keycloak-versies en onduidelijke foutmeldingen tijdens configuratie en beveiligingsupdates zijn doorgevoerd door onderliggende softwarecomponenten bij te werken naar een veiligere versie.
+
 ### GZAC Valtimo v13.32.0
 
 10 juni 2026 - nieuwe minor release met nieuwe verbeteringen en bugfixes:
