@@ -1,5 +1,14 @@
 # Releases
 
+### GZAC Valtimo v13.34.0
+
+24 juni 2026 - nieuwe minor release met nieuwe verbeteringen en bugfixes:
+
+* De Documenten API plugin biedt nu meer flexibiliteit bij het opslaan van documenten. Eigenschappen zoals vertrouwelijkheidsniveau, taal en status kunnen nu dynamisch worden gevuld op basis van gegevens uit het proces of document, wat het hergebruik binnen building blocks vereenvoudigt.
+*   Daarnaast zijn diverse problemen opgelost. Zaakdefinities met gekoppelde form flows kunnen nu in één keer worden verwijderd, zonder eerst de form flow te hoeven verwijderen. Ook zijn form flows binnen conceptversies van zaakdefinities weer volledig bewerkbaar.
+
+    Verder is een probleem verholpen waarbij het uploaden van documenten vanuit een building block in sommige situaties het gekoppelde uploadproces niet correct startte.
+
 ### GZAC Valtimo v13.33.0
 
 17 juni 2026 - nieuwe minor release met nieuwe verbeteringen en bugfixes:
