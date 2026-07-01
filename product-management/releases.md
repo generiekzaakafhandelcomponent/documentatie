@@ -1,5 +1,18 @@
 # Releases
 
+### GZAC Valtimo v13.35.0
+
+1 juli 2026 - nieuwe minor release met nieuwe functionaliteiten, verbeteringen en bugfixes:
+
+* DMN-beslissingstabellen kunnen nu volledig binnen GZAC worden aangemaakt en bewerkt. Via de knop _Create DMN table_ opent een venster waarin een naam en optioneel invoerkolommen kunnen worden opgegeven, waarna de tabel direct bruikbaar is en verder kan worden uitgewerkt in de editor. Bestaande tabellen kunnen worden hernoemd, aangepast of verwijderd. Dit werkt voor zaak-, building block- en losstaande beslissingstabellen. Het bewerken van beslissingstabellen is hiermee geen experimentele functie meer en is voortaan zonder feature toggle beschikbaar.
+* Procesdefinities kunnen nu vóór het uitrollen worden gecontroleerd. Met de nieuwe knop _Validate_ in de modeler worden BPMN-modellen gecontroleerd op onder andere ontbrekende koppelingen, onjuiste expressies en onvolledige configuraties. Problematische onderdelen worden gemarkeerd en zijn met één klik te vinden. Fouten blokkeren het uitrollen, terwijl waarschuwingen dit toestaan na bevestiging. Daarnaast is een nieuwe _Draft_-schakelaar toegevoegd waarmee een procesdefinitie als concept kan worden gemarkeerd. Voor conceptdefinities wordt het grootste deel van de validatie overgeslagen, zodat werk in uitvoering eenvoudiger kan worden opgeslagen. Wel is bij conceptprocessen een extra bevestiging vereist voordat ze worden gestart.
+* De Catalogi API plugin is uitgebreid met een nieuwe actie waarmee een informatieobjecttype dynamisch kan worden opgehaald en in een procesvariabele kan worden opgeslagen.
+* Taakeigenschappen (zoals aanmaakdatum, naam, behandelaar, vervaldatum en het toegewezen team) kunnen nu overal worden gebruikt waar een waardepad kan worden ingesteld.
+* De standaardstand van het zijpaneel (ingeklapt of uitgeklapt) kan nu applicatiebreed worden ingesteld via de instellingenpagina. Persoonlijke voorkeuren van gebruikers gaan hier vervolgens boven.
+* De actie _download document_ in de Documenten API plugin werkt nu ook wanneer alleen het document-ID beschikbaar is. Bestaande processen waarin de document-URL wordt gebruikt, blijven ongewijzigd werken.
+* Het padveld bij het configureren van kolommen in de takenlijst is nu een doorzoekbare keuzelijst in plaats van een vrij tekstveld.
+* Daarnaast zijn diverse problemen opgelost. In de kolomconfiguratie van zaken- en takenlijsten worden de sorteeropties nu verborgen wanneer het gekozen pad geen sortering ondersteunt. Ook toont het overzicht van losstaande beslissingstabellen voortaan alleen nog echte losstaande tabellen, en niet langer tabellen die bij een zaakdefinitie of building block horen.
+
 ### GZAC Valtimo v13.34.0
 
 24 juni 2026 - nieuwe minor release met nieuwe verbeteringen en bugfixes:
