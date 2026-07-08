@@ -1,5 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.36.0
+
+8 juli 2026 - nieuwe minor release met nieuwe functionaliteiten, verbeteringen en bugfixes:
+
+* Er is een nieuwe visuele editor toegevoegd voor het beheren van toegangsrechten. Naast de bestaande JSON-editor kunnen beheerders rechten nu eenvoudig configureren via een overzichtelijke interface, inclusief een samenvatting van alle ingestelde permissies.
+* De Catalogi API plugin bevat een nieuwe actie waarmee informatieobjecttypen van een zaaktype kunnen worden opgehaald en beschikbaar gemaakt binnen processen.
+* Een nieuwe afbeeldingswidget maakt het mogelijk om afbeeldingen die aan een zaak zijn gekoppeld direct weer te geven op de zaakdetailpagina, zowel als galerij als in een carrouselweergave.
+* Daarnaast is een nieuwe Form.io-component toegevoegd voor het selecteren van objecten uit Object Management, met ondersteuning voor zoeken, filteren, sorteren, paginering en meervoudige selectie.
+* Object Management is verder uitgebreid met ondersteuning voor autorisaties op basis van rechten (PBAC) en sorteren van objectlijsten, waardoor beheerders meer controle hebben over toegang en presentatie van gegevens.
+* Ook zijn diverse problemen opgelost, waaronder verbeterde mogelijkheden voor dashboardwidgets, correcte werking van gedeelde takenlijst-URL's, verbeteringen aan dropdowns en startformulieren, en verschillende oplossingen voor Object Management, zoals paginering, zichtbaarheid voor niet-beheerders en het beheren van lijstkolommen.
+
 ### GZAC Valtimo v13.35.0
 
 1 juli 2026 - nieuwe minor release met nieuwe functionaliteiten, verbeteringen en bugfixes:
@@ -39,8 +50,8 @@
 
 * De `FormCustomComponent`-interface is uitgebreid met een `documentId`, waardoor maatwerkcomponenten binnen process links direct weten op welk document zij opereren en processen of taken aan de juiste zaak kunnen koppelen.
 * Er is een nieuw overzichtstabblad toegevoegd voor toegangsbeheer, waarin rechten op een leesbare en overzichtelijke manier worden weergegeven.
-* De backend is verder aangescherpt met extra server-side validatie van invoer op REST-endpoints.&#x20;
-* De metroline widget nu ook worden gebruikt binnen IKO-widgettabbladen en&#x20;
+* De backend is verder aangescherpt met extra server-side validatie van invoer op REST-endpoints.
+* De metroline widget nu ook worden gebruikt binnen IKO-widgettabbladen en
 * De volledige zaaknaam is nu getoond in het Zaken-menu als tooltip.
 * Er zijn diverse problemen opgelost rondom process links in user tasks en startmodals. Form View Model- en UI-componenten functioneren nu correct binnen user tasks en verouderde inhoud in startmodals wordt niet langer getoond bij het wisselen tussen verschillende proceslinktypen.
 * Tot slot is de Keycloak-documentatie uitgebreid met aanbevolen instellingen voor sessiebeheer en het ongeldig maken van refresh tokens bij uitloggen.
@@ -86,7 +97,7 @@
 06 mei 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
 
 * Bij het importeren van een zaakdefinitie toont Valtimo nu automatisch welke pluginconfiguraties nodig zijn en kunnen beheerders deze koppelen aan bestaande configuraties in de doelomgeving. Dit voorkomt kapotte proceskoppelingen na import en vermindert handmatig configuratiewerk. Hiervoor is een export vereist uit GZAC Valtimo 13.25.0 of nieuwer.
-* Daarnaast zijn diverse afhankelijkheden bijgewerkt, waaronder Spring Boot, om meerdere HIGH-severity CVE’s op te lossen.&#x20;
+* Daarnaast zijn diverse afhankelijkheden bijgewerkt, waaronder Spring Boot, om meerdere HIGH-severity CVE’s op te lossen.
 * Hibernate, de MySQL-driver en Groovy zijn afgestemd op de Spring Boot 3.5.14 BOM.
 * Taaklijsten ondersteunen nu ook tags als kolomtype voor een verbeterde weergave van informatie.
 * Verder zijn meerdere problemen opgelost, waaronder niet-werkende pan- en zoomfunctionaliteit in BPMN-diagrammen, onjuiste sortering op datum-, tijd- en numerieke documentvelden en inconsistente widgetkleuren. Ook wordt nu een foutmelding getoond wanneer een bestaande process definition key opnieuw wordt aangemaakt binnen dezelfde context.
@@ -127,35 +138,26 @@
 
 07 april 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
 
-
-
 * Building blocks ondersteunen nu form flow-definities. Deze kunnen worden aangemaakt, bewerkt en verwijderd via het tabblad _Form flows_ binnen building block management. Ze worden ook automatisch meegenomen bij import en export.
-* Met de nieuwe plugin _Documenten API Preview_ kunnen gebruikers documenten bekijken die via de Documenten API zijn opgeslagen.&#x20;
+* Met de nieuwe plugin _Documenten API Preview_ kunnen gebruikers documenten bekijken die via de Documenten API zijn opgeslagen.
 * Nieuwe methoden `sendGlobalCatchEventMessage` en `sendGlobalCatchEventMessageToAll` op de correlationService maken het mogelijk om berichten te koppelen aan procesinstanties over alle zaken heen, zonder dat een business key nodig is.
 * Het concept _Team_ is geïntroduceerd binnen de applicatie. Hiermee kunnen gebruikers worden georganiseerd en toegangsrechten tot resources worden beheerd. Elk team heeft een unieke sleutel, een titel en een lijst met leden.
 * Wanneer de _case handler_-optie is ingeschakeld, is er een nieuw tabblad _Teamzaken_ beschikbaar. Dit toont alle zaken die zijn toegewezen aan teams waar de gebruiker deel van uitmaakt.\
-  Dit tabblad wordt standaard toegevoegd naast _Alle zaken_, _Mijn zaken_ en _Niet-toegewezen zaken_.&#x20;
+  Dit tabblad wordt standaard toegevoegd naast _Alle zaken_, _Mijn zaken_ en _Niet-toegewezen zaken_.
 * Er zijn ook een aantal problemen opgelost, waaronder: de outbox circuit breaker die niet herstelde uit de OPEN-status, De case task list die aanzienlijk trager laadde bij gebruik van building blocks en andere
 
 ### GZAC Valtimo v13.22.0
 
 01 april 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
 
-
-
-*   Er zijn enkele verbeteringen en uitbreidingen doorgevoerd in de outbox-functionaliteit:
-
-    * Een circuit breaker is toegevoegd die automatisch stopt met pollen wanneer de message broker niet beschikbaar is en dit hervat zodra de verbinding is hersteld.&#x20;
-    * Berichten in de outbox worden nu in configureerbare batches opgehaald en gepubliceerd, wat zorgt voor een betere doorvoer.&#x20;
-    * De status van de outbox publisher is inzichtelijk gemaakt via `/actuator/health`.&#x20;
-    * Voor objectmanagementconfiguraties kan nu de `suppressOutbox`-eigenschap worden ingesteld om outbox-schrijfacties over te slaan bij integraties die vooral lezen.&#x20;
-
-
-* De RabbitMQ publisher verstuurt bevestigingen voortaan parallel in plaats van één voor één, wat de prestaties verbetert.&#x20;
+* Er zijn enkele verbeteringen en uitbreidingen doorgevoerd in de outbox-functionaliteit:
+  * Een circuit breaker is toegevoegd die automatisch stopt met pollen wanneer de message broker niet beschikbaar is en dit hervat zodra de verbinding is hersteld.
+  * Berichten in de outbox worden nu in configureerbare batches opgehaald en gepubliceerd, wat zorgt voor een betere doorvoer.
+  * De status van de outbox publisher is inzichtelijk gemaakt via `/actuator/health`.
+  * Voor objectmanagementconfiguraties kan nu de `suppressOutbox`-eigenschap worden ingesteld om outbox-schrijfacties over te slaan bij integraties die vooral lezen.
+* De RabbitMQ publisher verstuurt bevestigingen voortaan parallel in plaats van één voor één, wat de prestaties verbetert.
 * Ook kunnen toegangsrechten nu gebruikmaken van `CaseDefinition` als containerconditie.
 * Wat is opgelost: Gevoelige gegevens worden niet langer onbedoeld gelogd in inbox-berichten en null-safety problemen in SSE event mappers zijn verholpen. Daarnaast is een probleem opgelost waarbij MySQL outbox-queries geen sortering bevatten, en is de null-safety verbeterd in de RabbitMQ outbox publisher bij het verwerken van bevestigingsresultaten.
-
-
 
 ### GZAC Valtimo v13.21.0
 
@@ -163,17 +165,17 @@
 
 * Wat is opgelost:
   * Het building block verwijst nu correct naar de zaakdefinitie van de bovenliggende zaak
-  * Na het opnieuw opslaan van je procesdefinitie worden Camunda-versietags nu zichtbaar.&#x20;
-  * Automatische deployment van globale formulieren en objectmanagementconfiguraties is hersteld.  Globale formulieren kunnen nu worden geplaatst in `config/global/form/*.form.json` en objectmanagementconfiguraties in `config/global/object-management/*.object-management.json`, zodat ze automatisch worden opgepakt bij het opstarten.
+  * Na het opnieuw opslaan van je procesdefinitie worden Camunda-versietags nu zichtbaar.
+  * Automatische deployment van globale formulieren en objectmanagementconfiguraties is hersteld. Globale formulieren kunnen nu worden geplaatst in `config/global/form/*.form.json` en objectmanagementconfiguraties in `config/global/object-management/*.object-management.json`, zodat ze automatisch worden opgepakt bij het opstarten.
   * Fout in het migratiescript bij het upgraden vanaf Valtimo 12 is opgelost.
-  * En, _the last but not least_ - fout in formulieren opgelost waarbij voorwaarden op velden binnen een Data Grid-veldtype niet correct werkten.&#x20;
+  * En, _the last but not least_ - fout in formulieren opgelost waarbij voorwaarden op velden binnen een Data Grid-veldtype niet correct werkten.
 
 ### GZAC Valtimo v13.20.0
 
 18 maart 2026 - nieuwe minor release met de nieuwe functionaliteiten, verbeteringen en bugfixes:
 
-* Wanneer een casedefinitie wordt geïmporteerd in een nieuwe omgeving, kan deze verwijzen naar configuraties — zoals een Zaken API-plugin of Objecten API-sync — die nog niet bestaan in die omgeving. De ontbrekende referenties worden nu gedetecteerd  tijdens het importeren en  waarschuwingen aan beheerder worden getoond om te helpen deze op te lossen.
-*   Er is een nieuw type toegangscontrole-resource toegevoegd: "_User"._ Dit resource type maakt het mogelijk om de toegang tot gebruikersgegevens via de _/api/v1/users/_-API te beheren.&#x20;
+* Wanneer een casedefinitie wordt geïmporteerd in een nieuwe omgeving, kan deze verwijzen naar configuraties — zoals een Zaken API-plugin of Objecten API-sync — die nog niet bestaan in die omgeving. De ontbrekende referenties worden nu gedetecteerd tijdens het importeren en waarschuwingen aan beheerder worden getoond om te helpen deze op te lossen.
+*   Er is een nieuw type toegangscontrole-resource toegevoegd: "_User"._ Dit resource type maakt het mogelijk om de toegang tot gebruikersgegevens via de _/api/v1/users/_-API te beheren.
 
     De ondersteunde acties zijn: "_view" -_ om de details van een enkele gebruiker te bekijken en _"view\_list"_ - om een lijst van gebruikers te bekijken of naar gebruikers te zoeken.
 * Wat is opgelost: Keycloak-rolopvragingen zijn nu beperkt tot de huidige client-ID, zodat rollen van andere clients binnen dezelfde realm niet langer worden meegenomen bij het bepalen van gebruikersidentiteit en menuweergave; een fout met betrekking tot _email\_notification\_settings\_days_ die eenmaal per dag optrad en andere
@@ -191,8 +193,6 @@
 * Het aanpassen van een vervaldatum werkt nu op dezelfde manier als het aanpassen van de taaktoewijzing. Wanneer een taak al een vervaldatum heeft, kun je deze eenvoudig bewerken of verwijderen via een bewerkoptie.
 * Er zijn een aantal problemen opgelost, waaronder: geselecteerde filters voor status of tags die soms per ongeluk werden verwijderd; taakzoekvelden die bij het exporteren van een zaak verkeerd werden opgeslagen, waardoor importeren niet mogelijk was; een proceslink bij een gebruikerstaak die soms niet werd uitgevoerd; een documentveld dat soms niet geselecteerd kon worden bij het configureren van een kolom in een zaakoverzicht; problemen bij het in bulk toewijzen van zaken waarbij rechtencontroles niet altijd correct werden toegepast; en een fout waarbij het twee keer selecteren van hetzelfde item in een keuzelijst in de takenlijst ervoor kon zorgen dat de lijst niet meer goed werkte en andere bugs.
 
-
-
 ### GZAC Valtimo v13.18.0
 
 04 maart 2026 - nieuwe minor release met verbeteringen en bugfixes:
@@ -201,7 +201,7 @@
 * Enkele maatwerkinterface-onderdelen zijn vervangen door standaardcomponenten. Dit zorgt voor een meer consistente gebruikerservaring binnen de applicatie.
 * Sommige elementen in pop-ups passen zich nu beter aan aan lichte en donkere thema’s, waardoor de leesbaarheid verbetert.
 * Het systeem kan nu meer gebruikers laden bij het selecteren van iemand om een zaak aan toe te wijzen. Dit is vooral handig voor organisaties met grote gebruikersdirectories.
-* Bug-fixes: bepaalde technische velden uit authenticatietokens worden niet langer automatisch geïnterpreteerd als gebruikersrollen; de toegewezen gebruiker en de vervaldatum worden nu consistent getoond in het taakdetailvenster; wanneer taken in real time worden bijgewerkt, blijft informatie zoals de toegewezen gebruiker en referentiesleutel behouden; als  de vervaldatum van een taak is wijzigt, wordt de takenlijst nu automatisch vernieuwd; wanneer een vervaldatum wordt ingesteld of verwijderd, verschijnt er nu een melding; oude taakinformatie blijft niet langer zichtbaar nadat het taakdetailvenster is gesloten.
+* Bug-fixes: bepaalde technische velden uit authenticatietokens worden niet langer automatisch geïnterpreteerd als gebruikersrollen; de toegewezen gebruiker en de vervaldatum worden nu consistent getoond in het taakdetailvenster; wanneer taken in real time worden bijgewerkt, blijft informatie zoals de toegewezen gebruiker en referentiesleutel behouden; als de vervaldatum van een taak is wijzigt, wordt de takenlijst nu automatisch vernieuwd; wanneer een vervaldatum wordt ingesteld of verwijderd, verschijnt er nu een melding; oude taakinformatie blijft niet langer zichtbaar nadat het taakdetailvenster is gesloten.
 
 ### GZAC Valtimo v13.17.0
 
@@ -209,7 +209,7 @@
 
 * Er is een nieuwe feature uitgerold: Slimmere zoekfilters in tabellen. Filters passen zich automatisch aan het type gegevens in een kolom aan (bijvoorbeeld tekst of datum). Hierdoor kunnen waarden in het juiste formaat worden ingevoerd en kunnen resultaten sneller en intuïtiever worden verfijnd.
 * Bij het aanmaken of bekijken van een process-link wordt nu de naam van de geselecteerde pluginconfiguratie getoond. Zo is direct duidelijk welke configuratie wordt gebruikt.
-* Deze release bevat ook enkele bugfixes:  er is een probleem opgelost waarbij de datumkiezer van de vervaldatum in een taak niet meeveranderde wanneer de applicatietaal werd aangepast; de lijst met beschikbare processen wordt nu altijd geladen ook als er een proces zonder naam bestond; verschillende verbeteringen in formulieren en bestandsuploads en andere.
+* Deze release bevat ook enkele bugfixes: er is een probleem opgelost waarbij de datumkiezer van de vervaldatum in een taak niet meeveranderde wanneer de applicatietaal werd aangepast; de lijst met beschikbare processen wordt nu altijd geladen ook als er een proces zonder naam bestond; verschillende verbeteringen in formulieren en bestandsuploads en andere.
 
 ### GZAC Valtimo v13.16.0
 
@@ -230,8 +230,8 @@
 
 <figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
-* Wat is opgelost in deze release:&#x20;
-  * JSON-editor wordt nu altijd weergegeven bij het werken met de JSON-editor voor document- of formulierdefinities,&#x20;
+* Wat is opgelost in deze release:
+  * JSON-editor wordt nu altijd weergegeven bij het werken met de JSON-editor voor document- of formulierdefinities,
   * er is een probleem opgelost waarbij aangepaste widgets onterecht gegevensophaalacties startten.
   * versietags van DMN-beslissingstabellen zijn nu correct bijgewerkt bij het koppelen van een proces aan een casusdefinitie en andere bug-fixes
 
@@ -242,22 +242,18 @@
 * De plugin “Link document to zaak” ondersteunt nu twee nieuwe properties: ‘vernietigingsdatum’ en ‘status’. Deze worden toegevoegd aan het zaakinformatieobject tijdens het koppelen van een document aan een zaak.
 * Bij het verwijderen van een zaak worden gekoppelde documenten nu alleen verwijderd uit de Documenten API als ze niet aan andere zaken zijn gekoppeld. Documenten die aan meerdere zaken zijn gekoppeld blijven beschikbaar; alleen de relatie tussen de zaak en het document wordt verwijderd.
 * Bouwblokken kunnen nu worden aangeroepen vanuit onafhankelijke processen die niet aan een zaak zijn gekoppeld.
-* Wat is opgelost in deze release: een nieuw aangemaakte zaak binnen de Zaken API plugin  is nu correct aangekoppeld aan de case wanneer deze wordt gebruikt in een bouwblok, het contextmenu in het case-detail toont de actie 'Ontkoppelen' nu alleen wanneer de gebruiker beschikt over de juiste toewijzingsrechten, de uploadmodals voor casedefinities en bouwblokken zijn consistenter vormgegeven en andere kleinere fixes
-
-
+* Wat is opgelost in deze release: een nieuw aangemaakte zaak binnen de Zaken API plugin is nu correct aangekoppeld aan de case wanneer deze wordt gebruikt in een bouwblok, het contextmenu in het case-detail toont de actie 'Ontkoppelen' nu alleen wanneer de gebruiker beschikt over de juiste toewijzingsrechten, de uploadmodals voor casedefinities en bouwblokken zijn consistenter vormgegeven en andere kleinere fixes
 
 ### GZAC Valtimo v13.13.0
 
 28 januari 2026 - minor release met super belangrijke functionaliteiten waaronder:
 
 * Bouwblokken - Met Bouwblokken kunnen veelgebruikte processtappen eenvoudig opnieuw ingezet worden in meerdere zaken. Dit zorgt ervoor dat gedeelde onderdelen van processen overal hetzelfde blijven en makkelijker te beheren zijn. Bouwblokken kunnen ook eenvoudig worden meegenomen naar andere omgevingen.
-* Integratie met IKO-server - de GZAC-gebruikers kunnen nu een actueel en compleet overzicht  krijgen van klant- en objectinformatie. Hierdoor kunnen burgers, bedrijven en instellingen sneller en duidelijker worden geholpen.
-* Widget-configuratie is nu beschikbaar gemaakt voor custom components&#x20;
-* Verplichte velden zijn aangepast voor "_Employee_", "_Organisational unit_" en "_Branch_" in Zaken API&#x20;
+* Integratie met IKO-server - de GZAC-gebruikers kunnen nu een actueel en compleet overzicht krijgen van klant- en objectinformatie. Hierdoor kunnen burgers, bedrijven en instellingen sneller en duidelijker worden geholpen.
+* Widget-configuratie is nu beschikbaar gemaakt voor custom components
+* Verplichte velden zijn aangepast voor "_Employee_", "_Organisational unit_" en "_Branch_" in Zaken API
 * Het is nu mogelijk om te wisselen tussen de stappen van de configuratie binnen de proceslink-modal.
 * Een paar bugfixes, o.a. taken worden niet langer automatisch afgesloten wanneer een andere gebruiker de taaktoewijzing wijzigt, de LockProvider-configuratie ondersteunt nu het instellen van de tijdzone via configuratie-eigenschappen en gebruikt standaard UTC als er niets is opgegeven.
-
-
 
 ### GZAC Valtimo v13.12.0
 
@@ -276,8 +272,6 @@
 * Er is een nieuwe functionaliteit toegevoegd aan de Documenten API: het is nu mogelijk om bestandstypen te beperken in de uploader FormIO-component. De bestandsextensie van het geüploade bestand weerspiegelt nu altijd het daadwerkelijke bestandstype, ook wanneer we de bestandsnaam programmatisch instellen vanuit de Documenten API-uploadercomponent.
 * Om de gebruikerservaring te verbeteren en de systeemprestaties te verhogen, hebben we lazy loading geïntroduceerd voor de case widgets.
 * Wat is opgelost in deze release: paginering op de keuzeveld-pagina, een fout bij het ophalen van gebruikers uit Keycloak (versie 26.3.0 of nieuwer), de documenttype-dropdown van de Documenten API.
-
-
 
 ### GZAC Valtimo v13.10.0
 
@@ -324,7 +318,7 @@
 
 * Zaken API-plugin heeft enkele veranderingen: een datum voor een zaakstatus kan nu worden ingesteld en zaakbesluiten kunnen nu worden opgehaald
 * De Besluiten API plugin is uitgebreid met een plugin action waarmee de vervaldatum en vervalreden op een eerder vastgelegd besluit aangepast kan worden
-* Een nieuwe widget — de kaart-widget — is toegevoegd&#x20;
+* Een nieuwe widget — de kaart-widget — is toegevoegd
 * Een actieknop kan nu bij bijna alle widgets worden toegevoegd tijdens de configuratie. Deze knop kan worden gebruikt om een zaak te starten of de gebruiker naar een externe link te brengen
 * Er zijn meerdere bugfixes en UI-verbeteringen doorgevoerd. Zo worden radioknoppen nu naast elkaar getoond, gaat de applicatie beter om met tijdzone-informatie, is de verwerking bij het ophalen van gebruikers sneller, kunnen icoontjes nu worden toegevoegd tijdens de widget-configuratie en meer.
 
@@ -335,9 +329,7 @@
 * OpenZaak-plugin is bijgewerkt met een nieuwe actie waarmee een Zaak-rolen kunnen worden verwijderd zodra deze niet langer beschikbaar zijn.
 * Meerdere beveiligingsverbeteringen aan de applicatie zijn doorgevoerd.
 * Prestatieverbeteringen bij het ophalen van taken en zaken zijn nu uitgerold.
-*   Meerdere bug-fixes, onder anderen koppelingen tussen processen en formulieren worden nu altijd correct meegenomen, zaaktags en header-widgets worden nu goed overgenomen in nieuwe conceptversies, bij het uploaden van een document wordt het veld met document typen automatisch ingevuld (indien beschikbaar), bij het aanmaken van een nieuwe zaak-widget worden voorwaarden van eerder geopende widgets niet langer vooraf ingevuld, de titels van FormIO- en aangepaste widgets worden nu correct weergegeven, widgets UI correcties en meer.
-
-
+* Meerdere bug-fixes, onder anderen koppelingen tussen processen en formulieren worden nu altijd correct meegenomen, zaaktags en header-widgets worden nu goed overgenomen in nieuwe conceptversies, bij het uploaden van een document wordt het veld met document typen automatisch ingevuld (indien beschikbaar), bij het aanmaken van een nieuwe zaak-widget worden voorwaarden van eerder geopende widgets niet langer vooraf ingevuld, de titels van FormIO- en aangepaste widgets worden nu correct weergegeven, widgets UI correcties en meer.
 
 ### GZAC Valtimo v13.4.0
 
@@ -370,12 +362,12 @@
 * De documentdefinitie naam wordt nu automatisch ingevuld op basis van de huidige case.
 * Diverse bug-fixes met betrekking tot de migratie van V12 naar V13, vertalingen en processen.
 
-### GZAC Valtimo v13.1.0&#x20;
+### GZAC Valtimo v13.1.0
 
 20 augustus 2025: Beta - release met uitbreidingen is beschikbaar - dit zit erin:
 
 * Case Definition-controle maakt het nu mogelijk voor gebruikers om details te bekijken op basis van hun toegewezen rol
-* Gebruikers kunnen nu kolommen en zoekvelden zelf configureren&#x20;
+* Gebruikers kunnen nu kolommen en zoekvelden zelf configureren
 * Widgets kunnen nu ook worden ingesteld
 * Verbeteringen aan de Notificaties API zijn doorgevoerd voor meer betrouwbaarheid en betere prestaties
 * Een nieuwe aanpak voor Form.io-formuliervertalingen is geïmplementeerd
@@ -392,7 +384,7 @@
 * SSE: realtime updates!
 * And meer.. stay tuned!
 
-Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request.demo.k8s.ritense.com/).&#x20;
+Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request.demo.k8s.ritense.com/).
 
 ### GZAC Valtimo v12.14 coming soon...
 
@@ -413,7 +405,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 10 april 2025:
 
-* Dossiertags kunnen nu worden toegevoegd aan een dossier om extra informatie mee te geven aan het dossier. Tags kunnen getoond worden in de dossierlijst, op het dossierdetailpagina en kunnen gebruikt worden bij het zoeken van een dossier uit de dossierlijst.&#x20;
+* Dossiertags kunnen nu worden toegevoegd aan een dossier om extra informatie mee te geven aan het dossier. Tags kunnen getoond worden in de dossierlijst, op het dossierdetailpagina en kunnen gebruikt worden bij het zoeken van een dossier uit de dossierlijst.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-06-16 at 14.27.16.png" alt=""><figcaption><p>Dossiertags</p></figcaption></figure>
 
@@ -423,7 +415,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.10
 
-3 april 2025: nieuwe minor release met o.a.:&#x20;
+3 april 2025: nieuwe minor release met o.a.:
 
 * Optie tot het verbergen van taken die niet tot de afhandelrechten behoren van betreffende gebruiker
 * Verscheidene bugfixes
@@ -439,17 +431,17 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 4 maart 2025:
 
-* Proceslinkconfiguraties kunnen nu herbruikt worden. Je kan nu een configuratie importeren van een andere proceslink vanuit dezelfde plugin.&#x20;
+* Proceslinkconfiguraties kunnen nu herbruikt worden. Je kan nu een configuratie importeren van een andere proceslink vanuit dezelfde plugin.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Importeer configuratie</p></figcaption></figure>
 
 * Verbergen van lege dossierwidgetvelden
-* Rollen en rechten voor Documenten API documenten.  Toegang o.b.v. gebruiker kan ingeregel worden om documenten te bekijken, creeëren, beerkend en verwijderen
+* Rollen en rechten voor Documenten API documenten. Toegang o.b.v. gebruiker kan ingeregel worden om documenten te bekijken, creeëren, beerkend en verwijderen
 * Verscheidene bugfixes
 
 ### GZAC Valtimo v12.7
 
-21 januari 2025:&#x20;
+21 januari 2025:
 
 * Taakinformatie beschikbaar op het dashboard
 
@@ -495,7 +487,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 22 november 2024: Deze release bevat:
 
-* Logging - bekijken en filteren/zoeken van logs in admin UI (na 21 dagen worden de logs automatisch verwijderd voor het voorkomen van een alsmaar groter wordende database).&#x20;
+* Logging - bekijken en filteren/zoeken van logs in admin UI (na 21 dagen worden de logs automatisch verwijderd voor het voorkomen van een alsmaar groter wordende database).
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Overzicht in Admin > Logs</p></figcaption></figure>
 
@@ -507,7 +499,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 ### GZAC Valtimo v12.4
 
-25 oktober 2024: :warning: Deze release bevat een potentiële breaking change, nl. de vervanging van WebClient door RestClient, wat de stabiliteit verbetert.  Verder in deze release:
+25 oktober 2024: :warning: Deze release bevat een potentiële breaking change, nl. de vervanging van WebClient door RestClient, wat de stabiliteit verbetert. Verder in deze release:
 
 * De taken panel: bewerkstelligt gebruikers te navigeren tussen dossiertabs tegelijkertijd tijdens het invullen van het takenformulier. Admins kunnen instellen of het formulier in de modal of in de takenpanel getoond moet worden.
 
@@ -527,7 +519,7 @@ Wil je deze Beta versie uitproberen? Stuur hier dan je [verzoek](https://request
 
 20 september 2024: In deze release:
 
-* \[Documenten API] Geüploade documenten URLs worden nu lokaal opgeslagen in GZAC en opgevraagd door een REST API. Dat opent de deur naar het maken van een document-download form.io component, zowel als het uploaden van een document zonder het te hoeven selecteren voor het aanmaken van het besluit.&#x20;
+* \[Documenten API] Geüploade documenten URLs worden nu lokaal opgeslagen in GZAC en opgevraagd door een REST API. Dat opent de deur naar het maken van een document-download form.io component, zowel als het uploaden van een document zonder het te hoeven selecteren voor het aanmaken van het besluit.
 * De taken panel feature, achter een feature toggle (enableTaskPanel)
 * Het eerste gedeelte van technische logging verbeteringen
 * Verschillende bugfixes
