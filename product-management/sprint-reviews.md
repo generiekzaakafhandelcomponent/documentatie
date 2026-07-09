@@ -1,5 +1,9 @@
 # Sprint reviews
 
+9 juli 2026
+
+{% embed url="https://vimeo.com/1208400119" %}
+
 25 juni 2026
 
 {% embed url="https://vimeo.com/1204503003?share=copy&fl=sv&fe=ci" %}
@@ -63,8 +67,6 @@
 16 oktober 2025
 
 {% embed url="https://vimeo.com/1130150173?share=copy&fl=sv&fe=ci" %}
-
-
 
 02 oktober 2025
 
@@ -137,8 +139,6 @@ Geen sprint review in verband met vakantie.
 #### 23 januari 2025
 
 {% embed url="https://vimeo.com/1052204866?share=copy#t=0" %}
-
-
 
 #### 9 januari 2025
 
