@@ -4,9 +4,13 @@
 
 Q2 2026 staat in het teken van het verder concretiseren en afronden van eerder ingezette platformverbeteringen, gecombineerd met de introductie van nieuwe, krachtige functionaliteiten. De focus ligt op het afronden van environment settings en het mogelijk maken van ad-hoc starten van bouwblokken, evenals de oplevering van de eerste versie van het GZAC generiek proces (MVP) en functionaliteit voor samenwerken aan dossiers.
 
-Daarnaast wordt gestart met een nieuwe reeks uitbreidingen binnen bouwblokken, waaronder ondersteuning voor DMN, form-flow en continuous sync, en wordt een vernieuwde instellingenpagina met logo-introductie gerealiseerd. Ook wordt gewerkt aan migratie naar de laatste versie van bouwblokken. Verder worden gebruiksvriendelijke verbeteringen doorgevoerd, zoals quicksearch op taken en documenten en andere verbeteringen.&#x20;
+Daarnaast wordt gestart met een nieuwe reeks uitbreidingen binnen bouwblokken, waaronder ondersteuning voor DMN, form-flow en continuous sync, en wordt een vernieuwde instellingenpagina met logo-introductie gerealiseerd. Ook wordt gewerkt aan migratie naar de laatste versie van bouwblokken. Verder worden gebruiksvriendelijke verbeteringen doorgevoerd, zoals quicksearch op taken en documenten en andere verbeteringen.
 
-Dit alles staat gepland voor Q2, maar laten we eerst met een korte tussenstand van zaken terugblikken op april en mei 2026:
+Dit alles stond gepland voor Q2. Hieronder een globaal overzicht van het volledige kwartaal, gevolgd door een uitsplitsing en voortgang per maand (april, mei en juni 2026):
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 

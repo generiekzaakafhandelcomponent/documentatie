@@ -15,6 +15,6 @@ Het zaakafhandelcomponent is één van de componenten in het ZGW-landschap. Er k
 
 Het zaakafhandelcomponent communiceert met andere componenten, zoals bijvoorbeeld portalen, systemen voor gebruikersauthenticatie, financiele systemen, email services, BRK, BRP en vele anderen.
 
-De koppeling tussen GZAC en andere componenten wordt gelegd via [Plugins](broken-reference/).
+De koppeling tussen GZAC en andere componenten wordt gelegd via [Plugins](https://github.com/generiekzaakafhandelcomponent/documentatie/blob/main/kennisbank/werken-met-componenten/broken-reference/README.md).
 
 ###
