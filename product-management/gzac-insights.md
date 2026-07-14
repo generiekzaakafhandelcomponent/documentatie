@@ -1,5 +1,15 @@
 # GZAC Insights
 
+### Q3-2026
+
+Q3 2026 staat in het teken van het verder versterken van het platform door het afronden van belangrijke technische vernieuwingen, gecombineerd met de introductie van nieuwe functionaliteiten die de gebruikerservaring verder verbeteren. De focus ligt op de oplevering van dossiermigratie, de afronding van de maatwerk op GZAC en de introductie van continuous sync, waarmee een belangrijke stap wordt gezet in de verdere modernisering van het platform.
+
+Daarnaast wordt gewerkt aan het verder verbeteren van prestaties en gebruiksgemak door de introductie van global search, performance-optimalisaties en nieuwe functionaliteiten zoals objectdocumenten, werkvoorraadnotificaties en archiveren.&#x20;
+
+Tot slot wordt de IKO-integratie verder uitgebreid met een reeks functionaliteiten die de samenwerking en informatievoorziening versterken. Zo worden onder andere een visuele mapstructuur, een detailscherm voor OpenProduct, het tonen van zaaknummers in de contactmomentenlijst, directe navigatie van IKO naar GZAC-dossiers en het bekijken van documenten vanuit de Interactive Table Widget gerealiseerd.
+
+Kortom, Q3 belooft opnieuw een kwartaal vol mooie ontwikkelingen te worden. Houd onze updates in de gaten – er komt nog veel aan!
+
 ### Q2-2026
 
 Q2 2026 staat in het teken van het verder concretiseren en afronden van eerder ingezette platformverbeteringen, gecombineerd met de introductie van nieuwe, krachtige functionaliteiten. De focus ligt op het afronden van environment settings en het mogelijk maken van ad-hoc starten van bouwblokken, evenals de oplevering van de eerste versie van het GZAC generiek proces (MVP) en functionaliteit voor samenwerken aan dossiers.
