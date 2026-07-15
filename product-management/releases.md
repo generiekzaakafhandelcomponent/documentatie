@@ -1,5 +1,12 @@
 # Releases
 
+### GZAC Valtimo v13.37.0
+
+15 juli 2026 - een nieuwe mini-minor release met een paar nieuwe functionaliteiten en bugfixes:
+
+* De Documenten API File Upload-component ondersteunt nu een maximaal aantal bestanden per upload, zodat beheerders meer controle hebben over het upload proces.
+* Er zijn ook diverse problemen opgelost, waaronder een verbeterde weergave van brede lijsten, die nu horizontaal scrollen, en een oplossing waardoor complete objecten binnen building block-mappings weer eenvoudig in één keer kunnen worden geselecteerd en verschillende network dependencies.
+
 ### GZAC Valtimo v13.36.0
 
 8 juli 2026 - nieuwe minor release met nieuwe functionaliteiten, verbeteringen en bugfixes:
