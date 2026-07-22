@@ -1,5 +1,14 @@
 # Releases
 
+### GZAC Valtimo v13.38.0
+
+22 juli 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
+
+* Er is een nieuwe globale zoekfunctie toegevoegd waarmee gebruikers vanuit één zoekveld kunnen zoeken in alle zaken. Zo kunnen zaken eenvoudig worden gevonden op basis van tekst uit de zaakinhoud, zonder te weten in welk veld de informatie staat. Zoekresultaten worden automatisch gefilterd op basis van de toegangsrechten van de gebruiker.
+* OpenSearch kan worden gebruikt als zoekmachine voor zaken en documenten. Dit zorgt voor snellere zoekresultaten en betere prestaties, vooral in omgevingen met grote hoeveelheden gegevens.
+* Het startmenu op de zaakdetailpagina wordt nu automatisch bijgewerkt wanneer beschikbare ondersteunende processen veranderen, zodat gebruikers altijd de actuele opties zien zonder de pagina te hoeven vernieuwen.
+* Er zijn ook diverse problemen opgelost, waaronder de weergave van tags in takenlijsten, het behouden van geüploade documenten in formulieren, verbeteringen aan building block-configuraties, een stabielere weergave van lijsten tijdens het laden en verschillende verbeteringen aan widgettabs, taakformulieren, versiebeheer en documentrechten.
+
 ### GZAC Valtimo v13.37.0
 
 15 juli 2026 - een nieuwe mini-minor release met een paar nieuwe functionaliteiten en bugfixes:
