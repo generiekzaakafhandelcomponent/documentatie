@@ -1,5 +1,9 @@
 # Sprint reviews
 
+23 juli 2026
+
+{% embed url="https://vimeo.com/1212308977?share=copy&fl=sv&fe=ci" %}
+
 9 juli 2026
 
 {% embed url="https://vimeo.com/1208400119" %}
