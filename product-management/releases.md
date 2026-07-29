@@ -1,5 +1,15 @@
 # Releases
 
+### GZAC Valtimo v13.39.0
+
+29 juli 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
+
+* Exports van zaakdefinities en building blocks bevatten voortaan automatisch een manifestbestand met een overzicht van de inhoud, zoals de versie en de benodigde afhankelijkheden. Hierdoor is direct inzichtelijk wat een export bevat en wat nodig is voor een succesvolle import.
+* De zaakdetailpagina wordt nu automatisch bijgewerkt wanneer de status of behandelaar verandert, zodat gebruikers altijd de meest actuele informatie zien zonder de pagina te vernieuwen.
+* Daarnaast is de logging rondom Notificatie API-abonnementen uitgebreid, waardoor het eenvoudiger is om wijzigingen en eventuele problemen te volgen.
+* Er zijn ook diverse problemen opgelost, waaronder verbeterde autorisatie bij exports, stabielere documentweergave wanneer gekoppelde documenten ontbreken, correct werkende sortering in zakenlijsten, consistente terminologie in de gebruikersinterface en diverse verbeteringen aan taken, meldingen, dialoogvensters en de synchronisatie van Notificatie API-abonnementen.
+* Tot slot zijn meerdere beveiligingsverbeteringen doorgevoerd door kwetsbaarheden in onderliggende softwarecomponenten te verhelpen.
+
 ### GZAC Valtimo v13.38.0
 
 22 juli 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
