@@ -8,7 +8,9 @@ Daarnaast wordt gewerkt aan het verder verbeteren van prestaties en gebruiksgema
 
 Tot slot wordt de IKO-integratie verder uitgebreid met een reeks functionaliteiten die de samenwerking en informatievoorziening versterken. Zo worden onder andere een visuele mapstructuur, een detailscherm voor OpenProduct, het tonen van zaaknummers in de contactmomentenlijst, directe navigatie van IKO naar GZAC-dossiers en het bekijken van documenten vanuit de Interactive Table Widget gerealiseerd.
 
-Kortom, Q3 belooft opnieuw een kwartaal vol mooie ontwikkelingen te worden. Houd onze updates in de gaten – er komt nog veel aan!
+Kortom, Q3 belooft opnieuw een kwartaal vol mooie ontwikkelingen te worden. Laten we met een korte tussenstand van zaken terugblikken op juli 2026:
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ### Q2-2026
 
