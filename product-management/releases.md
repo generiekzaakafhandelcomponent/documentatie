@@ -1,5 +1,14 @@
 # Releases
 
+### GZAC Valtimo v13.40.0
+
+05 augustus 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
+
+* Gebruikers kunnen een process timer nu direct overslaan vanuit het tabblad **Voortgang** van een zaak. Met de juiste rechten kan een proces hierdoor direct verdergaan, zonder te wachten tot de timer afloopt. Alle acties worden automatisch vastgelegd in de audittrail.
+* Er is een nieuw **Tekst-widget** toegevoegd waarmee beheerders vaste toelichtingen, werkinstructies of andere informatieve content kunnen tonen op de zaakdetailpagina. De inhoud wordt centraal beheerd en kan eenvoudig worden opgemaakt met Markdown.
+* Bij het koppelen van een zaaktype worden nu ook de begin- en einddatum van het zaaktype getoond, waardoor verschillende versies eenvoudiger van elkaar te onderscheiden zijn. Daarnaast is een nieuwe optie toegevoegd om Form.io-tokens alleen tijdens de sessie in het geheugen te bewaren.
+* Er zijn ook diverse problemen opgelost, waaronder verbeteringen in versiebeheer van zaakdefinities, een stabielere navigatie en menuweergave, oplossingen voor vastlopende zaken- en takenlijsten in bepaalde browsers, een betere positionering van actiemenu's in lijsten en een oplossing voor problemen bij het importeren van zaakdefinities met building blocks.
+
 ### GZAC Valtimo v13.39.0
 
 29 juli 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
