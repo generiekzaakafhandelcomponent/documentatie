@@ -1,5 +1,14 @@
 # Releases
 
+### GZAC Valtimo v13.41.0
+
+12 augustus 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
+
+* Processen kunnen nu een bericht sturen naar een hele zaak: zowel de processen van de zaak zelf als al haar building blocks ontvangen dat bericht. Hierdoor kan een building block reageren op iets dat elders in de zaak gebeurt en kunnen building blocks elkaar onderling informeren. Ook een andere, bijvoorbeeld gerelateerde, zaak kan op deze manier een bericht ontvangen.
+* Een building block kan voortaan ook worden gestart door een bericht naar de zaak te sturen, in plaats van alleen vanuit een call activity of het startmenu van de zaak.
+* De keuzelijsten op de pagina _Procesmigratie_ en de proceskeuzelijst op het tabblad **Voortgang** van een zaak zijn nu doorzoekbaar. In omgevingen met veel procesdefinities is het juiste proces daardoor eenvoudiger te vinden.
+* Er zijn ook diverse problemen opgelost, waaronder het starten van een building block vanuit de acties van een zaak, waarbij nu altijd de aan de zaak gekoppelde versie wordt gebruikt, het openen van startformulieren van building blocks in het zijpaneel, de weergave en het dupliceren van dividerwidgets zonder titel, en het exporteren van zaakdefinities waarvan een procesdefinitie ontbreekt.
+
 ### GZAC Valtimo v13.40.0
 
 05 augustus 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
