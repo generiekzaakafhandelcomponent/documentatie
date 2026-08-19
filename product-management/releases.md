@@ -1,5 +1,14 @@
 # Releases
 
+### GZAC Valtimo v13.42.0
+
+19 augustus 2026 - een nieuwe minor release met nieuwe functionalitijten en bugfixes:
+
+* Dashboardwidgets met aantallen tonen nu alleen zaken die de gebruiker daadwerkelijk mag bekijken. Hierdoor sluiten de cijfers op het dashboard beter aan op de zakenlijst.&#x20;
+* De toegangscontrole voor objecten is verder aangescherpt, zodat rechten worden gecontroleerd voordat gegevens worden opgehaald.
+* Daarnaast zijn diverse problemen opgelost. Pagina’s blijven nu correct werken wanneer een gekoppelde gebruiker is verwijderd, form flows kunnen als startformulier voor building blocks worden gebruikt en verwijderde processen worden correct opgeschoond. Ook zijn meerdere verbeteringen doorgevoerd voor form flows en taakformulieren, dashboardgrafieken en de navigatie rond beslissingstabellen.
+* Tot slot zijn verschillende beveiligingsverbeteringen doorgevoerd en meerdere kwetsbaarheden in onderliggende softwarecomponenten opgelost.
+
 ### GZAC Valtimo v13.41.0
 
 12 augustus 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
