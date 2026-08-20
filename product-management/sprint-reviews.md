@@ -1,5 +1,11 @@
 # Sprint reviews
 
+20 augustus 2026
+
+{% embed url="https://vimeo.com/1219842735?share=copy&fl=sv&fe=ci" %}
+
+
+
 06 augustus 2026
 
 {% embed url="https://vimeo.com/1216092456?share=copy&fl=sv&fe=ci" %}
