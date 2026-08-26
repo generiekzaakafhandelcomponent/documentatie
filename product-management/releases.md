@@ -1,8 +1,18 @@
 # Releases
 
+### GZAC Valtimo v13.43.0
+
+26 augustus 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
+
+* Processen kunnen nu compleet worden geëxporteerd, inclusief gekoppelde subprocessen, beslissingstabellen, formulieren en proceslinks. Hierdoor kunnen processen eenvoudiger naar een andere omgeving worden overgezet zonder onderdelen handmatig opnieuw te configureren.
+* Het configureren van procesexpressies is eenvoudiger gemaakt. Gebruikers kunnen nu een service en bijbehorende actie selecteren en de benodigde gegevens invullen, zonder technische namen of methodes te hoeven kennen.
+* De BPMN-modeler toont nu visuele markeringen waarmee direct zichtbaar is welke configuraties aan een procesonderdeel zijn gekoppeld. Ook automatisch ingevulde waarden worden duidelijk gemarkeerd, zodat deze eenvoudig gecontroleerd kunnen worden.
+* De validatie van processen is verder verbeterd met slimmere controles en duidelijkere, consistente foutcodes. Daarnaast toont de zaakinspectie nu ook de sleutel en versie van de zaakdefinitie.
+* Er zijn ook diverse problemen opgelost, waaronder: onzichtbare achtergebleven elementen worden bij het opslaan automatisch verwijderd, formulieren in widgets worden correct meegenomen in zaakexports, configuratiewaarschuwingen verdwijnen wanneer de oorzaak is verwijderd, lange teksten in widgets worden correct weergegeven en zaken met building blocks kunnen weer worden verwijderd. Daarnaast zijn verbeteringen doorgevoerd voor grafieken, formulieren, zoekvelden, taken, proceslinks, procesuploads en de Notificaties API.
+
 ### GZAC Valtimo v13.42.0
 
-19 augustus 2026 - een nieuwe minor release met nieuwe functionalitijten en bugfixes:
+19 augustus 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
 
 * Dashboardwidgets met aantallen tonen nu alleen zaken die de gebruiker daadwerkelijk mag bekijken. Hierdoor sluiten de cijfers op het dashboard beter aan op de zakenlijst.&#x20;
 * De toegangscontrole voor objecten is verder aangescherpt, zodat rechten worden gecontroleerd voordat gegevens worden opgehaald.
