@@ -5,7 +5,7 @@
 2 september 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
 
 * Form flows kunnen nu visueel worden opgebouwd met de nieuwe **Editor (beta)**, als alternatief voor de bestaande JSON-editor. Stappen, overgangen en acties kunnen via een overzichtelijke interface worden ingesteld en direct worden gevalideerd.
-* Er is een nieuwe **E-mail preview** Form.io-component toegevoegd waarmee een gegenereerde e-mail direct in een formulier kan worden bekeken. Zo kan een zaakbehandelaar de volledige e-mail controleren voordat deze verder wordt verwerkt.
+* Er is een nieuwe E-mail preview Form.io-component toegevoegd waarmee een gegenereerde e-mail direct in een formulier kan worden bekeken. Zo kan een zaakbehandelaar de volledige e-mail controleren voordat deze verder wordt verwerkt.
 * Het verwerken van documenten en zaken is sneller gemaakt, met name bij grotere configuraties.&#x20;
 * Daarnaast is het building block-overzicht verbeterd met zoeken, sorteren en paginering, waardoor building blocks eenvoudiger te vinden en beheren zijn.
 * Het leegmaken van velden houdt nu beter rekening met de regels van het zaakmodel, waardoor wordt voorkomen dat verplichte gegevens onbedoeld worden verwijderd.
