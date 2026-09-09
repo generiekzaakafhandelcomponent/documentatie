@@ -1,5 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.45.0
+
+9 september 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes
+
+* De takenlijst kan nu optioneel handmatig worden vernieuwd. Met deze instelling blijft de lijst ongewijzigd totdat de gebruiker op 'Taken vernieuwen' klikt, zodat taken tijdens het werken niet onverwacht van positie veranderen.
+* De eerste keer openen van de applicatie is aanzienlijk sneller gemaakt doordat alleen onderdelen worden geladen die op dat moment nodig zijn.&#x20;
+* Ook automatische updates van de takenlijst verlopen nu op de achtergrond, zonder zoeken, sorteren of lezen te onderbreken.
+* Systeemprocessen kunnen voortaan net als andere processen worden aangepast en opgeslagen, zonder bestaande zaken te beïnvloeden.&#x20;
+* Het scherm voor procesmigratie vernieuwd en overzichtelijker gemaakt.
+* Er zijn ook diverse problemen opgelost, waaronder: alle zaak- en procesversies worden weer correct weergegeven en gesorteerd, zaken kunnen worden verwijderd wanneer de gekoppelde zaak in de Zaken API al is verwijderd, documenten uit form flows worden correct aan de zaak toegevoegd en niet meer dubbel opgeslagen, bedragen in formulieren worden correct weergegeven en pluginconfiguraties behouden de juiste instellingen. Ook zijn verbeteringen doorgevoerd voor procesmigratie, takenlijsten en Notificaties API-abonnementen.
+
 ### GZAC Valtimo v13.44.0
 
 2 september 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
