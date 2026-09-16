@@ -1,5 +1,13 @@
 # Releases
 
+### GZAC Valtimo v13.46.0
+
+16 september 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes
+
+* Bij het toevoegen van lijstkolommen en zoekvelden wordt nu automatisch een sleutel voorgesteld op basis van de ingevoerde titel. Deze kan indien nodig handmatig worden aangepast
+* In de proceseditor krijgen nieuwe processtappen automatisch een herkenbare ID op basis van hun naam, waardoor processen eenvoudiger te configureren en beheren zijn.
+* Er zijn ook diverse problemen opgelost, waaronder: bestanden die vanuit een building block worden geüpload, worden correct aan de zaak toegevoegd, paginering in zaken- en takenlijsten werkt correct bij sortering, getallen en standaardteksten in formulieren worden weergegeven volgens de gekozen taal, en trage externe systemen blokkeren andere onderdelen van de applicatie niet langer. Daarnaast is de verwerking van trage Zaken- en Objecten API-calls verbeterd en kunnen zoekvelden in takenlijsten zonder titel worden opgeslagen.
+
 ### GZAC Valtimo v13.45.0
 
 9 september 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes
