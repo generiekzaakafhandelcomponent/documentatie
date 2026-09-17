@@ -1,5 +1,9 @@
 # Sprint reviews
 
+17 september 2026
+
+{% embed url="https://vimeo.com/1227709212?share=copy&fl=sv&fe=ci" %}
+
 20 augustus 2026
 
 {% embed url="https://vimeo.com/1219842735?share=copy&fl=sv&fe=ci" %}
