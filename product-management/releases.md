@@ -1,5 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.47.0
+
+23 september 2026 - een nieuwe minor release met nieuwe functionaliteiten, bugfixes en beveiligingsverbeteringen
+
+* De takenwidget biedt nu uitgebreidere filtermogelijkheden. Taken kunnen worden gefilterd op één zaaktype en voorwaarden kunnen flexibel worden gecombineerd, waardoor specifiekere tellingen in één widget mogelijk zijn.
+* De Catalogi API plugin is uitgebreid met nieuwe acties waarmee roltypen van een zaaktype kunnen worden opgehaald en gebruikt binnen processen en formulieren.
+* Het taakpaneel op de zaakdetailpagina kan nu breder of smaller worden gemaakt. De gekozen breedte wordt automatisch onthouden, ook na opnieuw inloggen.
+* Daarnaast is de opstarttijd aanzienlijk verbeterd voor grote zaakdefinities met veel processen.
+* Er zijn ook diverse problemen opgelost, waaronder: building block-acties kunnen correct op andere versies worden opgeslagen en oudere versies van SmartDocuments of Exact zorgen niet langer voor het onbedoeld meenemen van een oudere Valtimo-versie.
+* Tot slot zijn meerdere belangrijke beveiligingsverbeteringen doorgevoerd, waaronder strengere beveiliging van JavaScript-taken en updates voor databaseverbindingen en onderliggende softwarecomponenten.
+
 ### GZAC Valtimo v13.46.0
 
 16 september 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes
