@@ -4,6 +4,7 @@
 
 23 september 2026 - een nieuwe minor release met nieuwe functionaliteiten, bugfixes en beveiligingsverbeteringen
 
+* Er is ondersteuning toegevoegd voor **externe plugins** die buiten de applicatie-backend draaien. Beheerders kunnen deze plugins en externe applicaties rechtstreeks vanuit de beheeromgeving koppelen, installeren, configureren en beheren.
 * De takenwidget biedt nu uitgebreidere filtermogelijkheden. Taken kunnen worden gefilterd op één zaaktype en voorwaarden kunnen flexibel worden gecombineerd, waardoor specifiekere tellingen in één widget mogelijk zijn.
 * De Catalogi API plugin is uitgebreid met nieuwe acties waarmee roltypen van een zaaktype kunnen worden opgehaald en gebruikt binnen processen en formulieren.
 * Het taakpaneel op de zaakdetailpagina kan nu breder of smaller worden gemaakt. De gekozen breedte wordt automatisch onthouden, ook na opnieuw inloggen.
