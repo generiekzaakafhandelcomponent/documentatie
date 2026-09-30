@@ -7,7 +7,7 @@
 * Lopende zaken kunnen nu worden gemigreerd naar een nieuwere versie van de zaakdefinitie. Met een migratieplan kunnen zaakgegevens, actieve processen en building blocks worden overgezet, zodat wijzigingen ook toegepast kunnen worden op zaken die al in behandeling zijn. Migraties kunnen handmatig, gepland of automatisch na een ander migratieplan worden uitgevoerd.
 * Building blocks worden automatisch meegenomen tijdens een zaakmigratie. Ze kunnen naar een nieuwe versie worden overgezet, vervangen, toegevoegd of weer onderdeel worden van de hoofdzaak.
 * De Documenten API plugin is uitgebreid met een nieuwe actie waarmee vanuit een proces een trefwoord aan een bestaand document kan worden toegevoegd.
-* Er zijn ook diverse problemen opgelost,  waarbij het kiezen van een startproces niet het bijbehorende startformulier opende; het startformulier wordt nu weer correct weergegeven en laden zaakpagina’s met meerdere widgets.
+* Er zijn ook diverse problemen opgelost, waaronder een probleem waarbij het kiezen van een startproces niet het bijbehorende startformulier opende. Het startformulier wordt nu weer correct weergegeven en zaakpagina’s met meerdere widgets laden sneller.
 
 ### GZAC Valtimo v13.47.0
 
