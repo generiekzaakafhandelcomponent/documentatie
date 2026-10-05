@@ -1,5 +1,13 @@
 # GZAC Insights
 
+### Q4-2026
+
+Q4 2026 staat in het teken van het verder versterken van het platform door eerder ingezette ontwikkelingen af te ronden en nieuwe functionaliteiten toe te voegen die het dagelijks werken met zaken en documenten verder ondersteunen. De focus ligt op de oplevering van bouwblokkenmigratie en Mijn Zaken, waarmee belangrijke stappen worden gezet in het flexibeler beheren van processen en het verbeteren van de gebruikerservaring.
+
+Daarnaast wordt gewerkt aan verdere ondersteuning voor het werken met documenten. Functionaliteiten rondom objectdocumenten, archiveren en vernietigen worden uitgebreid, zodat documenten gedurende de volledige levenscyclus van een zaak beter kunnen worden beheerd. Ook worden werkvoorraadnotificaties gerealiseerd om gebruikers beter inzicht te geven in openstaande werkzaamheden en relevante wijzigingen.
+
+Kortom, ook in Q4 staan er weer veel mooie en interessante ontwikkelingen op de planning. Stay tuned for future updates...
+
 ### Q3-2026
 
 Q3 2026 staat in het teken van het verder versterken van het platform door het afronden van belangrijke technische vernieuwingen, gecombineerd met de introductie van nieuwe functionaliteiten die de gebruikerservaring verder verbeteren. De focus ligt op de oplevering van dossiermigratie, de afronding van de maatwerk op GZAC en de introductie van continuous sync, waarmee een belangrijke stap wordt gezet in de verdere modernisering van het platform.
@@ -9,6 +17,8 @@ Daarnaast wordt gewerkt aan het verder verbeteren van prestaties en gebruiksgema
 Tot slot wordt de IKO-integratie verder uitgebreid met een reeks functionaliteiten die de samenwerking en informatievoorziening versterken. Zo worden onder andere een visuele mapstructuur, een detailscherm voor OpenProduct, het tonen van zaaknummers in de contactmomentenlijst, directe navigatie van IKO naar GZAC-dossiers en het bekijken van documenten vanuit de Interactive Table Widget gerealiseerd.
 
 Dit alles stond gepland voor Q3. Hieronder een globaal overzicht van het volledige kwartaal, gevolgd door een uitsplitsing en voortgang per maand (juli, augustus en september 2026):
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
