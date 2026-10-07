@@ -1,5 +1,13 @@
 # Releases
 
+### GZAC Valtimo v13.49.0
+
+7 oktober 2026 – een nieuwe minor release met voornamelijk systeemverbeteringen en bugfixes:
+
+* De zakenlijst blijft beschikbaar wanneer externe gegevens voor een zaak niet kunnen worden opgehaald
+* De formulieren blijven in het zijpaneel geopend bij het wisselen tussen zaak-tabs en worden startformulieren op alle tabs correct in het zijpaneel geopend.
+* Daarnaast zijn er diverse problemen opgelost, waaronder: widgets en zoekresultaten tonen nu een duidelijke melding met de mogelijkheid om opnieuw te proberen wanneer gegevens niet geladen kunnen worden, definitieve building blocks kunnen correct naar productieomgevingen worden uitgerold en gebruikte form flows kunnen vanuit conceptversies worden verwijderd en andere...
+
 ### GZAC Valtimo v13.48.0
 
 30 september 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes
