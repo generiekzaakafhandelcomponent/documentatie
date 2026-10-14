@@ -1,5 +1,13 @@
 # Releases
 
+### GZAC Valtimo v13.50.0
+
+14 september 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
+
+* Er is een nieuw zijpaneel toegevoegd waarmee gebruikers taken, formulieren en aanvullende informatie direct naast de zaakdetailpagina kunnen bekijken. Het paneel blijft geopend bij het wisselen tussen zaak-tabs en behoudt de ingevulde formuliergegevens. De breedte kan naar wens worden aangepast en wordt automatisch onthouden.&#x20;
+* Ook externe plugins kunnen informatie in het zijpaneel tonen. Daarnaast past de weergave van actieknoppen zich automatisch aan de beschikbare schermruimte aan, waardoor de interface overzichtelijk blijft.
+* Tot slot zijn diverse beveiligingsverbeteringen doorgevoerd. De toegangscontrole op zaakgegevens, documenten, widgets en procesinformatie is aangescherpt, zodat gebruikers alleen informatie kunnen bekijken waarvoor zij de juiste rechten hebben. Ook is de toegang tot configuratiebestanden beter beveiligd.
+
 ### GZAC Valtimo v13.49.0
 
 7 oktober 2026 – een nieuwe minor release met voornamelijk systeemverbeteringen en bugfixes:
