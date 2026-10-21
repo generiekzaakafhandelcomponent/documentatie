@@ -4,7 +4,7 @@
 
 {% embed url="https://vimeo.com/1236201341" %}
 
-**17 september 2026**
+**17 september 2026 -** Nieuwe documentatiestijl | Verbeteringen in de procesmodellering | Export en import van systeemprocessen | Uitbreiding van functionaliteiten in GZAC
 
 {% embed url="https://vimeo.com/1227709212?share=copy&fl=sv&fe=ci" %}
 
