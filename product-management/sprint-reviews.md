@@ -1,60 +1,60 @@
 # Sprint reviews
 
-15 oktober 2026
+**15 oktober 2026** - Maatwerk op GZAC (externe plugins framework)
 
 {% embed url="https://vimeo.com/1236201341" %}
 
-17 september 2026
+**17 september 2026**
 
 {% embed url="https://vimeo.com/1227709212?share=copy&fl=sv&fe=ci" %}
 
-20 augustus 2026
+**20 augustus 2026** - Taal van de Form.io-datepicker op basis van de gekozen taal | Berichten naar een bouwblok van buiten het bouwblokproces | Continue synchronisatie van bouwblokken | Zoekfunctionaliteit in dropdownlijsten | PBAC data op het dashboard
 
 {% embed url="https://vimeo.com/1219842735?share=copy&fl=sv&fe=ci" %}
 
 
 
-06 augustus 2026
+**06 augustus 2026** - Aantal geüploade bestanden in de Documenten API | Interne status en case-assignee in SSE | Tekstwidget met opgemaakte tekst |Ondersteuning voor het overslaan van timers | Begin- en einddatum bij gekoppelde zaaktypen | Geen opslag van het Form.io-token in local storage | Maatwerk op GZAC - voortgangsupdate
 
 {% embed url="https://vimeo.com/1216092456?share=copy&fl=sv&fe=ci" %}
 
-23 juli 2026
+**23 juli 2026** - Global search | Performanceverbeteringen | Aantal geüploade bestanden in de Documenten API | Realtime updates van het startmenu | Maatwerk op GZAC - voortgangsupdate
 
 {% embed url="https://vimeo.com/1212308977?share=copy&fl=sv&fe=ci" %}
 
-9 juli 2026
+**9 juli 2026**  - Miniatuurweergave voor afbeeldingen | PBAC UI editor | Update van Maatwerk op GZAC
 
 {% embed url="https://vimeo.com/1208400119" %}
 
-25 juni 2026
+**25 juni 2026** - Verbeterde zoekfunctie in de takenlijst | Kolommen verbergen in de takenlijst | Hover-functionaliteit voor dossiernamen in het dossieroverzicht | Verbeteringen aan het tabblad Toegangsbeheer | Metroline-widget voor IKO-overzichten
 
 {% embed url="https://vimeo.com/1204503003?share=copy&fl=sv&fe=ci" %}
 
-11 juni 2026
+**11 juni 2026** -  Verbeterde zoekfunctie in de takenlijst | Kolommen verbergen in de takenlijst | Hover-functionaliteit voor dossiernamen in het dossieroverzicht | Verbeteringen aan het tabblad Toegangsbeheer | Metroline-widget voor IKO-overzichten
 
 {% embed url="https://vimeo.com/1200476917?share=copy&fl=sv&fe=ci" %}
 
-28 mei 2026
+**28 mei 2026** - Vastleggen van Zaakbehandelaar in Open Zaak | Centrale werkvoorraad op basis van zaken, niet zaaktypen | Dossiers per pagina aanpasbaar per dossier | Generieke dossierslijst | Nieuwe widgettypen: Metrolijn / Persoonskaart / Highlight | Ondersteuning voor Nederlandse adressen in de MapWidget | Plug-ins configuraties na importeren | Instellingenpagina met logo en functionaliteit voor feature toggles | Kleurenconfiguraties in beheersinstellingen | Beeld openen in nieuw scherm - IKO / GZAC | Koppeling van gebruiker aan Form.io-widget - IKO / GZAC
 
 {% embed url="https://vimeo.com/1196310854?share=copy&fl=sv&fe=ci" %}
 
-30 april 2026
+**30 april 2026** -  Preview functie voor documenten | Notificaties publiceren vanuit een BPMN-proces | Automatische doorverwijzing naar de nieuw aangemaakte zaak | Documenten met de status “final” modificaties | Uitbreiding PBAC: autorisatie op documenttype voor ZGW-documenten | Bouwblokken: DMN
 
 {% embed url="https://vimeo.com/1188062565?share=copy&fl=sv&fe=ci" %}
 
-16 april 2026
+**16 april 2026** - Samenwerken aan dossiers: Toewijzen naar een candidate group / Teammanagement | Bouwblokken: Form flow management / Ad-hoc starten
 
 {% embed url="https://vimeo.com/1183716134?share=copy&fl=sv&fe=ci" %}
 
-2 april 2026
+**2 april 2026** - GZAC - Generic process - MVP | Bugfixes
 
 {% embed url="https://vimeo.com/1179545079?share=copy&fl=sv&fe=ci" %}
 
-19 maart 2026
+**19 maart 2026** - Samenwerken aan dossiers: Gebruiker en einddatum van taken - andere manier van aanpassen / Ongeopende taken representatie / Taken claimen process / Endpoint voor gebruikers ophalen met PBAC configuratie / Teammanagement | Conditionele zgw-documentautorisaties per zaaktype/casedefinitie | Environment settings - waarschuwingen na import: ontbrekende configuratie / ontbrekende zaaktype / Synchronisatie van case details | Bugfixes
 
 {% embed url="https://vimeo.com/1175162536?share=copy&fl=sv&fe=ci" %}
 
-19 februari 2026
+**19 februari 2026** - Update van Bouwblokken: Gebruikerstaken / Form management / Ondersteuning voor e-mailsjablonen | Widgetkleuren | Wijzigingen in het proces voor het heropenen van zaken | Verwijdering van zaken na afloop van de bewaartermijn | Bugfixes
 
 {% embed url="https://vimeo.com/1167377716?share=copy&fl=sv&fe=ci" %}
 
