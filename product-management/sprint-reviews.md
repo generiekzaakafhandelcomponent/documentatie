@@ -58,35 +58,35 @@
 
 {% embed url="https://vimeo.com/1167377716?share=copy&fl=sv&fe=ci" %}
 
-05 februari 2026
+**05 februari 2026** - Update Bouwblokken: Upload van procesdefinities / Ondersteuning voor onafhankelijke processen | Update voor Zaken API Plugin | Bugfixes
 
 {% embed url="https://vimeo.com/1165716696?share=copy&fl=sv&fe=ci" %}
 
-22 januari 2026
+**22 januari 2026** - Update Bouwblokken | Update voor Documenten API uploader | Logging van Operaton incidenten | Bugfixes
 
 {% embed url="https://vimeo.com/1158441176?share=copy&fl=sv&fe=ci" %}
 
-8 januari 2026
+**8 januari 2026** - Update Bouwblokken | Bugfixes
 
 {% embed url="https://vimeo.com/1156853666?share=copy&fl=sv&fe=ci" %}
 
-11 december 2025
+**11 december 2025** -  Update Bouwblokken | Compacte widgets | Verschillende plugin-verbeteringen | Toegangscontrole op de dashboarddata | Configureerbare retry-policy
 
 {% embed url="https://vimeo.com/1148678535?share=copy&fl=sv&fe=ci" %}
 
-27 november 2025
+**27 november 2025** - Update Bouwblokken | Diverse UI-verbeteringen | Een nieuwe widget
 
 {% embed url="https://vimeo.com/1144550517?share=copy&fl=sv&fe=ci" %}
 
-13 november 2025
+**13 november 2025** - Update Bouwblokken: Importeren / Processkoppelingen / Artwork |OpenZaak-plugin: verwijderen Zaakrol | Minor bugfixes
 
 {% embed url="https://vimeo.com/1140421693?share=copy&fl=sv&fe=ci" %}
 
-30 oktober 2025
+**30 oktober 2025** - Performance verbeteringen  | Bouwblokken definitie | Voorkomen van dubbele dossiers | Bugfixes
 
 {% embed url="https://vimeo.com/1134594532?share=copy&fl=sv&fe=ci" %}
 
-16 oktober 2025
+**16 oktober 2025** -  Dossier informatie panel / dossier 'header' | Compacte dossier widgets design | Performance verbetering (access control permissies, case list) | Persoonlijke dossier tab (snelle zoekfunctie & kolombeheer) - update | Bugfixes
 
 {% embed url="https://vimeo.com/1130150173?share=copy&fl=sv&fe=ci" %}
 
