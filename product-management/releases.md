@@ -1,8 +1,16 @@
 # Releases
 
+### GZAC Valtimo v13.51.0
+
+21 oktober 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
+
+* De Documenten API plugin is uitgebreid met een nieuwe actie waarmee documenten direct vanuit een proces kunnen worden verwijderd. Hierbij worden dezelfde controles uitgevoerd als bij het verwijderen van documenten via de applicatie.
+* De weergave van bedragen in formulieren is verbeterd. Valutasymbolen, duizendtallen, decimalen en negatieve bedragen worden nu correct weergegeven volgens de ingestelde taal- en landinstellingen.
+* Daarnaast zijn enkele problemen opgelost: bij het openen van een taak vanuit een gefilterde takenlijst worden de toegewezen gebruiker en het team weer correct weergegeven. Ook is de beveiliging van foutmeldingen aangescherpt, zodat technische details niet langer standaard zichtbaar zijn voor gebruikers.
+
 ### GZAC Valtimo v13.50.0
 
-14 september 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
+14 oktober 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
 
 * Er is een nieuw zijpaneel toegevoegd waarmee gebruikers taken, formulieren en aanvullende informatie direct naast de zaakdetailpagina kunnen bekijken. Het paneel blijft geopend bij het wisselen tussen zaak-tabs en behoudt de ingevulde formuliergegevens. De breedte kan naar wens worden aangepast en wordt automatisch onthouden.&#x20;
 * Ook externe plugins kunnen informatie in het zijpaneel tonen. Daarnaast past de weergave van actieknoppen zich automatisch aan de beschikbare schermruimte aan, waardoor de interface overzichtelijk blijft.
