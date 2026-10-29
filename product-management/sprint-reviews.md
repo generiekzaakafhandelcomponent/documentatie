@@ -1,5 +1,11 @@
 # Sprint reviews
 
+**29 oktober 2026 -** Dossier migratie
+
+{% embed url="https://vimeo.com/1240770585" %}
+
+
+
 **15 oktober 2026** - Maatwerk op GZAC (externe plugins framework)
 
 {% embed url="https://vimeo.com/1236201341" %}
