@@ -1,5 +1,12 @@
 # Releases
 
+### GZAC Valtimo v13.52.0
+
+28 oktober 2026 - een nieuwe minor release met nieuwe bugfixes:
+
+* Er zijn ook diverse problemen opgelost, waaronder: zaakdetailpagina’s zonder headerwidget worden correct geopend, formulieren kunnen niet meer per ongeluk meerdere keren worden verzonden, foutmeldingen vanuit plugins worden correct verwerkt binnen processen en building blocks, dashboardwidgets tonen nauwkeurige aantallen en wijzigingen in taken worden correct opgeslagen. Daarnaast verdwijnen afgeronde taken direct uit de takenlijst.
+* Tot slot zijn meerdere belangrijke beveiligingsverbeteringen doorgevoerd. De toegang tot procesgegevens en beheerfunctionaliteiten is verder beperkt tot bevoegde gebruikers. Ook is de beveiliging van JavaScript-uitvoering aangescherpt en wordt voorkomen dat gevoelige informatie via formulieren of tussentijdse opslag toegankelijk wordt.
+
 ### GZAC Valtimo v13.51.0
 
 21 oktober 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
