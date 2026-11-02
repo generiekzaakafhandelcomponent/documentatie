@@ -6,7 +6,9 @@ Q4 2026 staat in het teken van het verder versterken van het platform door eerde
 
 Daarnaast wordt gewerkt aan verdere ondersteuning voor het werken met documenten. Functionaliteiten rondom objectdocumenten, archiveren en vernietigen worden uitgebreid, zodat documenten gedurende de volledige levenscyclus van een zaak beter kunnen worden beheerd. Ook worden werkvoorraadnotificaties gerealiseerd om gebruikers beter inzicht te geven in openstaande werkzaamheden en relevante wijzigingen.
 
-Kortom, ook in Q4 staan er weer veel mooie en interessante ontwikkelingen op de planning. Stay tuned for future updates...
+Kortom, ook in Q4 staan er weer veel mooie en interessante ontwikkelingen op de planning. Laten we kort terugblikken op oktober 2026 en de stand van zaken doornemen.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-11-02 at 13.49.19.png" alt=""><figcaption></figcaption></figure>
 
 ### Q3-2026
 
