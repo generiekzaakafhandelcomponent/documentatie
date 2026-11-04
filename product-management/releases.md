@@ -1,5 +1,15 @@
 # Releases
 
+### GZAC Valtimo v13.53.0
+
+4 november 2026 - een nieuwe minor release met nieuwe bugfixes en functionaliteiten:
+
+* Zaakdefinities kunnen nu worden samengevoegd in zaakgroepen, met één gezamenlijk zakenoverzicht en eigen lijstkolommen en zoekvelden. Zaakgroepen kunnen via de beheeromgeving worden aangemaakt, beheerd, geëxporteerd en geïmporteerd.
+* Er is een nieuw zakenoverzicht toegevoegd waarin gebruikers alle zaakgroepen en zaaktypen kunnen bekijken waarvoor zij toegang hebben. Veelgebruikte onderdelen kunnen worden vastgezet in het navigatiemenu en zaakgroepen en zaaktypen kunnen een eigen kleur krijgen.
+* De weergave van documentacties is verbeterd. Acties die niet beschikbaar zijn, kunnen nu volledig worden verborgen en plugins kunnen eigen acties toevoegen.&#x20;
+* Langere teksten van meer dan 4.000 tekens kunnen nu correct worden opgeslagen en weergegeven in formulieren.
+* Er zijn ook diverse problemen opgelost, waaronder: zaken zonder status kunnen weer correct worden geopend, zaakdefinities met bestaande building blocks kunnen worden geïmporteerd, instellingen in de proceseditor blijven behouden en widgets houden correct rekening met ingestelde voorwaarden en toegangsrechten. Ook zijn problemen met dubbele procesvermeldingen bij imports en het invoeren van widgetvoorwaarden verholpen.
+
 ### GZAC Valtimo v13.52.0
 
 28 oktober 2026 - een nieuwe minor release met nieuwe bugfixes:
