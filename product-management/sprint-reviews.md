@@ -1,5 +1,9 @@
 # Sprint reviews
 
+**12 november  2026 -** Mijn Zaken
+
+{% embed url="https://vimeo.com/1246261320" %}
+
 **29 oktober 2026 -** Dossier migratie
 
 {% embed url="https://vimeo.com/1240770585" %}
