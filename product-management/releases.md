@@ -1,5 +1,14 @@
 # Releases
 
+### GZAC Valtimo v13.55.0
+
+18 november 2026 - een nieuwe minor release met nieuwe functionaliteiten en bugfixes:
+
+* Het beheer van OpenSearch is uitgebreid met een nieuw overzicht van zaken die niet correct zijn geïndexeerd. Beheerders kunnen zien welke zaken problemen hebben en deze afzonderlijk of allemaal tegelijk opnieuw laten verwerken.
+* Daarnaast is het opnieuw opbouwen van zoekindexen verbeterd. Dit kan nu per zaakdefinitie worden uitgevoerd, zonder dat de zakenlijsten tijdelijk onbeschikbaar worden. Bij het inschakelen van OpenSearch worden bestaande zaken automatisch op de achtergrond geïndexeerd.
+* De prestaties van team- en zakenlijsten zijn verbeterd, vooral in omgevingen met veel teams of gebruikers. Ook kan de sleutel van een dashboard voortaan handmatig worden aangepast.
+* Er zijn diverse problemen opgelost, waaronder: zaken blijven zichtbaar wanneer het indexeren niet lukt, zoekresultaten worden correct weergegeven bij verschillende veldtypen, het startmenu wordt automatisch bijgewerkt bij statuswijzigingen en het aanpassen van de volgorde van tabs en widgets werkt weer in Safari. Daarnaast zijn verbeteringen doorgevoerd voor imports, dashboards, toegangsrechten, proceslinks en de Notificaties API.
+
 ### GZAC Valtimo v13.54.0
 
 11 november 2026 - een nieuwe minor release met nieuwe bugfixes en functionaliteiten:
